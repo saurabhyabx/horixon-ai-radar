@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
-<title>Horixon — Founders</title><link>https://example.github.io/horixon-ai-radar/feed/category/founders.xml</link><description>Founders stories from Horixon.</description>
-<atom:link href="https://example.github.io/horixon-ai-radar/feed/category/founders.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 24 Nov 2026 15:24:20 GMT</lastBuildDate>
+<title>Horixon — Founders</title><link>https://saurabhyabx.github.io/horixon-ai-radar/feed/category/founders.xml</link><description>Founders stories from Horixon.</description>
+<atom:link href="https://saurabhyabx.github.io/horixon-ai-radar/feed/category/founders.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Tue, 24 Nov 2026 15:35:24 GMT</lastBuildDate>
 <item><title>[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft</title><link>https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft</link><guid isPermaLink="false">a43a2373bab7</guid><pubDate>Tue, 24 Nov 2026 04:14:16 GMT</pubDate><description>November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit. — Source: Latent Space</description><category>founders</category></item>
 <item><title>Supertake raises $20M to let AI agents turn your market predictions into stock portfolios</title><link>https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios</link><guid isPermaLink="false">388f4aa5f277</guid><pubDate>Mon, 23 Nov 2026 22:02:05 GMT</pubDate><description>Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself. — Source: TechCrunch AI</description><category>founders</category></item>
 <item><title>How to build and maintain an agentic evaluation</title><link>https://huggingface.co/blog/agentic-evals</link><guid isPermaLink="false">6fd4c32fe34a</guid><pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate><description>Source: Hugging Face Blog</description><category>founders</category></item>

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:24:12.381Z",
+  "generatedAt": "2026-11-24T15:35:21.724Z",
   "items": [
     {
       "id": "ef8096d74f5d",
@@ -15,8 +15,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T12:40:15Z",
       "meta": {
-        "points": 397,
-        "comments": 173
+        "points": 430,
+        "comments": 187
       },
       "badges": [],
       "lang": "en",
@@ -25,7 +25,7 @@
       "tags": [
         "agents"
       ],
-      "score": 81,
+      "score": 82,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
@@ -75,7 +75,7 @@
       "publishedAt": "2026-11-23T22:09:10Z",
       "meta": {
         "points": 343,
-        "comments": 311
+        "comments": 312
       },
       "badges": [],
       "lang": "en",
@@ -97,7 +97,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -117,11 +117,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "summary": "image-text-to-text · 1201 likes",
+      "summary": "image-text-to-text · 1202 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -141,11 +141,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
-      "summary": "audio-to-audio · inworld-voice-isolation · 779 likes",
+      "summary": "audio-to-audio · inworld-voice-isolation · 780 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -182,6 +182,30 @@
       ],
       "score": 61,
       "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "a1954c7a4413",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
+      "domain": "technologyreview.com",
+      "source": "MIT Technology Review AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T15:15:16.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "agents"
+      ],
+      "score": 59,
+      "firstSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "f8cdc496b0bc",
@@ -723,30 +747,6 @@
         "coding"
       ],
       "score": 51,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "1ee9f5994a81",
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "url": "https://technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument",
-      "domain": "technologyreview.com",
-      "source": "MIT Technology Review AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model…",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-23T17:36:08.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "anthropic"
-      ],
-      "score": 50,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     }
   ]

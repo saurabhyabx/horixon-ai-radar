@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-11-24T15:24:12.381Z",
+  "updatedAt": "2026-11-24T15:35:21.724Z",
   "items": [
+    {
+      "id": "a1954c7a4413",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
+      "domain": "technologyreview.com",
+      "source": "MIT Technology Review AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T15:15:16.000Z",
+      "engagement": 40,
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "agents"
+      ],
+      "score": 59,
+      "firstSeen": "2026-11-24T15:35:21.724Z",
+      "lastSeen": "2026-11-24T15:35:21.724Z"
+    },
     {
       "id": "ef8096d74f5d",
       "title": "LLM agents work for their parent companies, not for you",
@@ -14,10 +40,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-24T12:40:15Z",
-      "engagement": 97,
+      "engagement": 100,
       "meta": {
-        "points": 397,
-        "comments": 173
+        "points": 430,
+        "comments": 187
       },
       "badges": [],
       "lang": "en",
@@ -26,9 +52,9 @@
       "tags": [
         "agents"
       ],
-      "score": 81,
+      "score": 82,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "5094532b4e2e",
@@ -62,7 +88,7 @@
       ],
       "score": 76,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "7e689a2455fd",
@@ -80,7 +106,7 @@
       "engagement": 100,
       "meta": {
         "points": 343,
-        "comments": 311
+        "comments": 312
       },
       "badges": [],
       "lang": "en",
@@ -89,7 +115,7 @@
       "tags": [],
       "score": 76,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "42afc3642f4f",
@@ -106,8 +132,8 @@
       "publishedAt": "2026-11-23T18:48:10Z",
       "engagement": 100,
       "meta": {
-        "points": 604,
-        "comments": 150
+        "points": 605,
+        "comments": 151
       },
       "badges": [],
       "lang": "en",
@@ -118,7 +144,7 @@
       ],
       "score": 74,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "376e66667fe0",
@@ -136,7 +162,7 @@
       "engagement": 91,
       "meta": {
         "points": 298,
-        "comments": 313
+        "comments": 314
       },
       "badges": [],
       "lang": "en",
@@ -145,7 +171,7 @@
       "tags": [],
       "score": 70,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "35cfea2e7f27",
@@ -172,7 +198,7 @@
       "tags": [],
       "score": 68,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "5a38c81d0fbc",
@@ -189,7 +215,7 @@
       "publishedAt": "2026-11-23T20:52:54Z",
       "engagement": 80,
       "meta": {
-        "points": 340,
+        "points": 341,
         "comments": 117
       },
       "badges": [],
@@ -199,7 +225,7 @@
       "tags": [],
       "score": 68,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "1ba4d31258de",
@@ -228,7 +254,7 @@
       ],
       "score": 65,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "0aa5413f300e",
@@ -257,7 +283,7 @@
       ],
       "score": 65,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "677c0e35fb16",
@@ -284,7 +310,34 @@
       "tags": [],
       "score": 65,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
+    },
+    {
+      "id": "35056578cef2",
+      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+      "url": "https://github.com/ItsNotRexed/Leonida/issues",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50622638",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T02:08:09Z",
+      "engagement": 61,
+      "meta": {
+        "points": 190,
+        "comments": 229
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 64,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "b2c084a41275",
@@ -319,7 +372,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "549a77347d5e",
@@ -353,7 +406,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "99ccc673a30f",
@@ -367,7 +420,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -380,7 +433,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "67c4c2c31439",
@@ -390,11 +443,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "summary": "image-text-to-text · 1201 likes",
+      "summary": "image-text-to-text · 1202 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -407,7 +460,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "74c05f88e457",
@@ -417,11 +470,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
-      "summary": "audio-to-audio · inworld-voice-isolation · 779 likes",
+      "summary": "audio-to-audio · inworld-voice-isolation · 780 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -434,7 +487,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "b4f1a99333cf",
@@ -448,7 +501,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -461,7 +514,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "9dc3bbb2d9bc",
@@ -475,7 +528,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -488,7 +541,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "dc79824f7494",
@@ -502,7 +555,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -515,7 +568,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "6518fbd35a14",
@@ -529,7 +582,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -542,34 +595,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "35056578cef2",
-      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
-      "url": "https://github.com/ItsNotRexed/Leonida/issues",
-      "domain": "github.com",
-      "source": "Hacker News",
-      "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50622638",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T02:08:09Z",
-      "engagement": 58,
-      "meta": {
-        "points": 181,
-        "comments": 214
-      },
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "github",
-      "tags": [],
-      "score": 63,
-      "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "beca06c30df7",
@@ -598,7 +624,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "51845c6107b0",
@@ -608,11 +634,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/SulphurAI/Sulphur-3",
-      "summary": "minimax-h3 · 872 likes",
+      "summary": "minimax-h3 · 873 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 56,
       "meta": {},
       "badges": [],
@@ -623,7 +649,7 @@
       "tags": [],
       "score": 62,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "f3f6304a8cca",
@@ -651,7 +677,7 @@
       ],
       "score": 61,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "61921e217038",
@@ -684,7 +710,7 @@
       ],
       "score": 60,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "6e79aa7018b0",
@@ -718,7 +744,7 @@
       ],
       "score": 60,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "4b443d68faa9",
@@ -728,12 +754,12 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-      "summary": "image-text-to-text · transformers · 663 likes",
+      "summary": "image-text-to-text · transformers · 664 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
-      "engagement": 51,
+      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "engagement": 50,
       "meta": {},
       "badges": [],
       "hint": "models",
@@ -745,7 +771,7 @@
       ],
       "score": 60,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "6f06a2856d59",
@@ -759,7 +785,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 49,
       "meta": {},
       "badges": [],
@@ -772,7 +798,7 @@
       ],
       "score": 59,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "f8cdc496b0bc",
@@ -798,7 +824,7 @@
       ],
       "score": 59,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "b1ae1a6721c6",
@@ -825,7 +851,7 @@
       "tags": [],
       "score": 58,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "817dd59c1bdb",
@@ -835,11 +861,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/apple/DepthPro2",
-      "summary": "depth-estimation · depth-pro-2 · 1166 likes",
+      "summary": "depth-estimation · depth-pro-2 · 1167 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 46,
       "meta": {},
       "badges": [],
@@ -850,7 +876,7 @@
       "tags": [],
       "score": 58,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "4958e8f6f01d",
@@ -860,11 +886,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
-      "summary": "Trending demo · gradio · 695 likes",
+      "summary": "Trending demo · gradio · 696 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 44,
       "meta": {},
       "badges": [],
@@ -875,7 +901,7 @@
       "tags": [],
       "score": 57,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "6c64301c09e0",
@@ -889,7 +915,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 42,
       "meta": {},
       "badges": [],
@@ -902,7 +928,7 @@
       ],
       "score": 57,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "1d0c151fefed",
@@ -931,7 +957,7 @@
       ],
       "score": 57,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "bf4d79992d6e",
@@ -955,7 +981,7 @@
       "tags": [],
       "score": 57,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "93ffeb95d252",
@@ -990,7 +1016,7 @@
       ],
       "score": 56,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "792a379cd094",
@@ -1016,7 +1042,7 @@
       "tags": [],
       "score": 56,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "ae6e6a35191d",
@@ -1043,7 +1069,7 @@
       "tags": [],
       "score": 56,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "04ce1345cda9",
@@ -1057,7 +1083,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 40,
       "meta": {},
       "badges": [],
@@ -1071,7 +1097,7 @@
       ],
       "score": 56,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "39c2da17cef6",
@@ -1099,7 +1125,7 @@
       ],
       "score": 56,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "61dcf1169479",
@@ -1127,7 +1153,7 @@
       ],
       "score": 56,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "ca38829e7312",
@@ -1153,7 +1179,7 @@
       "tags": [],
       "score": 56,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "a88353929e99",
@@ -1181,7 +1207,7 @@
       ],
       "score": 56,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "fb7a1ad02384",
@@ -1207,7 +1233,7 @@
       ],
       "score": 56,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "f527f13aec26",
@@ -1234,7 +1260,7 @@
       ],
       "score": 55,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "d969f4fdc5d1",
@@ -1259,7 +1285,7 @@
       "tags": [],
       "score": 55,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "cd73459784d8",
@@ -1273,7 +1299,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 36,
       "meta": {},
       "badges": [],
@@ -1284,7 +1310,7 @@
       "tags": [],
       "score": 55,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "eb0c65b2b58f",
@@ -1315,7 +1341,7 @@
       ],
       "score": 55,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "229378e917f8",
@@ -1341,7 +1367,7 @@
       ],
       "score": 55,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "0945ed72c0a3",
@@ -1356,10 +1382,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-24T04:00:28Z",
-      "engagement": 33,
+      "engagement": 34,
       "meta": {
-        "points": 140,
-        "comments": 52
+        "points": 142,
+        "comments": 53
       },
       "badges": [],
       "lang": "en",
@@ -1368,7 +1394,7 @@
       "tags": [],
       "score": 55,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "3b1f8072ba29",
@@ -1395,7 +1421,7 @@
       ],
       "score": 54,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "a43a2373bab7",
@@ -1423,7 +1449,7 @@
       ],
       "score": 54,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "4afc8eab030c",
@@ -1437,7 +1463,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 33,
       "meta": {},
       "badges": [],
@@ -1450,7 +1476,7 @@
       ],
       "score": 54,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "a9dba7a83e26",
@@ -1481,7 +1507,7 @@
       "tags": [],
       "score": 53,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "6a66367e6dd0",
@@ -1516,7 +1542,7 @@
       ],
       "score": 53,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "f3349335f15c",
@@ -1543,7 +1569,7 @@
       ],
       "score": 53,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "e01f40ad4660",
@@ -1568,7 +1594,7 @@
       "tags": [],
       "score": 53,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "b58a73be1715",
@@ -1593,7 +1619,7 @@
       "tags": [],
       "score": 53,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "7e8ec09429d0",
@@ -1603,11 +1629,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "summary": "text-to-image · diffusers · 875 likes",
+      "summary": "text-to-image · diffusers · 876 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 32,
       "meta": {},
       "badges": [],
@@ -1620,7 +1646,7 @@
       ],
       "score": 53,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "43b498f2b7e3",
@@ -1648,7 +1674,7 @@
       ],
       "score": 52,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "012a59ac5286",
@@ -1674,7 +1700,7 @@
       ],
       "score": 52,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "e7b239a8ed6c",
@@ -1702,7 +1728,7 @@
       ],
       "score": 52,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "dfed399237cb",
@@ -1727,7 +1753,7 @@
       "tags": [],
       "score": 52,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "cccf264ced5f",
@@ -1741,7 +1767,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 29,
       "meta": {},
       "badges": [],
@@ -1752,7 +1778,7 @@
       "tags": [],
       "score": 52,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "3400785e0033",
@@ -1769,7 +1795,7 @@
       "publishedAt": "2026-11-21T14:40:27Z",
       "engagement": 100,
       "meta": {
-        "stars": 3501,
+        "stars": 3504,
         "language": "Rust"
       },
       "badges": [
@@ -1785,7 +1811,7 @@
       ],
       "score": 51,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "81ecb7742efe",
@@ -1812,7 +1838,7 @@
       "tags": [],
       "score": 51,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "f8a4e02f4212",
@@ -1841,7 +1867,7 @@
       ],
       "score": 51,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "e951dc8237f2",
@@ -1855,7 +1881,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 25,
       "meta": {},
       "badges": [],
@@ -1866,7 +1892,7 @@
       "tags": [],
       "score": 51,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "e0ad3efb80c2",
@@ -1884,7 +1910,7 @@
       "engagement": 16,
       "meta": {
         "points": 65,
-        "comments": 25
+        "comments": 27
       },
       "badges": [],
       "lang": "en",
@@ -1893,7 +1919,7 @@
       "tags": [],
       "score": 51,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "31bc9b6a5600",
@@ -1908,10 +1934,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-24T13:19:31Z",
-      "engagement": 10,
+      "engagement": 12,
       "meta": {
-        "points": 43,
-        "comments": 14
+        "points": 48,
+        "comments": 23
       },
       "badges": [],
       "lang": "en",
@@ -1920,7 +1946,34 @@
       "tags": [],
       "score": 51,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
+    },
+    {
+      "id": "1951d3d0aee3",
+      "title": "Declare is a UI language for you and your AI",
+      "url": "https://davidtemkin.github.io/declarelang",
+      "domain": "davidtemkin.github.io",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50622854",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T02:36:56Z",
+      "engagement": 23,
+      "meta": {
+        "points": 83,
+        "comments": 59
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 51,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "1ee9f5994a81",
@@ -1935,7 +1988,7 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-23T17:36:08.000Z",
-      "engagement": 40,
+      "engagement": 36,
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -1946,7 +1999,7 @@
       ],
       "score": 50,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "388f4aa5f277",
@@ -1973,7 +2026,7 @@
       ],
       "score": 50,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "50bbe0428a67",
@@ -2001,7 +2054,7 @@
       ],
       "score": 50,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "462241ce30c3",
@@ -2028,7 +2081,7 @@
       ],
       "score": 50,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "84eda138c905",
@@ -2042,7 +2095,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 24,
       "meta": {},
       "badges": [],
@@ -2053,7 +2106,7 @@
       "tags": [],
       "score": 50,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "c104e2bbac6a",
@@ -2067,7 +2120,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 23,
       "meta": {},
       "badges": [],
@@ -2078,34 +2131,7 @@
       "tags": [],
       "score": 50,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "1951d3d0aee3",
-      "title": "Declare is a UI language for you and your AI",
-      "url": "https://davidtemkin.github.io/declarelang",
-      "domain": "davidtemkin.github.io",
-      "source": "Hacker News",
-      "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50622854",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T02:36:56Z",
-      "engagement": 22,
-      "meta": {
-        "points": 82,
-        "comments": 57
-      },
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 50,
-      "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "b7d843146d1a",
@@ -2140,7 +2166,7 @@
       ],
       "score": 49,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "2295ea87e900",
@@ -2173,7 +2199,7 @@
       ],
       "score": 49,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "b0da3d1e88e0",
@@ -2200,7 +2226,7 @@
       "tags": [],
       "score": 49,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "680b35173b97",
@@ -2229,7 +2255,7 @@
       ],
       "score": 49,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "b7175444dd03",
@@ -2255,7 +2281,7 @@
       ],
       "score": 49,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "537965d7de45",
@@ -2281,7 +2307,7 @@
       ],
       "score": 49,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "972640f78a70",
@@ -2307,7 +2333,7 @@
       ],
       "score": 49,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "0d29f7892d02",
@@ -2332,7 +2358,7 @@
       "tags": [],
       "score": 49,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "4a8621c7d805",
@@ -2360,7 +2386,7 @@
       ],
       "score": 49,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "49d89718ab21",
@@ -2374,7 +2400,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 20,
       "meta": {},
       "badges": [],
@@ -2385,7 +2411,7 @@
       "tags": [],
       "score": 49,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "3120537bb3c8",
@@ -2423,7 +2449,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "engagement": 18,
       "meta": {},
       "badges": [],
@@ -2434,7 +2460,7 @@
       "tags": [],
       "score": 48,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "6fd4c32fe34a",
@@ -2462,7 +2488,7 @@
       ],
       "score": 47,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "5b1a69d858f9",
@@ -2488,7 +2514,7 @@
       ],
       "score": 47,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "7bdc82557174",
@@ -2512,7 +2538,7 @@
       "tags": [],
       "score": 47,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "2dac6f709f49",
@@ -2536,7 +2562,7 @@
       "tags": [],
       "score": 47,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "b7fc35d5ccf0",
@@ -2562,7 +2588,7 @@
       ],
       "score": 47,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "d66602a90479",
@@ -2580,7 +2606,7 @@
       "engagement": 12,
       "meta": {
         "points": 53,
-        "comments": 15
+        "comments": 16
       },
       "badges": [],
       "lang": "en",
@@ -2589,7 +2615,7 @@
       "tags": [],
       "score": 47,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "19599299ebea",
@@ -2616,7 +2642,7 @@
       "tags": [],
       "score": 46,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "4911b74e4354",
@@ -2652,7 +2678,7 @@
       ],
       "score": 46,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "04f12e6ac6a0",
@@ -2685,7 +2711,7 @@
       ],
       "score": 46,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "a258e8bbcd94",
@@ -2712,7 +2738,7 @@
       "tags": [],
       "score": 46,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "1457613dc9f1",
@@ -2738,7 +2764,7 @@
       ],
       "score": 46,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "e277391e1ad3",
@@ -2755,8 +2781,8 @@
       "publishedAt": "2026-11-23T20:14:18Z",
       "engagement": 18,
       "meta": {
-        "points": 74,
-        "comments": 27
+        "points": 75,
+        "comments": 28
       },
       "badges": [],
       "lang": "en",
@@ -2767,7 +2793,7 @@
       ],
       "score": 46,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "8f20e5199f55",
@@ -2794,7 +2820,7 @@
       "tags": [],
       "score": 46,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "66cc673a6baa",
@@ -2820,7 +2846,7 @@
       ],
       "score": 45,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "9d5c4f64f5c7",
@@ -2847,7 +2873,7 @@
       ],
       "score": 45,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "a05c3134ff48",
@@ -2874,7 +2900,7 @@
       "tags": [],
       "score": 45,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "588f7b0a1e0d",
@@ -2900,7 +2926,7 @@
       ],
       "score": 44,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "0908ebe9dc86",
@@ -2926,7 +2952,7 @@
       ],
       "score": 44,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "b1b9880b617a",
@@ -2953,7 +2979,7 @@
       "tags": [],
       "score": 44,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "a0fdeedf3c9a",
@@ -2982,7 +3008,7 @@
       ],
       "score": 43,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "28accc48ae51",
@@ -3009,7 +3035,7 @@
       "tags": [],
       "score": 43,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "66f465ca1bf3",
@@ -3026,7 +3052,7 @@
       "publishedAt": "2026-11-24T02:39:01Z",
       "engagement": 6,
       "meta": {
-        "stars": 112,
+        "stars": 113,
         "language": "Python"
       },
       "badges": [
@@ -3041,7 +3067,7 @@
       ],
       "score": 43,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "f91fd45d0a92",
@@ -3069,7 +3095,7 @@
       ],
       "score": 42,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "8ed5b87b7fa4",
@@ -3104,7 +3130,7 @@
       ],
       "score": 42,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "1793f4fe05b1",
@@ -3130,7 +3156,7 @@
       ],
       "score": 42,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "6627e001d76d",
@@ -3156,7 +3182,7 @@
       ],
       "score": 42,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "e63c50b367bc",
@@ -3182,7 +3208,7 @@
       ],
       "score": 42,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "932119e2ecf9",
@@ -3206,7 +3232,7 @@
       "tags": [],
       "score": 42,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "7f245206e65f",
@@ -3230,7 +3256,7 @@
       "tags": [],
       "score": 41,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "f955d48edeaa",
@@ -3254,7 +3280,7 @@
       "tags": [],
       "score": 40,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "62898b4a825e",
@@ -3278,7 +3304,7 @@
       "tags": [],
       "score": 40,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "7187e45d9dab",
@@ -3305,7 +3331,7 @@
       "tags": [],
       "score": 40,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "bcd46b31597c",
@@ -3335,7 +3361,7 @@
       ],
       "score": 39,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "be1d4a856af8",
@@ -3366,7 +3392,7 @@
       "tags": [],
       "score": 39,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "49258f2ca6af",
@@ -3392,7 +3418,7 @@
       ],
       "score": 39,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "972466c30f9c",
@@ -3423,7 +3449,7 @@
       ],
       "score": 39,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "26e2979e9c83",
@@ -3452,7 +3478,7 @@
       ],
       "score": 38,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "8db25d470a20",
@@ -3482,7 +3508,7 @@
       "tags": [],
       "score": 38,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "267f3fcb18b2",
@@ -3515,7 +3541,7 @@
       ],
       "score": 38,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "b0d71194e0ab",
@@ -3532,7 +3558,7 @@
       "publishedAt": "2026-11-22T16:44:10Z",
       "engagement": 30,
       "meta": {
-        "stars": 590,
+        "stars": 591,
         "language": "Rust"
       },
       "badges": [
@@ -3547,7 +3573,7 @@
       ],
       "score": 37,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "2653cf2f9615",
@@ -3574,7 +3600,7 @@
       "tags": [],
       "score": 37,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "289c8aeddacd",
@@ -3600,7 +3626,7 @@
       ],
       "score": 37,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "c0f0d587f46b",
@@ -3627,7 +3653,7 @@
       "tags": [],
       "score": 37,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "69aed33940f7",
@@ -3658,7 +3684,7 @@
       ],
       "score": 37,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "4886ca7677fc",
@@ -3685,7 +3711,7 @@
       "tags": [],
       "score": 37,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "d0745af5ad07",
@@ -3711,7 +3737,7 @@
       ],
       "score": 37,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "db0a6263d507",
@@ -3739,7 +3765,7 @@
       ],
       "score": 35,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "770a34dc0c64",
@@ -3766,7 +3792,7 @@
       "tags": [],
       "score": 35,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "8b4b8bbecfaf",
@@ -3783,7 +3809,7 @@
       "publishedAt": "2026-11-19T04:58:46Z",
       "engagement": 51,
       "meta": {
-        "stars": 1011,
+        "stars": 1022,
         "language": "TypeScript"
       },
       "badges": [
@@ -3800,7 +3826,7 @@
       ],
       "score": 34,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "de5cd1a6d51d",
@@ -3828,7 +3854,7 @@
       ],
       "score": 34,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "8cc270b18470",
@@ -3854,7 +3880,7 @@
       ],
       "score": 34,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "5c30da3ec882",
@@ -3871,7 +3897,7 @@
       "publishedAt": "2026-11-23T06:25:04Z",
       "engagement": 4,
       "meta": {
-        "stars": 74,
+        "stars": 75,
         "language": "Python"
       },
       "badges": [
@@ -3884,7 +3910,7 @@
       "tags": [],
       "score": 34,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "e771adae4008",
@@ -3913,7 +3939,7 @@
       "tags": [],
       "score": 33,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "72376a6a0b90",
@@ -3940,7 +3966,7 @@
       "tags": [],
       "score": 33,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "0c6bcdb9d2ee",
@@ -3969,7 +3995,7 @@
       ],
       "score": 32,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "a306cf002b91",
@@ -3986,7 +4012,7 @@
       "publishedAt": "2026-11-21T15:49:31Z",
       "engagement": 29,
       "meta": {
-        "stars": 575,
+        "stars": 576,
         "language": "TypeScript"
       },
       "badges": [
@@ -4002,7 +4028,7 @@
       ],
       "score": 26,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "791704e6d743",
@@ -4019,7 +4045,7 @@
       "publishedAt": "2026-11-21T20:26:12Z",
       "engagement": 22,
       "meta": {
-        "stars": 433,
+        "stars": 436,
         "language": "Rust"
       },
       "badges": [
@@ -4034,7 +4060,7 @@
       ],
       "score": 26,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "361586e9a0c0",
@@ -4051,7 +4077,7 @@
       "publishedAt": "2026-11-21T06:54:24Z",
       "engagement": 27,
       "meta": {
-        "stars": 543,
+        "stars": 546,
         "language": "TypeScript"
       },
       "badges": [
@@ -4068,7 +4094,7 @@
       ],
       "score": 25,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "21bd1d482ae2",
@@ -4094,7 +4120,7 @@
       ],
       "score": 24,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "197dc8b3ac4d",
@@ -4111,7 +4137,7 @@
       "publishedAt": "2026-11-20T11:01:20Z",
       "engagement": 19,
       "meta": {
-        "stars": 374,
+        "stars": 376,
         "language": "Python"
       },
       "badges": [
@@ -4124,7 +4150,7 @@
       "tags": [],
       "score": 23,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "dbd90f1ed24c",
@@ -4154,7 +4180,7 @@
       "tags": [],
       "score": 23,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "318c5b997744",
@@ -4186,7 +4212,7 @@
       ],
       "score": 23,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "d84a827a27d6",
@@ -4216,7 +4242,7 @@
       "tags": [],
       "score": 19,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "e24e1be6f620",
@@ -4248,7 +4274,7 @@
       ],
       "score": 19,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "48cd0f5279b8",
@@ -4278,7 +4304,7 @@
       "tags": [],
       "score": 18,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "0cced6b62981",
@@ -4295,7 +4321,7 @@
       "publishedAt": "2026-11-20T12:39:45Z",
       "engagement": 6,
       "meta": {
-        "stars": 128,
+        "stars": 129,
         "language": "JavaScript"
       },
       "badges": [
@@ -4310,7 +4336,7 @@
       ],
       "score": 18,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "54d1d6a0fc23",
@@ -4342,7 +4368,7 @@
       ],
       "score": 18,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "510ba3d15fa9",
@@ -4372,7 +4398,7 @@
       "tags": [],
       "score": 18,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "c177025b2c55",
@@ -4405,7 +4431,7 @@
       ],
       "score": 18,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "92650bcb3d98",
@@ -4435,7 +4461,7 @@
       "tags": [],
       "score": 17,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "65599008ca0f",
@@ -4465,7 +4491,7 @@
       "tags": [],
       "score": 17,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "f72ddee8dc8a",
@@ -4497,7 +4523,7 @@
       ],
       "score": 17,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "ddd7c633c934",
@@ -4530,7 +4556,7 @@
       ],
       "score": 17,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "ba7096a5382b",
@@ -4560,7 +4586,7 @@
       "tags": [],
       "score": 17,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-24T15:24:12.381Z"
+      "lastSeen": "2026-11-24T15:35:21.724Z"
     }
   ]
 }

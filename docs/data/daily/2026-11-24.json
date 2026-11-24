@@ -1,9 +1,9 @@
 {
   "date": "2026-11-24",
   "issue": 1,
-  "generatedAt": "2026-11-24T15:24:20.029Z",
+  "generatedAt": "2026-11-24T15:35:24.739Z",
   "stats": {
-    "stories": 162,
+    "stories": 163,
     "sources": 20,
     "firstParty": 11,
     "readMinutes": 21
@@ -22,8 +22,8 @@
     "extraLinks": [],
     "publishedAt": "2026-11-24T12:40:15Z",
     "meta": {
-      "points": 397,
-      "comments": 173
+      "points": 430,
+      "comments": 187
     },
     "badges": [],
     "lang": "en",
@@ -32,7 +32,7 @@
     "tags": [
       "agents"
     ],
-    "score": 81,
+    "score": 82,
     "firstSeen": "2026-11-24T15:24:12.381Z"
   },
   "highlights": [
@@ -150,8 +150,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-24T12:40:15Z",
         "meta": {
-          "points": 397,
-          "comments": 173
+          "points": 430,
+          "comments": 187
         },
         "badges": [],
         "lang": "en",
@@ -160,7 +160,7 @@
         "tags": [
           "agents"
         ],
-        "score": 81,
+        "score": 82,
         "firstSeen": "2026-11-24T15:24:12.381Z"
       },
       {
@@ -272,7 +272,7 @@
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-24T15:24:12.509Z",
+        "publishedAt": "2026-11-24T15:35:21.764Z",
         "meta": {},
         "badges": [],
         "lang": "en",
@@ -292,11 +292,11 @@
         "source": "Hugging Face",
         "sourceKey": "huggingface",
         "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-        "summary": "image-text-to-text · 1201 likes",
+        "summary": "image-text-to-text · 1202 likes",
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-24T15:24:12.509Z",
+        "publishedAt": "2026-11-24T15:35:21.764Z",
         "meta": {},
         "badges": [],
         "lang": "en",
@@ -408,6 +408,30 @@
       }
     ],
     "products": [
+      {
+        "id": "a1954c7a4413",
+        "title": "Raising the stakes for enterprise networks with AI modernization",
+        "url": "https://technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
+        "domain": "technologyreview.com",
+        "source": "MIT Technology Review AI",
+        "sourceKey": "rss",
+        "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done…",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-24T15:15:16.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "products",
+        "tags": [
+          "agents"
+        ],
+        "score": 59,
+        "firstSeen": "2026-11-24T15:35:21.724Z"
+      },
       {
         "id": "bf4d79992d6e",
         "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
@@ -625,7 +649,7 @@
         "publishedAt": "2026-11-23T14:49:44Z",
         "meta": {
           "points": 298,
-          "comments": 313
+          "comments": 314
         },
         "badges": [],
         "lang": "en",
@@ -633,33 +657,6 @@
         "category": "products",
         "tags": [],
         "score": 70,
-        "firstSeen": "2026-11-24T15:24:12.381Z"
-      },
-      {
-        "id": "0aa5413f300e",
-        "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-        "url": "https://audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-        "domain": "audubon.org",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50602843",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-22T19:10:34Z",
-        "meta": {
-          "points": 636,
-          "comments": 372
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "products",
-        "tags": [
-          "coding"
-        ],
-        "score": 65,
         "firstSeen": "2026-11-24T15:24:12.381Z"
       }
     ],
@@ -950,7 +947,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-21T14:40:27Z",
         "meta": {
-          "stars": 3501,
+          "stars": 3504,
           "language": "Rust"
         },
         "badges": [
@@ -980,7 +977,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-24T02:39:01Z",
         "meta": {
-          "stars": 112,
+          "stars": 113,
           "language": "Python"
         },
         "badges": [
@@ -1010,7 +1007,7 @@
         "publishedAt": "2026-11-23T22:09:10Z",
         "meta": {
           "points": 343,
-          "comments": 311
+          "comments": 312
         },
         "badges": [],
         "lang": "en",
@@ -1034,8 +1031,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-23T18:48:10Z",
         "meta": {
-          "points": 604,
-          "comments": 150
+          "points": 605,
+          "comments": 151
         },
         "badges": [],
         "lang": "en",
@@ -1086,7 +1083,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-23T20:52:54Z",
         "meta": {
-          "points": 340,
+          "points": 341,
           "comments": 117
         },
         "badges": [],
@@ -1136,15 +1133,15 @@
         "extraLinks": [],
         "publishedAt": "2026-11-24T02:08:09Z",
         "meta": {
-          "points": 181,
-          "comments": 214
+          "points": 190,
+          "comments": 229
         },
         "badges": [],
         "lang": "en",
         "also": [],
         "category": "github",
         "tags": [],
-        "score": 63,
+        "score": 64,
         "firstSeen": "2026-11-24T15:24:12.381Z"
       }
     ],

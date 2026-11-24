@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:24:12.381Z",
+  "generatedAt": "2026-11-24T15:35:21.724Z",
   "categories": [
     {
       "key": "models",
@@ -26,7 +26,7 @@
       "label": "Founders"
     }
   ],
-  "count": 162,
+  "count": 163,
   "items": [
     {
       "id": "99ccc673a30f",
@@ -40,7 +40,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -60,11 +60,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "summary": "image-text-to-text · 1201 likes",
+      "summary": "image-text-to-text · 1202 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -84,11 +84,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
-      "summary": "audio-to-audio · inworld-voice-isolation · 779 likes",
+      "summary": "audio-to-audio · inworld-voice-isolation · 780 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -112,7 +112,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -136,7 +136,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -160,7 +160,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -184,7 +184,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -204,11 +204,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/SulphurAI/Sulphur-3",
-      "summary": "minimax-h3 · 872 likes",
+      "summary": "minimax-h3 · 873 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -226,11 +226,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-      "summary": "image-text-to-text · transformers · 663 likes",
+      "summary": "image-text-to-text · transformers · 664 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -254,7 +254,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -274,11 +274,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/apple/DepthPro2",
-      "summary": "depth-estimation · depth-pro-2 · 1166 likes",
+      "summary": "depth-estimation · depth-pro-2 · 1167 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -296,11 +296,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
-      "summary": "Trending demo · gradio · 695 likes",
+      "summary": "Trending demo · gradio · 696 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -322,7 +322,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -346,7 +346,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -371,7 +371,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -393,7 +393,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -413,11 +413,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "summary": "text-to-image · diffusers · 875 likes",
+      "summary": "text-to-image · diffusers · 876 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -441,7 +441,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -463,7 +463,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -485,7 +485,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -507,7 +507,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -529,7 +529,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -551,7 +551,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "publishedAt": "2026-11-24T15:35:21.764Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -560,6 +560,30 @@
       "tags": [],
       "score": 48,
       "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "a1954c7a4413",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
+      "domain": "technologyreview.com",
+      "source": "MIT Technology Review AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T15:15:16.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "agents"
+      ],
+      "score": 59,
+      "firstSeen": "2026-11-24T15:35:21.724Z"
     },
     {
       "id": "f8cdc496b0bc",
@@ -599,8 +623,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T13:19:31Z",
       "meta": {
-        "points": 43,
-        "comments": 14
+        "points": 48,
+        "comments": 23
       },
       "badges": [],
       "lang": "en",
@@ -624,8 +648,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T12:40:15Z",
       "meta": {
-        "points": 397,
-        "comments": 173
+        "points": 430,
+        "comments": 187
       },
       "badges": [],
       "lang": "en",
@@ -634,7 +658,7 @@
       "tags": [
         "agents"
       ],
-      "score": 81,
+      "score": 82,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
@@ -722,7 +746,7 @@
       "publishedAt": "2026-11-24T09:39:50Z",
       "meta": {
         "points": 65,
-        "comments": 25
+        "comments": 27
       },
       "badges": [],
       "lang": "en",
@@ -1083,8 +1107,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T04:00:28Z",
       "meta": {
-        "points": 140,
-        "comments": 52
+        "points": 142,
+        "comments": 53
       },
       "badges": [],
       "lang": "en",
@@ -1133,7 +1157,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T02:39:01Z",
       "meta": {
-        "stars": 112,
+        "stars": 113,
         "language": "Python"
       },
       "badges": [
@@ -1162,15 +1186,15 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T02:36:56Z",
       "meta": {
-        "points": 82,
-        "comments": 57
+        "points": 83,
+        "comments": 59
       },
       "badges": [],
       "lang": "en",
       "also": [],
       "category": "products",
       "tags": [],
-      "score": 50,
+      "score": 51,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
@@ -1188,7 +1212,7 @@
       "publishedAt": "2026-11-24T02:30:47Z",
       "meta": {
         "points": 53,
-        "comments": 15
+        "comments": 16
       },
       "badges": [],
       "lang": "en",
@@ -1212,15 +1236,15 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T02:08:09Z",
       "meta": {
-        "points": 181,
-        "comments": 214
+        "points": 190,
+        "comments": 229
       },
       "badges": [],
       "lang": "en",
       "also": [],
       "category": "github",
       "tags": [],
-      "score": 63,
+      "score": 64,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
@@ -1340,7 +1364,7 @@
       "publishedAt": "2026-11-23T22:09:10Z",
       "meta": {
         "points": 343,
-        "comments": 311
+        "comments": 312
       },
       "badges": [],
       "lang": "en",
@@ -1558,7 +1582,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T20:52:54Z",
       "meta": {
-        "points": 340,
+        "points": 341,
         "comments": 117
       },
       "badges": [],
@@ -1607,8 +1631,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T20:14:18Z",
       "meta": {
-        "points": 74,
-        "comments": 27
+        "points": 75,
+        "comments": 28
       },
       "badges": [],
       "lang": "en",
@@ -1729,8 +1753,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T18:48:10Z",
       "meta": {
-        "points": 604,
-        "comments": 150
+        "points": 605,
+        "comments": 151
       },
       "badges": [],
       "lang": "en",
@@ -2081,7 +2105,7 @@
       "publishedAt": "2026-11-23T14:49:44Z",
       "meta": {
         "points": 298,
-        "comments": 313
+        "comments": 314
       },
       "badges": [],
       "lang": "en",
@@ -2535,7 +2559,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T06:25:04Z",
       "meta": {
-        "stars": 74,
+        "stars": 75,
         "language": "Python"
       },
       "badges": [
@@ -2948,7 +2972,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-22T16:44:10Z",
       "meta": {
-        "stars": 590,
+        "stars": 591,
         "language": "Rust"
       },
       "badges": [
@@ -3104,7 +3128,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-21T20:26:12Z",
       "meta": {
-        "stars": 433,
+        "stars": 436,
         "language": "Rust"
       },
       "badges": [
@@ -3162,7 +3186,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-21T15:49:31Z",
       "meta": {
-        "stars": 575,
+        "stars": 576,
         "language": "TypeScript"
       },
       "badges": [
@@ -3192,7 +3216,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-21T14:40:27Z",
       "meta": {
-        "stars": 3501,
+        "stars": 3504,
         "language": "Rust"
       },
       "badges": [
@@ -3222,7 +3246,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-21T06:54:24Z",
       "meta": {
-        "stars": 543,
+        "stars": 546,
         "language": "TypeScript"
       },
       "badges": [
@@ -3312,7 +3336,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-20T12:39:45Z",
       "meta": {
-        "stars": 128,
+        "stars": 129,
         "language": "JavaScript"
       },
       "badges": [
@@ -3395,7 +3419,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-20T11:01:20Z",
       "meta": {
-        "stars": 374,
+        "stars": 376,
         "language": "Python"
       },
       "badges": [
@@ -3835,7 +3859,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-19T04:58:46Z",
       "meta": {
-        "stars": 1011,
+        "stars": 1022,
         "language": "TypeScript"
       },
       "badges": [
