@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
   "issue": 1,
-  "generatedAt": "2026-11-24T15:57:26.212Z",
+  "generatedAt": "2026-11-24T15:58:13.781Z",
   "stats": {
     "stories": 164,
     "sources": 20,
@@ -22,8 +22,8 @@
     "extraLinks": [],
     "publishedAt": "2026-11-24T12:40:15Z",
     "meta": {
-      "points": 478,
-      "comments": 203
+      "points": 480,
+      "comments": 206
     },
     "badges": [],
     "lang": "en",
@@ -51,7 +51,7 @@
       "publishedAt": "2026-11-23T10:06:43Z",
       "meta": {
         "points": 1147,
-        "comments": 377
+        "comments": 378
       },
       "badges": [],
       "lang": "en",
@@ -150,8 +150,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-24T12:40:15Z",
         "meta": {
-          "points": 478,
-          "comments": 203
+          "points": 480,
+          "comments": 206
         },
         "badges": [],
         "lang": "en",
@@ -178,7 +178,7 @@
         "publishedAt": "2026-11-23T10:06:43Z",
         "meta": {
           "points": 1147,
-          "comments": 377
+          "comments": 378
         },
         "badges": [],
         "lang": "en",
@@ -272,7 +272,7 @@
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-24T15:57:22.081Z",
+        "publishedAt": "2026-11-24T15:58:10.648Z",
         "meta": {},
         "badges": [],
         "lang": "en",
@@ -296,7 +296,7 @@
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-24T15:57:22.081Z",
+        "publishedAt": "2026-11-24T15:58:10.648Z",
         "meta": {},
         "badges": [],
         "lang": "en",
@@ -1132,7 +1132,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-24T02:08:09Z",
         "meta": {
-          "points": 205,
+          "points": 206,
           "comments": 275
         },
         "badges": [],

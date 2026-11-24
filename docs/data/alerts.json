@@ -1,0 +1,65 @@
+{
+  "updatedAt": "2026-11-24T15:58:10.591Z",
+  "items": [
+    {
+      "id": "ef8096d74f5d",
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "why": "",
+      "source": "Hacker News",
+      "category": "models",
+      "score": 82,
+      "sentAt": "2026-11-24T15:58:10.591Z",
+      "channels": []
+    },
+    {
+      "id": "5094532b4e2e",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "link": "https://z.ai/blog/glm-5.4",
+      "why": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of…",
+      "source": "Hacker News",
+      "category": "models",
+      "score": 76,
+      "sentAt": "2026-11-24T15:58:10.591Z",
+      "channels": []
+    },
+    {
+      "id": "b2c084a41275",
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+      "why": "过去约 24 小时最重要的模型发布之一，今日 Product Hunt 日榜亦有上榜讨论。它补在 Carbon（最难的长程任务）和 Hydrogen（日常快速执行）之间，强调相近能力下更低的单任务成本。",
+      "source": "AI Product Radar",
+      "category": "models",
+      "score": 63,
+      "sentAt": "2026-11-24T15:58:10.591Z",
+      "channels": []
+    },
+    {
+      "id": "549a77347d5e",
+      "title": "GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "why": "过去约 24 小时最重要的模型发布之一，今日 Product Hunt 仍在讨论。Astra 强调专业文档、代码和科学任务，Sol 强调日常默认模型的性价比。",
+      "source": "AI Product Radar",
+      "category": "models",
+      "score": 63,
+      "sentAt": "2026-11-24T15:58:10.591Z",
+      "channels": []
+    },
+    {
+      "id": "99ccc673a30f",
+      "title": "thinkingmachines/Inkling-2-Mini (model)",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "link": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "why": "image-text-to-text · transformers · 5682 likes",
+      "source": "Hugging Face",
+      "category": "models",
+      "score": 63,
+      "sentAt": "2026-11-24T15:58:10.591Z",
+      "channels": []
+    }
+  ]
+}
