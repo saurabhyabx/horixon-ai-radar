@@ -2,6 +2,7 @@
   {
     "slug": "example-partner",
     "target": "https://example.com/?ref=horixon",
-    "partner": "Example Partner"
+    "partner": "Example Partner",
+    "kind": "affiliate"
   }
 ]

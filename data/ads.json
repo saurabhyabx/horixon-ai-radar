@@ -1,0 +1,52 @@
+[
+  {
+    "id": "example-sponsor",
+    "enabled": false,
+    "advertiser": "Example AI Co",
+    "type": "paid",
+    "label": "Sponsored",
+    "title": "Ship AI agents in a day",
+    "text": "Example AI Co gives you hosted agents with evals and guardrails built in. Free tier for startups.",
+    "cta": "Try it free",
+    "url": "https://example.com/signup",
+    "placements": ["feed", "rail", "daily", "newsletter", "telegram"],
+    "categories": ["products", "github"],
+    "start": "2026-12-01",
+    "end": "2026-12-31",
+    "weight": 3,
+    "note": "Template for a paid booking. Set enabled: true and real dates/URL to run it."
+  },
+  {
+    "id": "house-weekly",
+    "type": "house",
+    "label": "Newsletter",
+    "title": "The Horixon Weekly",
+    "text": "The 10 AI launches that mattered this week, every Monday. Free.",
+    "cta": "Subscribe free",
+    "href": "newsletter.html",
+    "placements": ["feed", "rail", "daily", "telegram"],
+    "weight": 1
+  },
+  {
+    "id": "house-templates",
+    "type": "house",
+    "label": "Free",
+    "title": "Free AI Tool Evaluation Scorecard",
+    "text": "The one-page scorecard we use to judge any new AI tool in 10 minutes.",
+    "cta": "Get the template",
+    "href": "templates.html",
+    "placements": ["feed", "rail", "daily", "newsletter", "telegram"],
+    "weight": 1
+  },
+  {
+    "id": "house-pro",
+    "type": "house",
+    "label": "Horixon Pro",
+    "title": "Go deeper every morning",
+    "text": "The daily report: research explained, founder resources and the GitHub trend board.",
+    "cta": "See Pro",
+    "href": "pro.html",
+    "placements": ["feed", "daily", "newsletter"],
+    "weight": 1
+  }
+]

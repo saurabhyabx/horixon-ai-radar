@@ -3,6 +3,7 @@ import path from 'node:path';
 import { ROOT, DATA_OUT, SITE_URL, readJson, writeJson, writeText, isoWeek, escXml } from '../util.mjs';
 import { CATEGORIES } from '../pipeline/categorize.mjs';
 import { diversify } from './site.mjs';
+import { loadAds, pickAd, adHref } from '../pipeline/ads.mjs';
 
 const link = (i) => (i.go ? `${SITE_URL}/${i.go}` : i.url);
 
@@ -14,7 +15,9 @@ export async function writeWeekly(all, now = new Date()) {
   const top = ranked.slice(0, 10);
   const github = items.filter((i) => i.category === 'github').slice(0, 3);
   const founders = items.filter((i) => i.category === 'founders')[0];
-  const digest = { week, generatedAt: now.toISOString(), total: items.length, top, github, founders: founders || null };
+  const ad = pickAd(await loadAds(now), 'newsletter', { seed: 0 });
+  const sponsor = ad ? { label: ad.label || 'Sponsored', title: ad.title, text: ad.text, cta: ad.cta, href: `${SITE_URL}/${adHref(ad, 'newsletter')}`, house: ad.type === 'house' } : null;
+  const digest = { week, generatedAt: now.toISOString(), total: items.length, top, github, founders: founders || null, sponsor };
   await writeJson(path.join(DATA_OUT, 'weekly', `${week}.json`), digest);
   const index = await readJson(path.join(DATA_OUT, 'weekly', 'index.json'), []);
   await writeJson(path.join(DATA_OUT, 'weekly', 'index.json'), [{ week, headline: top[0]?.title || '', count: items.length }, ...index.filter((w) => w.week !== week)]);
@@ -33,7 +36,8 @@ function markdown(d) {
     '## GitHub this week', ...d.github.map((i) => `- [${i.title}](${link(i)})`), '',
     d.founders ? `## For founders\n[${d.founders.title}](${link(d.founders)}) — ${d.founders.summary}\n` : '',
     '---', `**Want this every morning, with research explained and the full GitHub trend board?** [Horixon Pro](${SITE_URL}/pro.html)`, '',
-    `_Sponsor slot: [your product here](${SITE_URL}/about.html#sponsor)_`,
+    d.sponsor ? `**${d.sponsor.label}: ${d.sponsor.title}** — ${d.sponsor.text} [${d.sponsor.cta}](${d.sponsor.href})` : '',
+    `_Advertise to AI builders: ${SITE_URL}/advertise.html_`,
   ];
   return lines.filter((l) => l !== undefined).join('\n');
 }
@@ -58,6 +62,7 @@ ${d.github.map((i) => `<div style="font:14px/1.6 Arial,sans-serif"><a style="col
 <tr><td style="padding:20px;background:#f0fdfa;border-radius:10px;font:14px/1.55 Arial,sans-serif;color:#134e4a">
 <b>Get this every morning.</b> Horixon Pro is the daily report: research explained, founder resources, and the full GitHub trend board.
 <br><a href="${SITE_URL}/pro.html" style="display:inline-block;margin-top:10px;background:#0f766e;color:#fff;padding:10px 16px;border-radius:8px;text-decoration:none;font-weight:bold">Try Horixon Pro</a></td></tr>
-<tr><td style="padding-top:18px;font:12px Arial,sans-serif;color:#a8a29e">Sponsored slot available · <a href="${SITE_URL}" style="color:#a8a29e">Read on the web</a></td></tr>
+${d.sponsor ? `<tr><td style="padding:16px 0 0"><div style="border:1px solid #e7e5e4;border-radius:10px;padding:16px;font:14px/1.5 Arial,sans-serif;color:#44403c"><div style="font:bold 11px Arial,sans-serif;letter-spacing:.08em;color:#a8a29e;text-transform:uppercase">${escXml(d.sponsor.label)}</div><b style="color:#1c1917">${escXml(d.sponsor.title)}</b><br>${escXml(d.sponsor.text)}<br><a href="${escXml(d.sponsor.href)}" style="color:#0f766e;font-weight:bold">${escXml(d.sponsor.cta)} →</a></div></td></tr>` : ''}
+<tr><td style="padding-top:18px;font:12px Arial,sans-serif;color:#a8a29e"><a href="${SITE_URL}/advertise.html" style="color:#a8a29e">Advertise to AI builders</a> · <a href="${SITE_URL}" style="color:#a8a29e">Read on the web</a></td></tr>
 </table></td></tr></table></body></html>`;
 }

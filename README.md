@@ -7,11 +7,12 @@ Product positioning, funnel and open decisions: [POSITIONING.md](POSITIONING.md)
 ## How it works
 
 ```
-GitHub Actions (daily 01:15 UTC)
+GitHub Actions (every 4 hours: 00:15, 04:15 … 20:15 UTC)
   backend/run.mjs daily
     sources/     AI Product Radar picks · Hacker News · GitHub · Hugging Face · Product Hunt · 19 RSS feeds
     pipeline/    normalize → dedupe ("also covered by") → enrich (Claude, optional) → categorize → score → affiliate links
     publish/     docs/data/*.json · daily digest · RSS · sitemap · llms.txt · static /d/<date>.html pages
+    notify/      best new stories (score ≥ 60, max 5) → Telegram channel + docs/data/alerts.json
   commit → GitHub Pages redeploys docs/
 Mondays: backend/run.mjs weekly → weekly digest + newsletter draft in newsletter/YYYY-Www.{html,md}
 ```
@@ -24,7 +25,8 @@ Mondays: backend/run.mjs weekly → weekly digest + newsletter draft in newslett
 | `data/sources.json` | Turn sources on/off and set their ranking weight. |
 | `data/feeds.json` | Curated RSS channels (the "20 best channels" list). |
 | `data/affiliates.json` | Affiliate link manager: partner domain → `/go/?to=<slug>` redirect. |
-| `data/sponsors.json` | In-feed sponsor / CTA cards. |
+| `data/ads.json` | Ads / CTA engine: paid, affiliate and house ads with placements, category targeting and dates. |
+| `data/alerts.json` | Live alert rules (min score, max per run, sponsor every N). `data/alerts-state.json` remembers what was sent. |
 | `newsletter/` | Weekly newsletter drafts (email-ready HTML + Markdown) to paste into your email tool. |
 | `reports/source-health/` | Per-day collection report (counts and errors per source). |
 
@@ -57,7 +59,20 @@ Then open http://127.0.0.1:8787. `dev` skips the Claude step; `daily` runs it wh
 - **Newsletter & lead magnet**: set `newsletterEndpoint` in `docs/assets/config.js` to your email tool's form endpoint. Until then forms run in demo mode.
 - **Pro**: set `proCheckoutMonthly` / `proCheckoutAnnual` (e.g. Stripe Payment Links) and prices in `config.js`.
 - **Affiliates**: add `{slug, domain, target, partner}` rows to `data/affiliates.json`; matching outbound links are rewritten to `/go/?to=slug` on the next run.
-- **Sponsors**: edit `data/sponsors.json` (cards appear every `sponsorEvery` stories).
+- **Ads / CTAs**: add a row to `data/ads.json` (see the `example-sponsor` template): `placements` = `feed`, `rail`, `daily`, `newsletter`, `telegram`; `categories` to target; `start`/`end` dates. External ads are served through `/go/?to=ad-<id>-<placement>` with `utm_source=horixon&utm_medium=<placement>&utm_campaign=<id>` so advertisers see the traffic. House ads (Weekly, Templates, Pro) fill empty slots. Media kit page: `docs/advertise.html`.
+- **Click analytics** (optional): set `plausibleDomain` in `config.js`; `ad_click`, `ad_redirect` and `affiliate_click` events are sent.
+
+## Live alerts on Telegram
+
+Every run (every 4 hours) posts the best new stories to your Telegram channel, with a sponsor line every 4th post and a short summary.
+
+1. In Telegram, open **@BotFather** → `/newbot` → copy the bot token.
+2. Create a public channel (e.g. `@horixon_ai`) and add the bot as an **administrator** with "Post messages".
+3. Repo **Settings → Secrets and variables → Actions → New repository secret**: `TELEGRAM_BOT_TOKEN` = the token, `TELEGRAM_CHAT_ID` = `@horixon_ai` (your channel username).
+4. Put the channel link in `docs/assets/config.js` → `telegramUrl` so the site shows "Live alerts on Telegram".
+5. Preview messages locally without sending: `HORIXON_ALERTS_DRYRUN=1 node backend/run.mjs alerts`.
+
+Sent alerts are also published at `docs/data/alerts.json` (latest 100). WhatsApp, web push and the future mobile app can read the same feed.
 
 ## Content rules
 

@@ -1,0 +1,7 @@
+{
+  "minScore": 60,
+  "maxPerRun": 5,
+  "sponsorEvery": 4,
+  "summary": true,
+  "channels": { "telegram": true }
+}

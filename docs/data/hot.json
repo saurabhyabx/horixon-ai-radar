@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:35:21.724Z",
+  "generatedAt": "2026-11-24T15:57:21.863Z",
   "items": [
     {
       "id": "ef8096d74f5d",
@@ -15,8 +15,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T12:40:15Z",
       "meta": {
-        "points": 430,
-        "comments": 187
+        "points": 478,
+        "comments": 203
       },
       "badges": [],
       "lang": "en",
@@ -42,8 +42,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T10:06:43Z",
       "meta": {
-        "points": 1146,
-        "comments": 375
+        "points": 1147,
+        "comments": 377
       },
       "badges": [],
       "lang": "en",
@@ -74,8 +74,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T22:09:10Z",
       "meta": {
-        "points": 343,
-        "comments": 312
+        "points": 344,
+        "comments": 313
       },
       "badges": [],
       "lang": "en",
@@ -93,11 +93,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "summary": "image-text-to-text · transformers · 5674 likes",
+      "summary": "image-text-to-text · transformers · 5682 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -117,11 +117,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "summary": "image-text-to-text · 1202 likes",
+      "summary": "image-text-to-text · 1203 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -145,7 +145,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -182,6 +182,30 @@
       ],
       "score": 61,
       "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "5845ed4863b4",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+      "domain": "techcrunch.com",
+      "source": "TechCrunch AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T15:51:07.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "industry",
+      "tags": [
+        "nvidia"
+      ],
+      "score": 59,
+      "firstSeen": "2026-11-24T15:53:43.571Z"
     },
     {
       "id": "a1954c7a4413",
@@ -720,33 +744,6 @@
       "category": "research",
       "tags": [],
       "score": 52,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "f8a4e02f4212",
-      "title": "Connected intelligence for in-house legal",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "domain": "openai.com",
-      "source": "OpenAI News",
-      "sourceKey": "rss",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-23T08:00:00.000Z",
-      "meta": {},
-      "badges": [
-        "first-party"
-      ],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [
-        "openai",
-        "coding"
-      ],
-      "score": 51,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     }
   ]

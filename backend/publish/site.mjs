@@ -3,6 +3,7 @@ import path from 'node:path';
 import { readdir } from 'node:fs/promises';
 import { DATA_OUT, DATA_IN, readJson, writeJson, isoDay } from '../util.mjs';
 import { CATEGORIES } from '../pipeline/categorize.mjs';
+import { loadAds, adRedirects, publicAd } from '../pipeline/ads.mjs';
 
 export const STORE = path.join(DATA_OUT, 'store.json');
 const KEEP_DAYS = 30;
@@ -48,8 +49,11 @@ export async function writeSite(all, health, now = new Date()) {
   await writeJson(path.join(DATA_OUT, 'topics.json'), { generatedAt: now.toISOString(), topics: Object.entries(topics).sort((a, b) => b[1] - a[1]).map(([tag, count]) => ({ tag, count })) });
 
   await writeJson(path.join(DATA_OUT, 'health.json'), { generatedAt: now.toISOString(), ...health });
-  await writeJson(path.join(DATA_OUT, 'affiliates.json'), (await readJson(path.join(DATA_IN, 'affiliates.json'), [])).map(({ slug, target, partner }) => ({ slug, target, partner })));
-  await writeJson(path.join(DATA_OUT, 'sponsors.json'), await readJson(path.join(DATA_IN, 'sponsors.json'), []));
+  // Ads engine: active ads for the site + tracked /go/ redirects (affiliates + ads with UTM tags).
+  const ads = await loadAds(now);
+  const affiliates = (await readJson(path.join(DATA_IN, 'affiliates.json'), [])).map(({ slug, target, partner }) => ({ slug, target, partner, kind: 'affiliate' }));
+  await writeJson(path.join(DATA_OUT, 'affiliates.json'), [...affiliates, ...adRedirects(ads)]);
+  await writeJson(path.join(DATA_OUT, 'ads.json'), { generatedAt: now.toISOString(), ads: ads.map(publicAd) });
   return { latest: latest.length, hot: hot.length };
 }
 

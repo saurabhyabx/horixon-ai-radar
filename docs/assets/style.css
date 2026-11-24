@@ -220,3 +220,15 @@ footer.foot a { text-decoration: none; }
   .promo .btn { margin-left: 0; }
 }
 .mobile-brand { display: none; }
+
+/* Ads + live alerts */
+.promo.paid { background: var(--surface); color: var(--text); border-color: var(--line); }
+.promo.paid .label { color: var(--muted); }
+.rail-ad { flex-direction: column; align-items: flex-start; }
+.rail-ad .btn { margin-left: 0; }
+.live h3 { display: flex; align-items: center; gap: 8px; }
+.live li { display: flex; gap: 8px; }
+.live li .muted { flex: none; font-variant-numeric: tabular-nums; }
+.live-dot { width: 8px; height: 8px; border-radius: 50%; background: #ef4444; box-shadow: 0 0 0 0 rgba(239,68,68,.6); animation: pulse 1.8s infinite; }
+@keyframes pulse { 70% { box-shadow: 0 0 0 8px rgba(239,68,68,0); } 100% { box-shadow: 0 0 0 0 rgba(239,68,68,0); } }
+@media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }

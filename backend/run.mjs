@@ -4,6 +4,7 @@
 //   node backend/run.mjs weekly  build the weekly digest + newsletter draft from the store
 //   node backend/run.mjs feeds   rebuild feeds/sitemap/static daily pages only
 //   node backend/run.mjs dev     daily without LLM enrichment (fast local run)
+//   node backend/run.mjs alerts  push new top stories to Telegram from the current store (HORIXON_ALERTS_DRYRUN=1 to preview)
 import path from 'node:path';
 import { DATA_IN, ROOT, readJson, writeJson, isoDay, log } from './util.mjs';
 import radarPicks from './sources/radarPicks.mjs';
@@ -21,6 +22,7 @@ import { enrich } from './pipeline/enrich.mjs';
 import { updateStore, writeSite, writeDaily, STORE } from './publish/site.mjs';
 import { writeWeekly } from './publish/digest.mjs';
 import { writeFeeds } from './publish/feeds.mjs';
+import { runAlerts } from './notify/alerts.mjs';
 
 const SOURCES = { radarPicks, hn, github, huggingface, producthunt, rss };
 
@@ -43,7 +45,7 @@ async function collect(cfg) {
   return { raw, health };
 }
 
-async function daily({ llm = true } = {}) {
+async function daily({ llm = true, alerts: sendAlerts = true } = {}) {
   const now = new Date();
   const cfg = await readJson(path.join(DATA_IN, 'sources.json'), {});
   const keywords = await readJson(path.join(DATA_IN, 'keywords.json'), {});
@@ -65,6 +67,7 @@ async function daily({ llm = true } = {}) {
   const counts = await writeSite(all, health, now);
   const digest = await writeDaily(all, isoDay(now));
   await writeFeeds();
+  if (sendAlerts) health.alerts = await runAlerts(all, now).catch((e) => ({ error: e.message }));
   await writeJson(path.join(ROOT, 'reports', 'source-health', `${isoDay(now)}.json`), health);
   log(`published: ${counts.latest} latest, ${counts.hot} hot, daily #${digest?.issue ?? '-'} (${digest?.stats.stories ?? 0} stories)`);
   if (!items.length) { log('no items collected — check network / sources'); process.exitCode = 1; }
@@ -78,6 +81,8 @@ async function weekly() {
 }
 
 const cmd = process.argv[2] || 'daily';
-const run = { daily: () => daily(), dev: () => daily({ llm: false }), weekly, feeds: writeFeeds }[cmd];
-if (!run) { console.error(`Unknown command "${cmd}". Use daily | dev | weekly | feeds`); process.exit(2); }
+async function alerts() { const store = await readJson(STORE, { items: [] }); await runAlerts(store.items); }
+
+const run = { daily: () => daily(), dev: () => daily({ llm: false, alerts: false }), weekly, alerts, feeds: writeFeeds }[cmd];
+if (!run) { console.error(`Unknown command "${cmd}". Use daily | dev | weekly | alerts | feeds`); process.exit(2); }
 run().catch((e) => { console.error(e); process.exit(1); });

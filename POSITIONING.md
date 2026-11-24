@@ -62,6 +62,23 @@
 - `data/affiliates.json` maps partner domains to affiliate URLs; the pipeline rewrites matching outbound links to `/go/?to=<slug>`.
 - Applies to news links, template links, newsletter links, and sponsor CTAs, so every referral backlink supports the affiliate engine.
 
+### Ads & CTA engine (how ads come in)
+News brings traffic; sponsor CTAs send that intent-rich traffic to platforms that pay for it.
+- **Inventory:** in-feed cards (every 8 stories, category-targeted), sidebar slot, daily digest slot, weekly newsletter sponsor block, Telegram sponsor line, affiliate links.
+- **Booking:** one row in `data/ads.json` per campaign (title, line, CTA, URL, placements, categories, dates, weight). It switches on and off by date automatically.
+- **Proof for advertisers:** every click goes through `/go/` with UTM tags (`utm_source=horixon`, `utm_medium=<placement>`, `utm_campaign=<id>`), plus optional Plausible events on Horixon's side.
+- **Sales page:** `/advertise.html` with live audience signals (stories per day/week, sources, category mix), placements, prices and an enquiry form.
+- **Fallback:** empty slots show house CTAs (Weekly, Templates, Pro), so every slot still grows the list or revenue.
+
+## Distribution: real-time channels
+| Channel | Status | How |
+|---|---|---|
+| Website live alerts | Live | "Live alerts" box on the Hot list, refreshed every 4 hours |
+| Telegram channel | Built, needs bot token | Bot posts best new stories every 4 hours (score ≥ 60, max 5) |
+| WhatsApp Channel / groups | Later | No official posting API for Channels or groups; post manually from `alerts.json`, or use WhatsApp Cloud API broadcasts to opted-in users (paid per message, needs Meta business verification) |
+| Web push | Later | OneSignal (free tier) reading `alerts.json` |
+| Mobile app + in-app notifications | Later | App reads `latest.json` + `alerts.json`; push via Firebase Cloud Messaging |
+
 ## Free weekly vs paid daily
 
 | | Free weekly | Pro daily |

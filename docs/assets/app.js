@@ -24,6 +24,7 @@
     mail: '<rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/>',
     gift: '<rect x="3" y="8" width="18" height="13" rx="1"/><path d="M12 8v13M3 12h18M12 8c-2-4-6-4-6-1.5S9 8 12 8Zm0 0c2-4 6-4 6-1.5S15 8 12 8Z"/>',
     crown: '<path d="m3 7 4 4 5-6 5 6 4-4-2 12H5L3 7Z"/>',
+    megaphone: '<path d="M3 10v4h3l7 5V5L6 10H3ZM17 8a5 5 0 0 1 0 8M19.5 5.5a9 9 0 0 1 0 13"/>',
     plug: '<path d="M9 3v5M15 3v5M6 8h12v3a6 6 0 0 1-12 0V8ZM12 17v4"/>',
     info: '<circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/>',
     moon: '<path d="M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5Z"/>',
@@ -38,7 +39,7 @@
   const NAV = [
     ['Content', [['index.html', 'Featured', 'spark'], ['all.html', 'All AI news', 'list'], ['hot.html', 'Hot list', 'flame'], ['daily.html', 'Daily digest', 'paper'], ['weekly.html', 'Weekly', 'cal'], ['topics.html', 'Topics', 'tag'], ['saved.html', 'Saved', 'star']]],
     ['Grow with Horixon', [['newsletter.html', 'Free newsletter', 'mail'], ['templates.html', 'Free templates', 'gift'], ['pro.html', 'Horixon Pro', 'crown']]],
-    ['More', [['agent.html', 'RSS & API', 'plug'], ['about.html', 'About', 'info']]],
+    ['More', [['advertise.html', 'Advertise', 'megaphone'], ['agent.html', 'RSS & API', 'plug'], ['about.html', 'About', 'info']]],
   ];
   const here = (location.pathname.split('/').pop() || 'index.html');
   function shell() {
@@ -46,7 +47,7 @@
     if (side) side.innerHTML = `
       <a class="brand" href="${BASE}index.html"><span class="brand-mark">H</span><span><span class="brand-name">${esc(C.siteName || 'Horixon')}</span><span class="brand-tag">${esc(C.tagline || '')}</span></span></a>
       ${NAV.map(([label, links]) => `<div class="nav-group"><div class="nav-label">${label}</div><nav class="nav">${links.map(([href, t, ic]) => `<a href="${BASE}${href}"${href === here ? ' aria-current="page"' : ''}>${icon(ic)}${t}</a>`).join('')}</nav></div>`).join('')}
-      <div class="side-cta"><b>The Horixon Weekly</b>The 10 AI stories that matter, every Monday.<div style="margin-top:10px"><a class="btn" href="${BASE}newsletter.html">Subscribe free</a></div></div>`;
+      <div class="side-cta"><b>The Horixon Weekly</b>The 10 AI stories that matter, every Monday.<div style="margin-top:10px"><a class="btn" href="${BASE}newsletter.html">Subscribe free</a></div>${C.telegramUrl ? `<div style="margin-top:8px"><a href="${esc(C.telegramUrl)}" target="_blank" rel="noopener">Live alerts on Telegram →</a></div>` : ''}</div>`;
     const bottom = $('#bottom');
     if (bottom) bottom.innerHTML = [['index.html', 'Featured', 'spark'], ['all.html', 'All', 'list'], ['hot.html', 'Hot', 'flame'], ['daily.html', 'Daily', 'paper'], ['newsletter.html', 'Weekly', 'mail']]
       .map(([href, t, ic]) => `<a href="${BASE}${href}"${href === here ? ' aria-current="page"' : ''}>${icon(ic)}${t}</a>`).join('');
@@ -56,7 +57,7 @@
       b.addEventListener('click', () => { const dark = !(document.documentElement.dataset.theme ? document.documentElement.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches); document.documentElement.dataset.theme = dark ? 'dark' : 'light'; store.set('hx-theme', dark ? 'dark' : 'light'); sync(); });
     });
     const foot = $('#foot');
-    if (foot) foot.innerHTML = `<span>© ${new Date().getFullYear()} Horixon</span><a href="${BASE}about.html">About</a><a href="${BASE}agent.html">RSS & API</a><a href="${BASE}about.html#sources">Sources & credits</a><a href="${BASE}about.html#sponsor">Advertise</a>`;
+    if (foot) foot.innerHTML = `<span>© ${new Date().getFullYear()} Horixon</span><a href="${BASE}about.html">About</a><a href="${BASE}agent.html">RSS & API</a><a href="${BASE}about.html#sources">Sources & credits</a><a href="${BASE}advertise.html">Advertise</a>${C.telegramUrl ? `<a href="${esc(C.telegramUrl)}" target="_blank" rel="noopener">Telegram</a>` : ''}`;
   }
 
   /* ---------- formatting ---------- */
@@ -96,9 +97,39 @@
       </div></article>`;
   }
 
-  let sponsors = [];
-  function promo(s) {
-    return `<aside class="promo"><div><div class="label">${esc(s.label || 'Sponsored')}</div><h3>${esc(s.title)}</h3><p>${esc(s.text)}</p></div><a class="btn" href="${BASE}${esc(s.href)}">${esc(s.cta)}</a></aside>`;
+  /* ---------- ads / CTA engine ---------- */
+  let ADS = null;
+  async function loadAds() { if (!ADS) ADS = (await getJson('data/ads.json').catch(() => ({ ads: [] }))).ads || []; return ADS; }
+  const adUrl = (ad, placement) => BASE + (ad.href ? ad.href : `go/?to=${encodeURIComponent(`ad-${ad.id}-${placement}`)}`);
+  // Weighted rotation; paid ads that target the category win over house ads.
+  function pickAd(placement, { category, n = 0, paidOnly = false } = {}) {
+    const fit = (ADS || []).filter((a) => (a.placements || []).includes(placement));
+    const paid = fit.filter((a) => a.type !== 'house');
+    const targeted = paid.filter((a) => !a.categories?.length || !category || category === 'all' || a.categories.includes(category));
+    const pool = targeted.length ? targeted : paid.length ? paid : paidOnly ? [] : fit;
+    if (!pool.length) return null;
+    const slots = pool.flatMap((a) => Array(Math.max(1, a.weight || 1)).fill(a));
+    return slots[n % slots.length];
+  }
+  function promo(ad, placement) {
+    if (!ad) return '';
+    const paid = ad.type !== 'house';
+    return `<aside class="promo${paid ? ' paid' : ''}" data-ad="${esc(ad.id)}" data-placement="${placement}"><div><div class="label">${esc(ad.label || (paid ? 'Sponsored' : 'Horixon'))}</div><h3>${esc(ad.title)}</h3><p>${esc(ad.text)}</p></div><a class="btn" href="${esc(adUrl(ad, placement))}"${paid ? ' rel="sponsored noopener" target="_blank"' : ''}>${esc(ad.cta)}</a></aside>`;
+  }
+  function track(name, props = {}) {
+    try { if (typeof window.plausible === 'function') window.plausible(name, { props }); } catch { /* ignore */ }
+    try { if (typeof window.gtag === 'function') window.gtag('event', name, props); } catch { /* ignore */ }
+  }
+  document.addEventListener('click', (e) => {
+    const a = e.target.closest('[data-ad] a'); if (!a) return;
+    const box = a.closest('[data-ad]');
+    track('ad_click', { ad: box.dataset.ad, placement: box.dataset.placement, page });
+  });
+  async function fillRail() {
+    const rail = $('.rail'); if (!rail) return;
+    await loadAds();
+    const ad = pickAd('rail', { paidOnly: true, n: Math.floor(Date.now() / 3.6e6) });
+    if (ad) rail.insertAdjacentHTML('afterbegin', promo(ad, 'rail').replace('class="promo', 'class="promo rail-ad'));
   }
 
   function bindCards(root, items) {
@@ -124,7 +155,7 @@
     const topic = params.get('topic');
     let data;
     try { data = await getJson('data/latest.json'); } catch { root.innerHTML = '<div class="empty">News is loading for the first time. Run the daily job, then refresh.</div>'; return; }
-    sponsors = await getJson('data/sponsors.json').catch(() => []);
+    await loadAds();
     let items = data.items;
     if (featured) { const cut = items.map((i) => i.score).sort((a, b) => b - a)[Math.min(items.length - 1, 80)] || 0; items = items.filter((i) => i.score >= cut); }
     tabs.innerHTML = [['all', 'All'], ...data.categories.map((c) => [c.key, c.label])].map(([k, l]) => `<button class="tab" role="tab" data-cat="${k}" aria-selected="${k === cat}">${l}</button>`).join('');
@@ -142,7 +173,7 @@
         const d = dayLabel(i.publishedAt);
         if (d !== day) { if (day) html += '</div>'; day = d; html += `<div class="day-head"><h2>${d}</h2><span>${counts[d]} stories</span></div><div class="feed">`; }
         html += card(i); n++;
-        if (sponsors.length && n % every === 0) html += promo(sponsors[(n / every - 1) % sponsors.length]);
+        if (n % every === 0) html += promo(pickAd('feed', { category: cat === 'all' ? i.category : cat, n: n / every - 1 }), 'feed');
       }
       html += '</div>';
       if (total > limit) html += `<button class="btn ghost more" id="more">Show more (${total - limit})</button>`;
@@ -167,8 +198,19 @@
     } catch { el.remove(); }
   }
 
+  async function liveAlerts(root) {
+    try {
+      const { items = [], updatedAt } = await getJson('data/alerts.json');
+      if (!items.length) return;
+      const tg = C.telegramUrl ? ` · <a href="${esc(C.telegramUrl)}" target="_blank" rel="noopener">Get these on Telegram</a>` : '';
+      root.insertAdjacentHTML('beforebegin', `<section class="panel live" style="margin-bottom:18px"><h3><span class="live-dot"></span> Live alerts</h3><p>Last sent ${new Date(updatedAt).toLocaleString([], { dateStyle: 'medium', timeStyle: 'short' })}${tg}</p>
+        <ul>${items.slice(0, 8).map((a) => `<li><span class="muted">${new Date(a.sentAt).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</span> <a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a></li>`).join('')}</ul></section>`);
+    } catch { /* no alerts yet */ }
+  }
+
   async function hotPage() {
     const root = $('#feed');
+    liveAlerts(root);
     try {
       const { items, generatedAt } = await getJson('data/hot.json');
       $('#stamp').textContent = `Last 48 hours · updated ${new Date(generatedAt).toLocaleString([], { dateStyle: 'medium', timeStyle: 'short' })}`;
@@ -184,6 +226,7 @@
     try { index = await getJson('data/daily/index.json'); } catch { root.innerHTML = '<div class="empty">The first daily digest appears after the first daily run.</div>'; return; }
     const date = new URLSearchParams(location.search).get('date') || index[0]?.date;
     arch.innerHTML = `<h3>Past issues</h3><ul class="archive">${index.slice(0, 40).map((d) => `<li><span>#${d.issue} · ${d.date.slice(5)}</span><a href="?date=${d.date}" title="${esc(d.headline)}"${d.date === date ? ' style="color:var(--accent);font-weight:600"' : ''}>${esc(d.headline)}</a></li>`).join('')}</ul>`;
+    await loadAds();
     let d;
     try { d = await getJson(`data/daily/${date}.json`); } catch { root.innerHTML = '<div class="empty">Issue not found.</div>'; return; }
     const nice = new Date(`${d.date}T12:00:00Z`).toLocaleDateString([], { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
@@ -197,6 +240,7 @@
       <h2 class="day-head"><span style="font:700 17px var(--serif);color:var(--text)">Lead story</span></h2>
       <div class="feed">${card(d.lead, { showDate: true }).replace('class="card', 'class="card lead-card')}</div>
       <div class="day-head"><h2>Today's highlights</h2></div><div class="feed">${d.highlights.map((i) => card(i, { showDate: true })).join('')}</div>
+      <div style="margin-top:14px">${promo(pickAd('daily', { n: d.issue }), 'daily')}</div>
       ${secs.map(([k, v]) => `<div class="day-head" id="s-${k}"><h2>${CAT[k]}</h2><span>${v.length}</span></div><div class="feed">${v.map((i) => card(i, { showDate: true })).join('')}</div>`).join('')}
       <div class="cta-box"><h2>Get the weekly in your inbox</h2><p>Not checking every day? The 10 stories that matter arrive every Monday. Free.</p>${formHtml('daily-footer')}</div>
       <p style="display:flex;justify-content:space-between">${prev ? `<a href="?date=${prev.date}">← #${prev.issue} ${prev.date}</a>` : '<span></span>'}${next ? `<a href="?date=${next.date}">#${next.issue} ${next.date} →</a>` : ''}</p>`;
@@ -290,16 +334,36 @@
       const a = list.find((x) => x.slug === slug);
       if (!a || !/^https?:\/\//.test(a.target)) throw new Error('unknown');
       const clicks = store.get('hx-go', {}); clicks[slug] = (clicks[slug] || 0) + 1; store.set('hx-go', clicks);
-      if (typeof window.gtag === 'function') window.gtag('event', 'affiliate_click', { partner: a.partner, slug });
+      track(a.kind === 'ad' ? 'ad_redirect' : 'affiliate_click', { partner: a.partner, slug, placement: a.placement || '', campaign: a.campaign || '' });
       msg.innerHTML = `Taking you to <b>${esc(a.partner)}</b>… <a href="${esc(a.target)}" rel="sponsored noopener">Continue</a>`;
       location.replace(a.target);
     } catch { msg.innerHTML = `Link not found. <a href="${BASE}index.html">Back to Horixon</a>`; }
+  }
+
+  async function advertisePage() {
+    const [latest, health] = await Promise.all([getJson('data/latest.json').catch(() => null), getJson('data/health.json').catch(() => null)]);
+    const set = (id, v) => { const el = $(id); if (el && v != null) el.textContent = v; };
+    if (latest) {
+      set('#st-week', latest.count);
+      set('#st-day', Math.round(latest.count / 7));
+      set('#st-sources', new Set(latest.items.map((i) => i.source)).size);
+      const cats = {}; latest.items.forEach((i) => { cats[i.category] = (cats[i.category] || 0) + 1; });
+      const el = $('#st-cats'); if (el) el.innerHTML = Object.entries(cats).sort((a, b) => b[1] - a[1]).map(([k, v]) => `<span class="chip">${CAT[k] || k} · ${v}</span>`).join('');
+    }
+    if (health) set('#st-updated', new Date(health.generatedAt).toLocaleString([], { dateStyle: 'medium', timeStyle: 'short' }));
+  }
+
+  /* ---------- analytics (optional, privacy-friendly) ---------- */
+  if (C.plausibleDomain) {
+    window.plausible = window.plausible || function () { (window.plausible.q = window.plausible.q || []).push(arguments); };
+    const sc = document.createElement('script'); sc.defer = true; sc.dataset.domain = C.plausibleDomain; sc.src = 'https://plausible.io/js/script.js'; document.head.appendChild(sc);
   }
 
   /* ---------- boot ---------- */
   document.addEventListener('keydown', (e) => { if (e.key === '/' && !/input|textarea/i.test(document.activeElement.tagName)) { const q = $('#q'); if (q) { e.preventDefault(); q.focus(); } } });
   shell();
   bindForms();
-  const routes = { featured: () => feedPage({ featured: true }), all: () => feedPage({ featured: false }), hot: hotPage, daily: dailyPage, weekly: weeklyPage, topics: topicsPage, saved: savedPage, templates: templatesPage, pro: proPage, go: goPage, home: hotStrip };
+  fillRail();
+  const routes = { featured: () => feedPage({ featured: true }), all: () => feedPage({ featured: false }), hot: hotPage, daily: dailyPage, weekly: weeklyPage, topics: topicsPage, saved: savedPage, templates: templatesPage, pro: proPage, go: goPage, advertise: advertisePage, home: hotStrip };
   routes[page]?.();
 })();

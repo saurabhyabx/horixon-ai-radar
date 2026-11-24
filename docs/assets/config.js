@@ -17,5 +17,9 @@ window.HORIXON = {
     { id: 'ai-launch-plan', title: 'AI Feature Launch Plan', desc: 'The checklist to ship an AI feature: evals, guardrails, pricing, rollout, and the metrics to watch in week one.', file: 'templates/ai-launch-plan.md', icon: 'rocket' },
     { id: 'founder-ai-stack', title: 'Founder AI Stack 2026', desc: 'A curated stack of AI tools by job (build, sell, support, operate) with free tiers marked.', file: 'templates/founder-ai-stack.md', icon: 'layers' },
   ],
+  // Live alerts channel link shown on the site (e.g. https://t.me/horixon_ai). Leave empty to hide.
+  telegramUrl: '',
+  // Optional privacy-friendly analytics (plausible.io) for ad/affiliate click events, e.g. 'saurabhyabx.github.io'.
+  plausibleDomain: '',
   sponsorEvery: 8, // insert a sponsor/CTA card every N stories
 };

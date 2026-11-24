@@ -2,8 +2,13 @@ name: Daily radar
 
 on:
   schedule:
-    - cron: "15 1 * * *"   # 01:15 UTC every day
-  workflow_dispatch: {}
+    - cron: "15 */4 * * *"   # every 4 hours: 00:15, 04:15, 08:15, 12:15, 16:15, 20:15 UTC
+  workflow_dispatch:
+    inputs:
+      weekly:
+        description: "Also build the weekly digest + newsletter draft"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -23,20 +28,23 @@ jobs:
           node-version: 22
       - name: Install (only the optional Claude SDK)
         run: npm install --no-audit --no-fund
-      - name: Collect, rank, publish
+      - name: Collect, rank, publish, send live alerts
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PRODUCT_HUNT_TOKEN: ${{ secrets.PRODUCT_HUNT_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           HORIXON_SITE_URL: ${{ vars.HORIXON_SITE_URL }}
         run: node backend/run.mjs daily
-      - name: Weekly digest (Mondays)
-        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '15 1 * * *'
+      - name: Weekly digest (first run on Monday, or on request)
         env:
           HORIXON_SITE_URL: ${{ vars.HORIXON_SITE_URL }}
         run: |
-          if [ "$(date -u +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          if { [ "$(date -u +%u)" = "1" ] && [ "$(date -u +%H)" -lt 4 ]; } || [ "${{ inputs.weekly }}" = "true" ]; then
             node backend/run.mjs weekly
+          else
+            echo "Not the Monday morning run; skipping weekly digest"
           fi
       - name: Commit data
         run: |
@@ -44,5 +52,6 @@ jobs:
           git config user.email "horixon-bot@users.noreply.github.com"
           git add -A docs data reports newsletter
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
-          git commit -m "Daily radar $(date -u +%Y-%m-%d)"
+          git commit -m "Radar update $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase --autostash
           git push

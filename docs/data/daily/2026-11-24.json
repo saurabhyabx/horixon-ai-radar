@@ -1,9 +1,9 @@
 {
   "date": "2026-11-24",
   "issue": 1,
-  "generatedAt": "2026-11-24T15:35:24.739Z",
+  "generatedAt": "2026-11-24T15:57:26.212Z",
   "stats": {
-    "stories": 163,
+    "stories": 164,
     "sources": 20,
     "firstParty": 11,
     "readMinutes": 21
@@ -22,8 +22,8 @@
     "extraLinks": [],
     "publishedAt": "2026-11-24T12:40:15Z",
     "meta": {
-      "points": 430,
-      "comments": 187
+      "points": 478,
+      "comments": 203
     },
     "badges": [],
     "lang": "en",
@@ -50,8 +50,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T10:06:43Z",
       "meta": {
-        "points": 1146,
-        "comments": 375
+        "points": 1147,
+        "comments": 377
       },
       "badges": [],
       "lang": "en",
@@ -150,8 +150,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-24T12:40:15Z",
         "meta": {
-          "points": 430,
-          "comments": 187
+          "points": 478,
+          "comments": 203
         },
         "badges": [],
         "lang": "en",
@@ -177,8 +177,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-23T10:06:43Z",
         "meta": {
-          "points": 1146,
-          "comments": 375
+          "points": 1147,
+          "comments": 377
         },
         "badges": [],
         "lang": "en",
@@ -268,11 +268,11 @@
         "source": "Hugging Face",
         "sourceKey": "huggingface",
         "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-        "summary": "image-text-to-text · transformers · 5674 likes",
+        "summary": "image-text-to-text · transformers · 5682 likes",
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-24T15:35:21.764Z",
+        "publishedAt": "2026-11-24T15:57:22.081Z",
         "meta": {},
         "badges": [],
         "lang": "en",
@@ -292,11 +292,11 @@
         "source": "Hugging Face",
         "sourceKey": "huggingface",
         "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-        "summary": "image-text-to-text · 1202 likes",
+        "summary": "image-text-to-text · 1203 likes",
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-24T15:35:21.764Z",
+        "publishedAt": "2026-11-24T15:57:22.081Z",
         "meta": {},
         "badges": [],
         "lang": "en",
@@ -649,7 +649,7 @@
         "publishedAt": "2026-11-23T14:49:44Z",
         "meta": {
           "points": 298,
-          "comments": 314
+          "comments": 319
         },
         "badges": [],
         "lang": "en",
@@ -661,6 +661,30 @@
       }
     ],
     "industry": [
+      {
+        "id": "5845ed4863b4",
+        "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+        "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+        "domain": "techcrunch.com",
+        "source": "TechCrunch AI",
+        "sourceKey": "rss",
+        "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-24T15:51:07.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "industry",
+        "tags": [
+          "nvidia"
+        ],
+        "score": 59,
+        "firstSeen": "2026-11-24T15:53:43.571Z"
+      },
       {
         "id": "f8cdc496b0bc",
         "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
@@ -947,7 +971,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-21T14:40:27Z",
         "meta": {
-          "stars": 3504,
+          "stars": 3514,
           "language": "Rust"
         },
         "badges": [
@@ -977,7 +1001,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-24T02:39:01Z",
         "meta": {
-          "stars": 113,
+          "stars": 116,
           "language": "Python"
         },
         "badges": [
@@ -1006,8 +1030,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-23T22:09:10Z",
         "meta": {
-          "points": 343,
-          "comments": 312
+          "points": 344,
+          "comments": 313
         },
         "badges": [],
         "lang": "en",
@@ -1031,8 +1055,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-23T18:48:10Z",
         "meta": {
-          "points": 605,
-          "comments": 151
+          "points": 607,
+          "comments": 152
         },
         "badges": [],
         "lang": "en",
@@ -1059,7 +1083,7 @@
         "publishedAt": "2026-11-23T03:49:24Z",
         "meta": {
           "points": 614,
-          "comments": 257
+          "comments": 259
         },
         "badges": [],
         "lang": "en",
@@ -1083,8 +1107,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-23T20:52:54Z",
         "meta": {
-          "points": 341,
-          "comments": 117
+          "points": 343,
+          "comments": 120
         },
         "badges": [],
         "lang": "en",
@@ -1092,6 +1116,31 @@
         "category": "github",
         "tags": [],
         "score": 68,
+        "firstSeen": "2026-11-24T15:24:12.381Z"
+      },
+      {
+        "id": "35056578cef2",
+        "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+        "url": "https://github.com/ItsNotRexed/Leonida/issues",
+        "domain": "github.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50622638",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-24T02:08:09Z",
+        "meta": {
+          "points": 205,
+          "comments": 275
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "github",
+        "tags": [],
+        "score": 66,
         "firstSeen": "2026-11-24T15:24:12.381Z"
       },
       {
@@ -1117,31 +1166,6 @@
         "category": "github",
         "tags": [],
         "score": 65,
-        "firstSeen": "2026-11-24T15:24:12.381Z"
-      },
-      {
-        "id": "35056578cef2",
-        "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
-        "url": "https://github.com/ItsNotRexed/Leonida/issues",
-        "domain": "github.com",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50622638",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-24T02:08:09Z",
-        "meta": {
-          "points": 190,
-          "comments": 229
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "github",
-        "tags": [],
-        "score": 64,
         "firstSeen": "2026-11-24T15:24:12.381Z"
       }
     ],
@@ -1170,31 +1194,6 @@
           "microsoft"
         ],
         "score": 54,
-        "firstSeen": "2026-11-24T15:24:12.381Z"
-      },
-      {
-        "id": "388f4aa5f277",
-        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
-        "domain": "techcrunch.com",
-        "source": "TechCrunch AI",
-        "sourceKey": "rss",
-        "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-        "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-23T22:02:05.000Z",
-        "meta": {},
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "founders",
-        "tags": [
-          "agents",
-          "funding"
-        ],
-        "score": 50,
         "firstSeen": "2026-11-24T15:24:12.381Z"
       },
       {

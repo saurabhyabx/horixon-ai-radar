@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:35:21.724Z",
+  "generatedAt": "2026-11-24T15:57:21.863Z",
   "categories": [
     {
       "key": "models",
@@ -26,7 +26,7 @@
       "label": "Founders"
     }
   ],
-  "count": 163,
+  "count": 164,
   "items": [
     {
       "id": "99ccc673a30f",
@@ -36,11 +36,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "summary": "image-text-to-text · transformers · 5674 likes",
+      "summary": "image-text-to-text · transformers · 5682 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -60,11 +60,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "summary": "image-text-to-text · 1202 likes",
+      "summary": "image-text-to-text · 1203 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -88,7 +88,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -108,11 +108,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/tencent/Hy4-flash",
-      "summary": "image-text-to-text · transformers · 667 likes",
+      "summary": "image-text-to-text · transformers · 668 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -132,11 +132,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-      "summary": "image-text-to-text · 710 likes",
+      "summary": "image-text-to-text · 712 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -160,7 +160,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -184,7 +184,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -204,11 +204,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/SulphurAI/Sulphur-3",
-      "summary": "minimax-h3 · 873 likes",
+      "summary": "minimax-h3 · 874 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -230,7 +230,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -254,7 +254,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -274,11 +274,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/apple/DepthPro2",
-      "summary": "depth-estimation · depth-pro-2 · 1167 likes",
+      "summary": "depth-estimation · depth-pro-2 · 1168 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -296,11 +296,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
-      "summary": "Trending demo · gradio · 696 likes",
+      "summary": "Trending demo · gradio · 697 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -318,11 +318,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "summary": "image-text-to-text · transformers · 21707 likes",
+      "summary": "image-text-to-text · transformers · 21708 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -346,7 +346,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -371,7 +371,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -393,7 +393,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -417,7 +417,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -441,7 +441,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -463,7 +463,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -485,7 +485,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -507,7 +507,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -529,7 +529,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -551,7 +551,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T15:35:21.764Z",
+      "publishedAt": "2026-11-24T15:57:22.081Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -560,6 +560,30 @@
       "tags": [],
       "score": 48,
       "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "5845ed4863b4",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+      "domain": "techcrunch.com",
+      "source": "TechCrunch AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T15:51:07.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "industry",
+      "tags": [
+        "nvidia"
+      ],
+      "score": 59,
+      "firstSeen": "2026-11-24T15:53:43.571Z"
     },
     {
       "id": "a1954c7a4413",
@@ -623,15 +647,15 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T13:19:31Z",
       "meta": {
-        "points": 48,
-        "comments": 23
+        "points": 61,
+        "comments": 48
       },
       "badges": [],
       "lang": "en",
       "also": [],
       "category": "products",
       "tags": [],
-      "score": 51,
+      "score": 53,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
@@ -648,8 +672,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T12:40:15Z",
       "meta": {
-        "points": 430,
-        "comments": 187
+        "points": 478,
+        "comments": 203
       },
       "badges": [],
       "lang": "en",
@@ -745,8 +769,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T09:39:50Z",
       "meta": {
-        "points": 65,
-        "comments": 27
+        "points": 66,
+        "comments": 31
       },
       "badges": [],
       "lang": "en",
@@ -1107,8 +1131,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T04:00:28Z",
       "meta": {
-        "points": 142,
-        "comments": 53
+        "points": 146,
+        "comments": 54
       },
       "badges": [],
       "lang": "en",
@@ -1157,7 +1181,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T02:39:01Z",
       "meta": {
-        "stars": 113,
+        "stars": 116,
         "language": "Python"
       },
       "badges": [
@@ -1186,8 +1210,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T02:36:56Z",
       "meta": {
-        "points": 83,
-        "comments": 59
+        "points": 85,
+        "comments": 60
       },
       "badges": [],
       "lang": "en",
@@ -1236,15 +1260,15 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T02:08:09Z",
       "meta": {
-        "points": 190,
-        "comments": 229
+        "points": 205,
+        "comments": 275
       },
       "badges": [],
       "lang": "en",
       "also": [],
       "category": "github",
       "tags": [],
-      "score": 64,
+      "score": 66,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
@@ -1363,8 +1387,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T22:09:10Z",
       "meta": {
-        "points": 343,
-        "comments": 312
+        "points": 344,
+        "comments": 313
       },
       "badges": [],
       "lang": "en",
@@ -1582,8 +1606,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T20:52:54Z",
       "meta": {
-        "points": 341,
-        "comments": 117
+        "points": 343,
+        "comments": 120
       },
       "badges": [],
       "lang": "en",
@@ -1631,7 +1655,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T20:14:18Z",
       "meta": {
-        "points": 75,
+        "points": 76,
         "comments": 28
       },
       "badges": [],
@@ -1753,8 +1777,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T18:48:10Z",
       "meta": {
-        "points": 605,
-        "comments": 151
+        "points": 607,
+        "comments": 152
       },
       "badges": [],
       "lang": "en",
@@ -2053,7 +2077,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T15:55:48Z",
       "meta": {
-        "stars": 99,
+        "stars": 100,
         "language": "Rust"
       },
       "badges": [
@@ -2105,7 +2129,7 @@
       "publishedAt": "2026-11-23T14:49:44Z",
       "meta": {
         "points": 298,
-        "comments": 314
+        "comments": 319
       },
       "badges": [],
       "lang": "en",
@@ -2152,7 +2176,7 @@
       "publishedAt": "2026-11-23T13:42:38Z",
       "meta": {
         "points": 182,
-        "comments": 35
+        "comments": 36
       },
       "badges": [],
       "lang": "en",
@@ -2200,7 +2224,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T12:41:14Z",
       "meta": {
-        "points": 76,
+        "points": 77,
         "comments": 82
       },
       "badges": [],
@@ -2225,7 +2249,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T12:28:11Z",
       "meta": {
-        "points": 243,
+        "points": 244,
         "comments": 125
       },
       "badges": [],
@@ -2399,8 +2423,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T10:06:43Z",
       "meta": {
-        "points": 1146,
-        "comments": 375
+        "points": 1147,
+        "comments": 377
       },
       "badges": [],
       "lang": "en",
@@ -2559,7 +2583,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T06:25:04Z",
       "meta": {
-        "stars": 75,
+        "stars": 76,
         "language": "Python"
       },
       "badges": [
@@ -2587,7 +2611,7 @@
       "publishedAt": "2026-11-23T03:49:24Z",
       "meta": {
         "points": 614,
-        "comments": 257
+        "comments": 259
       },
       "badges": [],
       "lang": "en",
@@ -2972,7 +2996,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-22T16:44:10Z",
       "meta": {
-        "stars": 591,
+        "stars": 594,
         "language": "Rust"
       },
       "badges": [
@@ -3128,7 +3152,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-21T20:26:12Z",
       "meta": {
-        "stars": 436,
+        "stars": 449,
         "language": "Rust"
       },
       "badges": [
@@ -3186,7 +3210,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-21T15:49:31Z",
       "meta": {
-        "stars": 576,
+        "stars": 580,
         "language": "TypeScript"
       },
       "badges": [
@@ -3216,7 +3240,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-21T14:40:27Z",
       "meta": {
-        "stars": 3504,
+        "stars": 3514,
         "language": "Rust"
       },
       "badges": [
@@ -3307,7 +3331,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-20T15:15:23Z",
       "meta": {
-        "stars": 99,
+        "stars": 100,
         "language": "Python"
       },
       "badges": [
@@ -3419,7 +3443,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-20T11:01:20Z",
       "meta": {
-        "stars": 376,
+        "stars": 378,
         "language": "Python"
       },
       "badges": [
@@ -3475,7 +3499,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-20T04:14:12Z",
       "meta": {
-        "stars": 105,
+        "stars": 106,
         "language": null
       },
       "badges": [
@@ -3859,7 +3883,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-19T04:58:46Z",
       "meta": {
-        "stars": 1022,
+        "stars": 1034,
         "language": "TypeScript"
       },
       "badges": [
@@ -3890,7 +3914,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-18T17:34:59Z",
       "meta": {
-        "stars": 380,
+        "stars": 382,
         "language": "Python"
       },
       "badges": [

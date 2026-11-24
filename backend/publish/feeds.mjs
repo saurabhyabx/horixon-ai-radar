@@ -3,7 +3,7 @@ import path from 'node:path';
 import { DOCS, DATA_OUT, SITE_URL, readJson, writeText, escXml } from '../util.mjs';
 import { CATEGORIES } from '../pipeline/categorize.mjs';
 
-const PAGES = ['', 'all.html', 'hot.html', 'daily.html', 'weekly.html', 'topics.html', 'newsletter.html', 'templates.html', 'pro.html', 'agent.html', 'about.html'];
+const PAGES = ['', 'all.html', 'hot.html', 'daily.html', 'weekly.html', 'topics.html', 'newsletter.html', 'templates.html', 'pro.html', 'agent.html', 'about.html', 'advertise.html'];
 
 function rss(title, link, desc, items) {
   return `<?xml version="1.0" encoding="UTF-8"?>

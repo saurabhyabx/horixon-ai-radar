@@ -8,7 +8,7 @@ export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '
 export const DOCS = path.join(ROOT, 'docs');
 export const DATA_IN = path.join(ROOT, 'data');
 export const DATA_OUT = path.join(DOCS, 'data');
-export const SITE_URL = (process.env.HORIXON_SITE_URL || 'https://example.github.io/horixon-ai-radar').replace(/\/$/, '');
+export const SITE_URL = (process.env.HORIXON_SITE_URL || 'https://saurabhyabx.github.io/horixon-ai-radar').replace(/\/$/, '');
 export const UA = 'HorixonRadar/0.1 (+news aggregator)';
 
 export async function readJson(file, fallback = null) {
