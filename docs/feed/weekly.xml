@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+<title>Horixon Weekly</title><link>https://example.github.io/horixon-ai-radar/feed/weekly.xml</link><description>The Horixon weekly AI digest.</description>
+<atom:link href="https://example.github.io/horixon-ai-radar/feed/weekly.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Tue, 24 Nov 2026 15:24:20 GMT</lastBuildDate>
+<item><title>Horixon Weekly 2026-W48 — LLM agents work for their parent companies, not for you</title><link>https://example.github.io/horixon-ai-radar/weekly.html?week=2026-W48</link><guid isPermaLink="false">weekly-2026-W48</guid><pubDate>Tue, 24 Nov 2026 15:24:20 GMT</pubDate><description>162 stories this week.</description></item>
+</channel></rss>

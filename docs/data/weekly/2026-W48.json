@@ -1,0 +1,413 @@
+{
+  "week": "2026-W48",
+  "generatedAt": "2026-11-24T15:24:20.693Z",
+  "total": 162,
+  "top": [
+    {
+      "id": "ef8096d74f5d",
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "domain": "michaelharley.net",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50627340",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T12:40:15Z",
+      "engagement": 97,
+      "meta": {
+        "points": 397,
+        "comments": 173
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "agents"
+      ],
+      "score": 81,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "5094532b4e2e",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "domain": "z.ai",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50609685",
+      "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-23T10:06:43Z",
+      "engagement": 100,
+      "meta": {
+        "points": 1146,
+        "comments": 375
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [
+        {
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/atom/everything/"
+        }
+      ],
+      "category": "models",
+      "tags": [
+        "coding"
+      ],
+      "score": 76,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "b2c084a41275",
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+      "domain": "blog.google",
+      "source": "AI Product Radar",
+      "sourceKey": "radarPicks",
+      "sourceUrl": "https://github.com/BENZEMA216/ai-product-radar/blob/main/picks/2026-11-19.json",
+      "summary": "Google DeepMind 发布 Gemini 4 Neon，面向复杂软件工程、知识工作与科学流程，强调更快完成端到端任务。官方定价为每百万 tokens 输入 $3（缓存输入 $0.15）、输出 $15，上下文窗口 100 万 tokens。今日起在 Gemini API（Google AI Studio）、Gemini for business、Google Antigravity（付费 Pro / Ultra）以及 Gemini 应用（Pro / Ultra 可在模型列表中选择）滚动上线。官方称在 Artificial Analysis Coding Agent Index 上排名第…",
+      "why": "过去约 24 小时最重要的模型发布之一，今日 Product Hunt 日榜亦有上榜讨论。它补在 Carbon（最难的长程任务）和 Hydrogen（日常快速执行）之间，强调相近能力下更低的单任务成本。",
+      "audience": "需要在大仓库上跑编程助手、并关心速度与单次任务成本的开发者和企业团队",
+      "extraLinks": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/leaderboard/daily/2026/11/19"
+        }
+      ],
+      "publishedAt": "2026-11-19T08:00:00Z",
+      "engagement": 100,
+      "meta": {},
+      "badges": [
+        "radar-pick"
+      ],
+      "lang": "zh",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "google",
+        "agents",
+        "coding"
+      ],
+      "score": 63,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "549a77347d5e",
+      "title": "GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "domain": "openai.com",
+      "source": "AI Product Radar",
+      "sourceKey": "radarPicks",
+      "sourceUrl": "https://github.com/BENZEMA216/ai-product-radar/blob/main/picks/2026-11-18.json",
+      "summary": "OpenAI 发布 GPT-6.2 两款模型：Astra 面向高难度专业项目、科学与复杂 agent 任务（官方称 API 输入/输出约 $8/$40 每百万 tokens，较 GPT-6 Astra 降价 20%，缓存输入 $0.40）；Sol 面向日常工作与 agent 流程，更便宜高效。两者已在 ChatGPT Work、Codex 以及 API（gpt-6.2-astra、gpt-6.2-sol）上线。",
+      "why": "过去约 24 小时最重要的模型发布之一，今日 Product Hunt 仍在讨论。Astra 强调专业文档、代码和科学任务，Sol 强调日常默认模型的性价比。",
+      "audience": "已在 ChatGPT Work、Codex 或 API 使用 GPT-6 系列、关心专业输出质量与成本的团队",
+      "extraLinks": [
+        {
+          "label": "Product Hunt",
+          "url": "https://www.producthunt.com/products/openai"
+        }
+      ],
+      "publishedAt": "2026-11-18T08:00:00Z",
+      "engagement": 100,
+      "meta": {},
+      "badges": [
+        "radar-pick"
+      ],
+      "lang": "zh",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "openai",
+        "agents"
+      ],
+      "score": 63,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "99ccc673a30f",
+      "title": "thinkingmachines/Inkling-2-Mini (model)",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "summary": "image-text-to-text · transformers · 5674 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "engagement": 60,
+      "meta": {},
+      "badges": [],
+      "hint": "models",
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "image"
+      ],
+      "score": 63,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "67c4c2c31439",
+      "title": "unsloth/Inkling-2-Mini-GGUF (model)",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "summary": "image-text-to-text · 1201 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T15:24:12.509Z",
+      "engagement": 60,
+      "meta": {},
+      "badges": [],
+      "hint": "models",
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "image"
+      ],
+      "score": 63,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "f3f6304a8cca",
+      "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls",
+      "domain": "aws.amazon.com",
+      "source": "AWS Machine Learning",
+      "sourceKey": "rss",
+      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "summary": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic's Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you control over your data when you use Claude…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T05:01:14.000Z",
+      "engagement": 40,
+      "meta": {},
+      "badges": [
+        "first-party"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "anthropic"
+      ],
+      "score": 61,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "f8cdc496b0bc",
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back",
+      "domain": "arstechnica.com",
+      "source": "Ars Technica AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://arstechnica.com/ai/feed/",
+      "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T14:56:50.000Z",
+      "engagement": 40,
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "industry",
+      "tags": [
+        "nvidia"
+      ],
+      "score": 59,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "1d0c151fefed",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "domain": "openai.com",
+      "source": "OpenAI News",
+      "sourceKey": "rss",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-23T21:20:00.000Z",
+      "engagement": 40,
+      "meta": {},
+      "badges": [
+        "first-party"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "openai",
+        "open-source"
+      ],
+      "score": 57,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "bf4d79992d6e",
+      "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+      "url": "https://wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving",
+      "domain": "wired.com",
+      "source": "Wired AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T10:45:00.000Z",
+      "engagement": 40,
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 57,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    }
+  ],
+  "github": [
+    {
+      "id": "7e689a2455fd",
+      "title": "VP ≠ VNP over Every Field",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50620102",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-23T22:09:10Z",
+      "engagement": 100,
+      "meta": {
+        "points": 343,
+        "comments": 311
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 76,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "42afc3642f4f",
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50616933",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-23T18:48:10Z",
+      "engagement": 100,
+      "meta": {
+        "points": 604,
+        "comments": 150
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "open-source"
+      ],
+      "score": 74,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "35cfea2e7f27",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50607261",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-23T03:49:24Z",
+      "engagement": 100,
+      "meta": {
+        "points": 614,
+        "comments": 257
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 68,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-24T15:24:12.381Z"
+    }
+  ],
+  "founders": {
+    "id": "a43a2373bab7",
+    "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+    "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft",
+    "domain": "latent.space",
+    "source": "Latent Space",
+    "sourceKey": "rss",
+    "sourceUrl": "https://www.latent.space/feed",
+    "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+    "why": "",
+    "audience": "",
+    "extraLinks": [],
+    "publishedAt": "2026-11-24T04:14:16.000Z",
+    "engagement": 40,
+    "meta": {},
+    "badges": [],
+    "lang": "en",
+    "also": [],
+    "category": "founders",
+    "tags": [
+      "openai",
+      "nvidia",
+      "microsoft"
+    ],
+    "score": 54,
+    "firstSeen": "2026-11-24T15:24:12.381Z",
+    "lastSeen": "2026-11-24T15:24:12.381Z"
+  }
+}

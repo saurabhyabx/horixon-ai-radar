@@ -1,0 +1,13 @@
+# Horixon — AI news hub
+
+> Daily curated AI news: launches, models, research, GitHub trends and founder resources. Updated every day by an automated pipeline with editorial ranking.
+
+## Machine-readable
+- [Latest items (JSON)](https://example.github.io/horixon-ai-radar/data/latest.json)
+- [Hot list (JSON)](https://example.github.io/horixon-ai-radar/data/hot.json)
+- [Daily digests index (JSON)](https://example.github.io/horixon-ai-radar/data/daily/index.json)
+- [RSS: top stories](https://example.github.io/horixon-ai-radar/feed.xml)
+- [RSS: daily digest](https://example.github.io/horixon-ai-radar/feed/daily.xml)
+
+## Recent daily digests
+- [2026-11-24: LLM agents work for their parent companies, not for you](https://example.github.io/horixon-ai-radar/d/2026-11-24.html)

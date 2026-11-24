@@ -1,0 +1,19 @@
+{
+  "name": "horixon-ai-radar",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Horixon AI news hub: daily collector, ranker and static publisher for GitHub Pages.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "daily": "node backend/run.mjs daily",
+    "weekly": "node backend/run.mjs weekly",
+    "dev": "node backend/run.mjs dev",
+    "serve": "node backend/serve.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.13.0"
+  }
+}

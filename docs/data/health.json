@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-11-24T15:24:12.381Z",
+  "sources": {
+    "producthunt": {
+      "status": "skipped",
+      "count": 0,
+      "ms": 1,
+      "note": "PRODUCT_HUNT_TOKEN not set"
+    },
+    "huggingface": {
+      "status": "ok",
+      "count": 23,
+      "ms": 594
+    },
+    "radarPicks": {
+      "status": "ok",
+      "count": 18,
+      "ms": 1988
+    },
+    "rss": {
+      "status": "ok",
+      "count": 60,
+      "ms": 2204,
+      "errors": [
+        "VentureBeat AI: HTTP 429 https://venturebeat.com/category/ai/feed/"
+      ]
+    },
+    "github": {
+      "status": "ok",
+      "count": 25,
+      "ms": 3599
+    },
+    "hn": {
+      "status": "ok",
+      "count": 38,
+      "ms": 7445
+    }
+  },
+  "collected": 164,
+  "afterDedupe": 162
+}

@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-11-24T15:24:12.381Z",
+  "topics": [
+    {
+      "tag": "agents",
+      "count": 33
+    },
+    {
+      "tag": "coding",
+      "count": 21
+    },
+    {
+      "tag": "anthropic",
+      "count": 15
+    },
+    {
+      "tag": "nvidia",
+      "count": 13
+    },
+    {
+      "tag": "image",
+      "count": 12
+    },
+    {
+      "tag": "openai",
+      "count": 10
+    },
+    {
+      "tag": "google",
+      "count": 8
+    },
+    {
+      "tag": "mcp",
+      "count": 8
+    },
+    {
+      "tag": "open-source",
+      "count": 7
+    },
+    {
+      "tag": "video",
+      "count": 7
+    },
+    {
+      "tag": "meta",
+      "count": 3
+    },
+    {
+      "tag": "voice",
+      "count": 2
+    },
+    {
+      "tag": "funding",
+      "count": 2
+    },
+    {
+      "tag": "microsoft",
+      "count": 1
+    }
+  ]
+}

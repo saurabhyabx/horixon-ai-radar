@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en" data-base="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RSS & API — Horixon</title>
+<meta name="description" content="Horixon RSS feeds and JSON endpoints for readers, apps and AI agents.">
+<meta property="og:title" content="RSS & API — Horixon">
+<meta property="og:description" content="Horixon RSS feeds and JSON endpoints for readers, apps and AI agents.">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<link rel="alternate" type="application/rss+xml" title="Horixon top stories" href="feed.xml">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%230f766e'/%3E%3Ctext x='16' y='22' font-family='Arial' font-weight='700' font-size='17' fill='white' text-anchor='middle'%3EH%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+<script>try{var t=localStorage.getItem('hx-theme');if(t)document.documentElement.dataset.theme=JSON.parse(t)}catch(e){}</script>
+<script src="assets/config.js"></script>
+<script src="assets/app.js" defer></script>
+</head>
+<body data-page="agent">
+<div class="layout">
+<aside class="side" id="side"></aside>
+<main class="main">
+<div class="topbar">
+  <a class="mobile-brand brand" href="index.html" style="padding:0"><span class="brand-mark">H</span></a>
+  <div><h1>RSS & API</h1></div>
+  <span class="spacer"></span>
+  
+  <button class="icon-btn" data-theme-toggle type="button" aria-label="Toggle theme"></button>
+</div>
+<p class="muted" style="max-width:65ch">Follow Horixon in any reader, or plug the JSON into your own app or AI agent. Everything is static, updated daily, no key needed. Please credit Horixon and link the original sources.</p>
+<section class="section"><h2>RSS</h2><div class="endpoints">
+  <div class="endpoint"><code>feed.xml</code><a class="btn ghost" href="feed.xml">Open</a><span>Top 50 stories</span></div>
+  <div class="endpoint"><code>feed/daily.xml</code><a class="btn ghost" href="feed/daily.xml">Open</a><span>Daily digest issues</span></div>
+  <div class="endpoint"><code>feed/weekly.xml</code><a class="btn ghost" href="feed/weekly.xml">Open</a><span>Weekly digests</span></div>
+  <div class="endpoint"><code>feed/category/{models|products|industry|research|github|founders}.xml</code><a class="btn ghost" href="feed/category/models.xml">Example</a><span>One feed per category</span></div>
+</div></section>
+<section class="section"><h2>JSON</h2><div class="endpoints">
+  <div class="endpoint"><code>data/latest.json</code><a class="btn ghost" href="data/latest.json">Open</a><span>Last 7 days of stories, newest first</span></div>
+  <div class="endpoint"><code>data/hot.json</code><a class="btn ghost" href="data/hot.json">Open</a><span>Top 30 by score, last 48 hours</span></div>
+  <div class="endpoint"><code>data/daily/index.json</code> · <code>data/daily/YYYY-MM-DD.json</code><a class="btn ghost" href="data/daily/index.json">Open</a><span>Daily digests</span></div>
+  <div class="endpoint"><code>data/topics.json</code><a class="btn ghost" href="data/topics.json">Open</a><span>Topic counts, last 7 days</span></div>
+  <div class="endpoint"><code>llms.txt</code><a class="btn ghost" href="llms.txt">Open</a><span>Summary for AI assistants and answer engines</span></div>
+</div></section>
+<section class="section"><h2>Item fields</h2><div class="code">{
+  "id": "b2c084a41275", "title": "…", "url": "https://…", "source": "Hacker News",
+  "summary": "…", "why": "…", "category": "models", "tags": ["agents"],
+  "score": 72, "publishedAt": "2026-11-24T08:00:00Z", "also": [{"source": "…", "url": "…"}],
+  "badges": ["first-party"], "go": "go/?to=partner"   // present when an affiliate link applies
+}</div></section>
+<footer class="foot" id="foot"></footer>
+</main>
+</div>
+<nav class="bottombar" id="bottom" aria-label="Primary"></nav>
+</body>
+</html>

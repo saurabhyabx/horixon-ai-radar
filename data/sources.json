@@ -1,0 +1,31 @@
+{
+  "radarPicks": {
+    "enabled": true,
+    "weight": 1,
+    "days": 7,
+    "label": "AI Product Radar"
+  },
+  "hn": {
+    "enabled": true,
+    "weight": 0.9,
+    "minPoints": 40
+  },
+  "github": {
+    "enabled": true,
+    "weight": 0.8
+  },
+  "huggingface": {
+    "enabled": true,
+    "weight": 0.6
+  },
+  "producthunt": {
+    "enabled": true,
+    "weight": 0.85,
+    "note": "Needs PRODUCT_HUNT_TOKEN secret; skipped otherwise"
+  },
+  "rss": {
+    "enabled": true,
+    "weight": 0.75,
+    "perFeed": 8
+  }
+}

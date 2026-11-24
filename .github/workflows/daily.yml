@@ -1,0 +1,48 @@
+name: Daily radar
+
+on:
+  schedule:
+    - cron: "15 1 * * *"   # 01:15 UTC every day
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install (only the optional Claude SDK)
+        run: npm install --no-audit --no-fund
+      - name: Collect, rank, publish
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PRODUCT_HUNT_TOKEN: ${{ secrets.PRODUCT_HUNT_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          HORIXON_SITE_URL: ${{ vars.HORIXON_SITE_URL }}
+        run: node backend/run.mjs daily
+      - name: Weekly digest (Mondays)
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '15 1 * * *'
+        env:
+          HORIXON_SITE_URL: ${{ vars.HORIXON_SITE_URL }}
+        run: |
+          if [ "$(date -u +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            node backend/run.mjs weekly
+          fi
+      - name: Commit data
+        run: |
+          git config user.name "horixon-bot"
+          git config user.email "horixon-bot@users.noreply.github.com"
+          git add docs data/enrich-cache.json reports newsletter
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Daily radar $(date -u +%Y-%m-%d)"
+          git push

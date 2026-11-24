@@ -1,0 +1,8 @@
+{
+  "models": ["model", "llm", "gpt", "claude", "gemini", "llama", "mistral", "qwen", "deepseek", "weights", "benchmark", "fine-tun", "diffusion", "multimodal", "inference", "token", "parameters"],
+  "research": ["arxiv", "paper", "research", "study", "we propose", "dataset", "theorem", "evaluation of"],
+  "github": ["github.com", "open source", "open-source", "repo", "release v", "library", "sdk", "framework"],
+  "founders": ["startup", "founder", "raises", "funding", "seed", "series a", "series b", "yc ", "y combinator", "acquire", "valuation", "revenue", "pricing", "go-to-market"],
+  "industry": ["policy", "regulation", "lawsuit", "government", "ban", "chip", "nvidia", "datacenter", "data center", "partnership", "layoff", "ceo", "earnings", "market"],
+  "products": ["launch", "app", "tool", "agent", "assistant", "plugin", "extension", "feature", "beta", "available", "introducing", "product hunt"]
+}

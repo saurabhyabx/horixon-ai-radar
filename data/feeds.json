@@ -1,0 +1,89 @@
+[
+  {
+    "name": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "firstParty": true
+  },
+  {
+    "name": "Google AI Blog",
+    "url": "https://blog.google/technology/ai/rss/",
+    "firstParty": true
+  },
+  {
+    "name": "Google DeepMind",
+    "url": "https://deepmind.google/blog/rss.xml",
+    "firstParty": true
+  },
+  {
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "firstParty": true
+  },
+  {
+    "name": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/feed/",
+    "firstParty": true
+  },
+  {
+    "name": "AWS Machine Learning",
+    "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "firstParty": true
+  },
+  {
+    "name": "GitHub Blog",
+    "url": "https://github.blog/feed/",
+    "firstParty": true
+  },
+  {
+    "name": "TechCrunch AI",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+    "name": "The Verge AI",
+    "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+    "name": "VentureBeat AI",
+    "url": "https://venturebeat.com/category/ai/feed/"
+  },
+  {
+    "name": "Ars Technica AI",
+    "url": "https://arstechnica.com/ai/feed/"
+  },
+  {
+    "name": "MIT Technology Review AI",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+  },
+  {
+    "name": "Wired AI",
+    "url": "https://www.wired.com/feed/tag/ai/latest/rss"
+  },
+  {
+    "name": "Simon Willison",
+    "url": "https://simonwillison.net/atom/everything/"
+  },
+  {
+    "name": "Latent Space",
+    "url": "https://www.latent.space/feed"
+  },
+  {
+    "name": "Import AI",
+    "url": "https://importai.substack.com/feed"
+  },
+  {
+    "name": "The Gradient",
+    "url": "https://thegradient.pub/rss/"
+  },
+  {
+    "name": "arXiv cs.AI",
+    "url": "https://rss.arxiv.org/rss/cs.AI",
+    "research": true,
+    "limit": 5
+  },
+  {
+    "name": "arXiv cs.CL",
+    "url": "https://rss.arxiv.org/rss/cs.CL",
+    "research": true,
+    "limit": 5
+  }
+]
