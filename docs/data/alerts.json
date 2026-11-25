@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-24T15:58:10.591Z",
+  "updatedAt": "2026-11-25T00:39:21.435Z",
   "items": [
+    {
+      "id": "e213ef04a870",
+      "title": "Tidal bans AI-generated music",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "why": "",
+      "source": "Hacker News",
+      "category": "industry",
+      "score": 77,
+      "sentAt": "2026-11-25T00:39:21.435Z",
+      "channels": []
+    },
+    {
+      "id": "7e689a2455fd",
+      "title": "VP ≠ VNP over Every Field",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "why": "",
+      "source": "Hacker News",
+      "category": "github",
+      "score": 76,
+      "sentAt": "2026-11-25T00:39:21.435Z",
+      "channels": []
+    },
+    {
+      "id": "3c6728c1bfd1",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "why": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "source": "OpenAI News",
+      "category": "models",
+      "score": 65,
+      "sentAt": "2026-11-25T00:39:21.435Z",
+      "channels": []
+    },
+    {
+      "id": "67c4c2c31439",
+      "title": "unsloth/Inkling-2-Mini-GGUF (model)",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "link": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "why": "image-text-to-text · 1252 likes",
+      "source": "Hugging Face",
+      "category": "models",
+      "score": 63,
+      "sentAt": "2026-11-25T00:39:21.435Z",
+      "channels": []
+    },
+    {
+      "id": "74c05f88e457",
+      "title": "inworld/voice-isolator (model)",
+      "url": "https://huggingface.co/inworld/voice-isolator",
+      "link": "https://huggingface.co/inworld/voice-isolator",
+      "why": "audio-to-audio · inworld-voice-isolation · 815 likes",
+      "source": "Hugging Face",
+      "category": "models",
+      "score": 63,
+      "sentAt": "2026-11-25T00:39:21.435Z",
+      "channels": []
+    },
     {
       "id": "ef8096d74f5d",
       "title": "LLM agents work for their parent companies, not for you",

@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-25",
+    "issue": 2,
+    "headline": "Tidal bans AI-generated music",
+    "count": 40
+  },
+  {
     "date": "2026-11-24",
     "issue": 1,
     "headline": "LLM agents work for their parent companies, not for you",

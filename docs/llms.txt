@@ -10,4 +10,5 @@
 - [RSS: daily digest](https://saurabhyabx.github.io/horixon-ai-radar/feed/daily.xml)
 
 ## Recent daily digests
+- [2026-11-25: Tidal bans AI-generated music](https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-25.html)
 - [2026-11-24: LLM agents work for their parent companies, not for you](https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-24.html)
