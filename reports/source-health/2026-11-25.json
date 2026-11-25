@@ -9,38 +9,38 @@
     "huggingface": {
       "status": "ok",
       "count": 23,
-      "ms": 224
+      "ms": 240
+    },
+    "radarPicks": {
+      "status": "ok",
+      "count": 10,
+      "ms": 1193
     },
     "rss": {
       "status": "ok",
-      "count": 71,
-      "ms": 807,
+      "count": 72,
+      "ms": 1628,
       "errors": [
         "VentureBeat AI: HTTP 429 https://venturebeat.com/category/ai/feed/",
         "Import AI: HTTP 403 https://importai.substack.com/feed"
       ]
     },
-    "radarPicks": {
-      "status": "ok",
-      "count": 10,
-      "ms": 1567
-    },
-    "hn": {
-      "status": "ok",
-      "count": 36,
-      "ms": 2109
-    },
     "github": {
       "status": "ok",
       "count": 24,
-      "ms": 2675
+      "ms": 2889
+    },
+    "hn": {
+      "status": "ok",
+      "count": 38,
+      "ms": 4595
     }
   },
   "enrich": {
     "skipped": true
   },
-  "collected": 164,
-  "afterDedupe": 159,
+  "collected": 167,
+  "afterDedupe": 163,
   "alerts": {
     "sent": 5,
     "telegram": false

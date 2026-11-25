@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-25T00:39:21.435Z",
+  "updatedAt": "2026-11-25T14:15:25.678Z",
   "items": [
+    {
+      "id": "5ee45fc63309",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "why": "",
+      "source": "Hacker News",
+      "category": "github",
+      "score": 78,
+      "sentAt": "2026-11-25T14:15:25.678Z",
+      "channels": []
+    },
+    {
+      "id": "bbef1e94d167",
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "link": "https://news.ycombinator.com/item?id=50630809",
+      "why": "",
+      "source": "Hacker News",
+      "category": "products",
+      "score": 74,
+      "sentAt": "2026-11-25T14:15:25.678Z",
+      "channels": []
+    },
+    {
+      "id": "d0a3a7f662b5",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "why": "",
+      "source": "Hugging Face Blog",
+      "category": "products",
+      "score": 63,
+      "sentAt": "2026-11-25T14:15:25.678Z",
+      "channels": []
+    },
+    {
+      "id": "b4f1a99333cf",
+      "title": "tencent/Hy4-flash (model)",
+      "url": "https://huggingface.co/tencent/Hy4-flash",
+      "link": "https://huggingface.co/tencent/Hy4-flash",
+      "why": "image-text-to-text · transformers · 687 likes",
+      "source": "Hugging Face",
+      "category": "models",
+      "score": 63,
+      "sentAt": "2026-11-25T14:15:25.678Z",
+      "channels": []
+    },
+    {
+      "id": "9dc3bbb2d9bc",
+      "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF (model)",
+      "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "link": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "why": "image-text-to-text · 794 likes",
+      "source": "Hugging Face",
+      "category": "models",
+      "score": 63,
+      "sentAt": "2026-11-25T14:15:25.678Z",
+      "channels": []
+    },
     {
       "id": "e213ef04a870",
       "title": "Tidal bans AI-generated music",

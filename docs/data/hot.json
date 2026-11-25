@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T00:39:21.435Z",
+  "generatedAt": "2026-11-25T14:15:25.678Z",
   "items": [
     {
       "id": "ef8096d74f5d",
@@ -15,8 +15,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T12:40:15Z",
       "meta": {
-        "points": 886,
-        "comments": 374
+        "points": 984,
+        "comments": 404
       },
       "badges": [],
       "lang": "en",
@@ -27,6 +27,31 @@
       ],
       "score": 82,
       "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "5ee45fc63309",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50637220",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T01:19:26Z",
+      "meta": {
+        "points": 785,
+        "comments": 444
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 78,
+      "firstSeen": "2026-11-25T14:15:25.678Z"
     },
     {
       "id": "e213ef04a870",
@@ -42,8 +67,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T16:12:38Z",
       "meta": {
-        "points": 315,
-        "comments": 299
+        "points": 333,
+        "comments": 318
       },
       "badges": [],
       "lang": "en",
@@ -52,38 +77,6 @@
       "tags": [],
       "score": 77,
       "firstSeen": "2026-11-25T00:39:21.435Z"
-    },
-    {
-      "id": "5094532b4e2e",
-      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "url": "https://z.ai/blog/glm-5.4",
-      "domain": "z.ai",
-      "source": "Hacker News",
-      "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50609685",
-      "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of…",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-23T10:06:43Z",
-      "meta": {
-        "points": 1162,
-        "comments": 380
-      },
-      "badges": [],
-      "lang": "en",
-      "also": [
-        {
-          "source": "Simon Willison",
-          "url": "https://simonwillison.net/atom/everything/"
-        }
-      ],
-      "category": "models",
-      "tags": [
-        "coding"
-      ],
-      "score": 76,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
       "id": "3c6728c1bfd1",
@@ -113,8 +106,35 @@
       "tags": [
         "openai"
       ],
-      "score": 65,
+      "score": 70,
       "firstSeen": "2026-11-25T00:39:21.435Z"
+    },
+    {
+      "id": "d0a3a7f662b5",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "domain": "huggingface.co",
+      "source": "Hugging Face Blog",
+      "sourceKey": "rss",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T10:22:09.000Z",
+      "meta": {},
+      "badges": [
+        "first-party"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "agents",
+        "voice"
+      ],
+      "score": 63,
+      "firstSeen": "2026-11-25T14:15:25.678Z"
     },
     {
       "id": "99ccc673a30f",
@@ -124,11 +144,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "summary": "image-text-to-text · transformers · 5779 likes",
+      "summary": "image-text-to-text · transformers · 5903 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-25T00:39:21.476Z",
+      "publishedAt": "2026-11-25T14:15:25.765Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -148,11 +168,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "summary": "image-text-to-text · 1252 likes",
+      "summary": "image-text-to-text · 1311 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-25T00:39:21.476Z",
+      "publishedAt": "2026-11-25T14:15:25.765Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -172,11 +192,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
-      "summary": "audio-to-audio · inworld-voice-isolation · 815 likes",
+      "summary": "audio-to-audio · inworld-voice-isolation · 851 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-25T00:39:21.476Z",
+      "publishedAt": "2026-11-25T14:15:25.765Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -291,8 +311,58 @@
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
+      "id": "28175a595e60",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+      "domain": "techcrunch.com",
+      "source": "TechCrunch AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T14:10:18.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "meta",
+        "agents"
+      ],
+      "score": 59,
+      "firstSeen": "2026-11-25T14:15:25.678Z"
+    },
+    {
+      "id": "c4937692d5d7",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "domain": "theverge.com",
+      "source": "The Verge AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue.…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T14:12:33.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "meta",
+        "agents"
+      ],
+      "score": 59,
+      "firstSeen": "2026-11-25T14:15:25.678Z"
+    },
+    {
       "id": "d6a3974a1a3c",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
       "domain": "techcrunch.com",
       "source": "TechCrunch AI",
@@ -411,6 +481,50 @@
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
+      "id": "f5bb5e8a9ad3",
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next",
+      "domain": "arstechnica.com",
+      "source": "Ars Technica AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://arstechnica.com/ai/feed/",
+      "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T12:00:28.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 58,
+      "firstSeen": "2026-11-25T14:15:25.678Z"
+    },
+    {
+      "id": "1033887459b7",
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "url": "https://wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid",
+      "domain": "wired.com",
+      "source": "Wired AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T11:30:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 58,
+      "firstSeen": "2026-11-25T14:15:25.678Z"
+    },
+    {
       "id": "6ff348e652c9",
       "title": "Three LLM inflection points in twelve months",
       "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
@@ -461,6 +575,54 @@
       "firstSeen": "2026-11-25T00:39:21.435Z"
     },
     {
+      "id": "b0deea04c96b",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
+      "domain": "technologyreview.com",
+      "source": "MIT Technology Review AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T10:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 57,
+      "firstSeen": "2026-11-25T14:15:25.678Z"
+    },
+    {
+      "id": "a9ba02207a16",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "domain": "theverge.com",
+      "source": "The Verge AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T13:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "agents",
+        "open-source",
+        "coding"
+      ],
+      "score": 57,
+      "firstSeen": "2026-11-25T14:15:25.678Z"
+    },
+    {
       "id": "9134491ec669",
       "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
       "url": "https://theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
@@ -502,28 +664,6 @@
       "lang": "en",
       "also": [],
       "category": "products",
-      "tags": [],
-      "score": 57,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
-    },
-    {
-      "id": "bc426bbbebd7",
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
-      "domain": "techcrunch.com",
-      "source": "TechCrunch AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T22:27:52.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "founders",
       "tags": [],
       "score": 57,
       "firstSeen": "2026-11-25T00:39:21.435Z"
@@ -602,152 +742,6 @@
       ],
       "score": 56,
       "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "61dcf1169479",
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-      "domain": "deepmind.google",
-      "source": "Google DeepMind",
-      "sourceKey": "rss",
-      "sourceUrl": "https://deepmind.google/blog/rss.xml",
-      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-23T16:59:40.000Z",
-      "meta": {},
-      "badges": [
-        "first-party"
-      ],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [
-        "agents"
-      ],
-      "score": 56,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "ca38829e7312",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "domain": "huggingface.co",
-      "source": "Hugging Face Blog",
-      "sourceKey": "rss",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-23T17:20:37.000Z",
-      "meta": {},
-      "badges": [
-        "first-party"
-      ],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 56,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "a88353929e99",
-      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
-      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026",
-      "domain": "blogs.nvidia.com",
-      "source": "NVIDIA Blog",
-      "sourceKey": "rss",
-      "sourceUrl": "https://blogs.nvidia.com/feed/",
-      "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-23T17:00:08.000Z",
-      "meta": {},
-      "badges": [
-        "first-party"
-      ],
-      "lang": "en",
-      "also": [],
-      "category": "industry",
-      "tags": [
-        "nvidia"
-      ],
-      "score": 56,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "fb7a1ad02384",
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
-      "domain": "arstechnica.com",
-      "source": "Ars Technica AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://arstechnica.com/ai/feed/",
-      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T12:30:05.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "github",
-      "tags": [
-        "agents"
-      ],
-      "score": 56,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "428631f9a070",
-      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "url": "https://theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-      "domain": "theverge.com",
-      "source": "The Verge AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny,…",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T18:15:00.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 55,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
-    },
-    {
-      "id": "a8a55424e532",
-      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-      "url": "https://wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return",
-      "domain": "wired.com",
-      "source": "Wired AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T17:44:53.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "industry",
-      "tags": [
-        "nvidia"
-      ],
-      "score": 55,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
     }
   ]
 }
