@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-25T14:15:25.678Z",
+  "updatedAt": "2026-11-26T00:17:24.949Z",
   "items": [
+    {
+      "id": "abef7dcffe0c",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "why": "",
+      "source": "Hacker News",
+      "category": "github",
+      "score": 79,
+      "sentAt": "2026-11-26T00:17:24.949Z",
+      "channels": []
+    },
+    {
+      "id": "777816c50f03",
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "why": "",
+      "source": "Hacker News",
+      "category": "products",
+      "score": 74,
+      "sentAt": "2026-11-26T00:17:24.949Z",
+      "channels": []
+    },
+    {
+      "id": "37b5c9ba9326",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "why": "",
+      "source": "Hugging Face Blog",
+      "category": "products",
+      "score": 63,
+      "sentAt": "2026-11-26T00:17:24.949Z",
+      "channels": []
+    },
+    {
+      "id": "2748a793f4b9",
+      "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF (model)",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+      "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+      "why": "text-generation · llama.cpp · 322 likes",
+      "source": "Hugging Face",
+      "category": "models",
+      "score": 63,
+      "sentAt": "2026-11-26T00:17:24.949Z",
+      "channels": []
+    },
+    {
+      "id": "49ee48d5da3d",
+      "title": "Art of play in the age of AI",
+      "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai",
+      "link": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai",
+      "why": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
+      "source": "GitHub Blog",
+      "category": "products",
+      "score": 62,
+      "sentAt": "2026-11-26T00:17:24.949Z",
+      "channels": []
+    },
     {
       "id": "5ee45fc63309",
       "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",

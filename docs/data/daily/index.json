@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-26",
+    "issue": 3,
+    "headline": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+    "count": 35
+  },
+  {
     "date": "2026-11-25",
     "issue": 2,
     "headline": "Matrix Multiplication is Θ(n^2.25) [pdf]",

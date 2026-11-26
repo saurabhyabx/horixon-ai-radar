@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
 <title>Horixon Daily</title><link>https://saurabhyabx.github.io/horixon-ai-radar/feed/daily.xml</link><description>The Horixon daily AI digest.</description>
 <atom:link href="https://saurabhyabx.github.io/horixon-ai-radar/feed/daily.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 25 Nov 2026 14:15:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 00:17:27 GMT</lastBuildDate>
+<item><title>Horixon Daily #3 — Google releases Cogentic papers on integer factorization, discrete logs and more</title><link>https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-26.html</link><guid isPermaLink="false">daily-2026-11-26</guid><pubDate>Thu, 26 Nov 2026 08:00:00 GMT</pubDate><description>35 stories. Lead: Google releases Cogentic papers on integer factorization, discrete logs and more</description></item>
 <item><title>Horixon Daily #2 — Matrix Multiplication is Θ(n^2.25) [pdf]</title><link>https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-25.html</link><guid isPermaLink="false">daily-2026-11-25</guid><pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate><description>78 stories. Lead: Matrix Multiplication is Θ(n^2.25) [pdf]</description></item>
 <item><title>Horixon Daily #1 — LLM agents work for their parent companies, not for you</title><link>https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-24.html</link><guid isPermaLink="false">daily-2026-11-24</guid><pubDate>Tue, 24 Nov 2026 08:00:00 GMT</pubDate><description>164 stories. Lead: LLM agents work for their parent companies, not for you</description></item>
 </channel></rss>
