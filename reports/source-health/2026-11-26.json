@@ -3,43 +3,44 @@
     "producthunt": {
       "status": "skipped",
       "count": 0,
-      "ms": 0,
+      "ms": 1,
       "note": "PRODUCT_HUNT_TOKEN not set"
     },
     "huggingface": {
       "status": "ok",
       "count": 23,
-      "ms": 208
-    },
-    "rss": {
-      "status": "ok",
-      "count": 78,
-      "ms": 651,
-      "errors": [
-        "VentureBeat AI: HTTP 429 https://venturebeat.com/category/ai/feed/"
-      ]
+      "ms": 156
     },
     "radarPicks": {
       "status": "empty",
       "count": 0,
-      "ms": 1155
+      "ms": 1260
+    },
+    "rss": {
+      "status": "ok",
+      "count": 77,
+      "ms": 1642,
+      "errors": [
+        "VentureBeat AI: HTTP 429 https://venturebeat.com/category/ai/feed/",
+        "Import AI: HTTP 403 https://importai.substack.com/feed"
+      ]
     },
     "hn": {
       "status": "ok",
-      "count": 41,
-      "ms": 1993
+      "count": 36,
+      "ms": 2633
     },
     "github": {
       "status": "ok",
       "count": 24,
-      "ms": 2240
+      "ms": 2995
     }
   },
   "enrich": {
     "skipped": true
   },
-  "collected": 166,
-  "afterDedupe": 162,
+  "collected": 160,
+  "afterDedupe": 158,
   "alerts": {
     "sent": 5,
     "telegram": false

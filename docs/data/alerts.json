@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-26T00:17:24.949Z",
+  "updatedAt": "2026-11-26T13:50:33.325Z",
   "items": [
+    {
+      "id": "f63f4cad1468",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "link": "https://github.com/lsernau/grh-lean",
+      "why": "",
+      "source": "Hacker News",
+      "category": "github",
+      "score": 76,
+      "sentAt": "2026-11-26T13:50:33.325Z",
+      "channels": []
+    },
+    {
+      "id": "244a3e8cb4f1",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "why": "",
+      "source": "Hacker News",
+      "category": "models",
+      "score": 75,
+      "sentAt": "2026-11-26T13:50:33.325Z",
+      "channels": []
+    },
+    {
+      "id": "02a088434703",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "why": "",
+      "source": "Hugging Face Blog",
+      "category": "models",
+      "score": 64,
+      "sentAt": "2026-11-26T13:50:33.325Z",
+      "channels": []
+    },
+    {
+      "id": "d3aa48daa62d",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "why": "",
+      "source": "Hugging Face Blog",
+      "category": "models",
+      "score": 60,
+      "sentAt": "2026-11-26T13:50:33.325Z",
+      "channels": []
+    },
+    {
+      "id": "b45d58e25dc6",
+      "title": "How to choose the next safe step in application modernization",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "why": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog .",
+      "source": "GitHub Blog",
+      "category": "products",
+      "score": 60,
+      "sentAt": "2026-11-26T13:50:33.325Z",
+      "channels": []
+    },
     {
       "id": "abef7dcffe0c",
       "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",

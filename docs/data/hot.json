@@ -1,33 +1,6 @@
 {
-  "generatedAt": "2026-11-26T00:17:24.949Z",
+  "generatedAt": "2026-11-26T13:50:33.325Z",
   "items": [
-    {
-      "id": "ef8096d74f5d",
-      "title": "LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
-      "domain": "michaelharley.net",
-      "source": "Hacker News",
-      "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50627340",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T12:40:15Z",
-      "meta": {
-        "points": 999,
-        "comments": 410
-      },
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "agents"
-      ],
-      "score": 82,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
     {
       "id": "abef7dcffe0c",
       "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
@@ -42,8 +15,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T13:33:07Z",
       "meta": {
-        "points": 437,
-        "comments": 326
+        "points": 495,
+        "comments": 359
       },
       "badges": [],
       "lang": "en",
@@ -69,8 +42,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T01:19:26Z",
       "meta": {
-        "points": 1019,
-        "comments": 569
+        "points": 1050,
+        "comments": 595
       },
       "badges": [],
       "lang": "en",
@@ -81,35 +54,55 @@
       "firstSeen": "2026-11-25T14:15:25.678Z"
     },
     {
-      "id": "3c6728c1bfd1",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "domain": "openai.com",
-      "source": "OpenAI News",
-      "sourceKey": "rss",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "id": "e213ef04a870",
+      "title": "Tidal bans AI-generated music",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "domain": "variety.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50630309",
+      "summary": "",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T13:00:00.000Z",
+      "publishedAt": "2026-11-24T16:12:38Z",
+      "meta": {
+        "points": 336,
+        "comments": 333
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "industry",
+      "tags": [],
+      "score": 77,
+      "firstSeen": "2026-11-25T00:39:21.435Z"
+    },
+    {
+      "id": "02a088434703",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "domain": "huggingface.co",
+      "source": "Hugging Face Blog",
+      "sourceKey": "rss",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T11:37:17.000Z",
       "meta": {},
       "badges": [
         "first-party"
       ],
       "lang": "en",
-      "also": [
-        {
-          "source": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50634658"
-        }
-      ],
+      "also": [],
       "category": "models",
       "tags": [
-        "openai"
+        "meta"
       ],
-      "score": 70,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
+      "score": 64,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "37b5c9ba9326",
@@ -172,11 +165,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-      "summary": "text-generation · llama.cpp · 322 likes",
+      "summary": "text-generation · llama.cpp · 438 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
+      "publishedAt": "2026-11-26T13:50:33.366Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -196,11 +189,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "summary": "image-text-to-text · transformers · 6030 likes",
+      "summary": "image-text-to-text · transformers · 6143 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
+      "publishedAt": "2026-11-26T13:50:33.366Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -220,11 +213,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "summary": "image-text-to-text · 1370 likes",
+      "summary": "image-text-to-text · 1423 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
+      "publishedAt": "2026-11-26T13:50:33.366Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -261,30 +254,6 @@
       ],
       "score": 62,
       "firstSeen": "2026-11-26T00:17:24.949Z"
-    },
-    {
-      "id": "16565a3f5dc0",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "domain": "huggingface.co",
-      "source": "Hugging Face Blog",
-      "sourceKey": "rss",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T16:34:13.000Z",
-      "meta": {},
-      "badges": [
-        "first-party"
-      ],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 62,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
     },
     {
       "id": "e2544bc1aeb2",
@@ -337,32 +306,6 @@
       ],
       "score": 61,
       "firstSeen": "2026-11-25T00:39:21.435Z"
-    },
-    {
-      "id": "f3f6304a8cca",
-      "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls",
-      "domain": "aws.amazon.com",
-      "source": "AWS Machine Learning",
-      "sourceKey": "rss",
-      "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/feed/",
-      "summary": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic's Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you control over your data when you use Claude…",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T05:01:14.000Z",
-      "meta": {},
-      "badges": [
-        "first-party"
-      ],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "anthropic"
-      ],
-      "score": 61,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
       "id": "b45d58e25dc6",
@@ -584,6 +527,31 @@
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
+      "id": "4ba826a45a61",
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "url": "https://wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains",
+      "domain": "wired.com",
+      "source": "Wired AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T10:51:27.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "meta",
+        "agents"
+      ],
+      "score": 58,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
       "id": "7bb959aaf52e",
       "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
       "url": "https://theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
@@ -703,28 +671,26 @@
       "firstSeen": "2026-11-25T00:39:21.435Z"
     },
     {
-      "id": "f3aa9260f109",
-      "title": "Searching for distant planets with Astra",
-      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-      "domain": "openai.com",
-      "source": "OpenAI News",
+      "id": "d73563559186",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "domain": "theverge.com",
+      "source": "The Verge AI",
       "sourceKey": "rss",
-      "sourceUrl": "https://openai.com/news/rss.xml",
-      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million…",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T11:00:00.000Z",
+      "publishedAt": "2026-11-26T09:54:40.000Z",
       "meta": {},
-      "badges": [
-        "first-party"
-      ],
+      "badges": [],
       "lang": "en",
       "also": [],
-      "category": "products",
+      "category": "industry",
       "tags": [],
-      "score": 58,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
+      "score": 57,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "c7c801f91e25",
@@ -747,6 +713,28 @@
       "tags": [],
       "score": 57,
       "firstSeen": "2026-11-26T00:17:24.949Z"
+    },
+    {
+      "id": "b0deea04c96b",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
+      "domain": "technologyreview.com",
+      "source": "MIT Technology Review AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T10:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 57,
+      "firstSeen": "2026-11-25T14:15:25.678Z"
     }
   ]
 }

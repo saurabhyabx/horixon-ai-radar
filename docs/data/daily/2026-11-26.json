@@ -1,12 +1,12 @@
 {
   "date": "2026-11-26",
   "issue": 3,
-  "generatedAt": "2026-11-26T00:17:27.302Z",
+  "generatedAt": "2026-11-26T13:50:36.391Z",
   "stats": {
-    "stories": 35,
-    "sources": 11,
-    "firstParty": 5,
-    "readMinutes": 12
+    "stories": 65,
+    "sources": 14,
+    "firstParty": 8,
+    "readMinutes": 21
   },
   "lead": {
     "id": "abef7dcffe0c",
@@ -22,8 +22,8 @@
     "extraLinks": [],
     "publishedAt": "2026-11-25T13:33:07Z",
     "meta": {
-      "points": 437,
-      "comments": 326
+      "points": 495,
+      "comments": 359
     },
     "badges": [],
     "lang": "en",
@@ -50,8 +50,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T21:48:10Z",
       "meta": {
-        "points": 207,
-        "comments": 92
+        "points": 489,
+        "comments": 281
       },
       "badges": [],
       "lang": "en",
@@ -60,8 +60,34 @@
       "tags": [
         "anthropic"
       ],
-      "score": 65,
+      "score": 76,
       "firstSeen": "2026-11-26T00:17:24.949Z"
+    },
+    {
+      "id": "02a088434703",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "domain": "huggingface.co",
+      "source": "Hugging Face Blog",
+      "sourceKey": "rss",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T11:37:17.000Z",
+      "meta": {},
+      "badges": [
+        "first-party"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "meta"
+      ],
+      "score": 64,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "37b5c9ba9326",
@@ -88,36 +114,61 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-26T00:17:24.949Z"
-    },
-    {
-      "id": "49ee48d5da3d",
-      "title": "Art of play in the age of AI",
-      "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai",
-      "domain": "github.blog",
-      "source": "GitHub Blog",
-      "sourceKey": "rss",
-      "sourceUrl": "https://github.blog/feed/",
-      "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-25T16:00:00.000Z",
-      "meta": {},
-      "badges": [
-        "first-party"
-      ],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [
-        "coding"
-      ],
-      "score": 62,
-      "firstSeen": "2026-11-26T00:17:24.949Z"
     }
   ],
   "sections": {
     "models": [
+      {
+        "id": "02a088434703",
+        "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+        "domain": "huggingface.co",
+        "source": "Hugging Face Blog",
+        "sourceKey": "rss",
+        "sourceUrl": "https://huggingface.co/blog/feed.xml",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T11:37:17.000Z",
+        "meta": {},
+        "badges": [
+          "first-party"
+        ],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [
+          "meta"
+        ],
+        "score": 64,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
+        "id": "06c468d10ca7",
+        "title": "nvidia/Nemotron-Labs-Image-30B-A3B (model)",
+        "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+        "domain": "huggingface.co",
+        "source": "Hugging Face",
+        "sourceKey": "huggingface",
+        "sourceUrl": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+        "summary": "text-to-image · transformers · 222 likes",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T13:50:33.366Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [
+          "nvidia",
+          "image"
+        ],
+        "score": 59,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
       {
         "id": "4c44ce30146b",
         "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -150,11 +201,11 @@
         "source": "Hugging Face",
         "sourceKey": "huggingface",
         "sourceUrl": "https://huggingface.co/inclusionAI/LingSante-3.1-flash",
-        "summary": "text-generation · 192 likes",
+        "summary": "text-generation · 199 likes",
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-26T00:17:25.039Z",
+        "publishedAt": "2026-11-26T13:50:33.366Z",
         "meta": {},
         "badges": [],
         "lang": "en",
@@ -162,6 +213,81 @@
         "category": "models",
         "tags": [],
         "score": 54,
+        "firstSeen": "2026-11-26T00:17:24.949Z"
+      },
+      {
+        "id": "244a3e8cb4f1",
+        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+        "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+        "domain": "twitter.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50651117",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T03:36:58Z",
+        "meta": {
+          "points": 346,
+          "comments": 192
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [
+          "openai"
+        ],
+        "score": 75,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
+        "id": "d3aa48daa62d",
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "domain": "huggingface.co",
+        "source": "Hugging Face Blog",
+        "sourceKey": "rss",
+        "sourceUrl": "https://huggingface.co/blog/feed.xml",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T05:05:36.000Z",
+        "meta": {},
+        "badges": [
+          "first-party"
+        ],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [],
+        "score": 60,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
+        "id": "372ac8913322",
+        "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+        "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+        "domain": "techcrunch.com",
+        "source": "TechCrunch AI",
+        "sourceKey": "rss",
+        "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-25T19:44:24.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [
+          "anthropic"
+        ],
+        "score": 53,
         "firstSeen": "2026-11-26T00:17:24.949Z"
       },
       {
@@ -189,30 +315,6 @@
         "firstSeen": "2026-11-26T00:17:24.949Z"
       },
       {
-        "id": "372ac8913322",
-        "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-        "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
-        "domain": "techcrunch.com",
-        "source": "TechCrunch AI",
-        "sourceKey": "rss",
-        "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-        "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-25T19:44:24.000Z",
-        "meta": {},
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "models",
-        "tags": [
-          "anthropic"
-        ],
-        "score": 53,
-        "firstSeen": "2026-11-26T00:17:24.949Z"
-      },
-      {
         "id": "a958e935c2c7",
         "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
         "url": "https://danprice.ai/blog/opus-symphony",
@@ -226,8 +328,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-25T19:57:08Z",
         "meta": {
-          "points": 51,
-          "comments": 61
+          "points": 56,
+          "comments": 67
         },
         "badges": [],
         "lang": "en",
@@ -366,6 +468,31 @@
         "firstSeen": "2026-11-26T00:17:24.949Z"
       },
       {
+        "id": "4ba826a45a61",
+        "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+        "url": "https://wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains",
+        "domain": "wired.com",
+        "source": "Wired AI",
+        "sourceKey": "rss",
+        "sourceUrl": "https://www.wired.com/feed/tag/ai/latest/rss",
+        "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T10:51:27.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "products",
+        "tags": [
+          "meta",
+          "agents"
+        ],
+        "score": 58,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
         "id": "7bb959aaf52e",
         "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
         "url": "https://theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
@@ -437,6 +564,28 @@
         "firstSeen": "2026-11-26T00:17:24.949Z"
       },
       {
+        "id": "7fcbebbe6634",
+        "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+        "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
+        "domain": "simonwillison.net",
+        "source": "Simon Willison",
+        "sourceKey": "rss",
+        "sourceUrl": "https://simonwillison.net/atom/everything/",
+        "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive characteristics. Normally, if you…",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T06:08:25.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "products",
+        "tags": [],
+        "score": 56,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
         "id": "f14a6f6dfd19",
         "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
         "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
@@ -460,53 +609,6 @@
           "google"
         ],
         "score": 50,
-        "firstSeen": "2026-11-26T00:17:24.949Z"
-      },
-      {
-        "id": "0726a22afa0a",
-        "title": "rdata92/LTX-2.3-10Eros (Space)",
-        "url": "https://huggingface.co/spaces/rdata92/LTX-2.3-10Eros",
-        "domain": "huggingface.co",
-        "source": "Hugging Face",
-        "sourceKey": "huggingface",
-        "sourceUrl": "https://huggingface.co/spaces/rdata92/LTX-2.3-10Eros",
-        "summary": "Trending demo · gradio · 278 likes",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-26T00:17:25.039Z",
-        "meta": {},
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "products",
-        "tags": [],
-        "score": 47,
-        "firstSeen": "2026-11-26T00:17:24.949Z"
-      },
-      {
-        "id": "17789156cb48",
-        "title": "Investigating degraded experiences across GitHub products",
-        "url": "https://githubstatus.com/incidents/qn8mfv6q5hlx",
-        "domain": "githubstatus.com",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50643720",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-25T15:59:23Z",
-        "meta": {
-          "points": 178,
-          "comments": 97
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "products",
-        "tags": [],
-        "score": 60,
         "firstSeen": "2026-11-26T00:17:24.949Z"
       }
     ],
@@ -534,6 +636,28 @@
         ],
         "score": 58,
         "firstSeen": "2026-11-26T00:17:24.949Z"
+      },
+      {
+        "id": "d73563559186",
+        "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+        "url": "https://theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+        "domain": "theverge.com",
+        "source": "The Verge AI",
+        "sourceKey": "rss",
+        "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+        "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million…",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T09:54:40.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "industry",
+        "tags": [],
+        "score": 57,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
       },
       {
         "id": "7b7cb44d5be8",
@@ -642,8 +766,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-25T17:27:05Z",
         "meta": {
-          "points": 42,
-          "comments": 2
+          "points": 53,
+          "comments": 13
         },
         "badges": [],
         "lang": "en",
@@ -681,6 +805,184 @@
     ],
     "research": [
       {
+        "id": "5aa9e3310d13",
+        "title": "Context Scaling: A New Frontier of AI Scaling",
+        "url": "https://arxiv.org/abs/2611.33160",
+        "domain": "arxiv.org",
+        "source": "arXiv cs.AI",
+        "sourceKey": "rss",
+        "sourceUrl": "https://rss.arxiv.org/rss/cs.AI",
+        "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment changes may be…",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T05:00:00.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "research",
+        "tags": [],
+        "score": 55,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
+        "id": "f3b43de57243",
+        "title": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+        "url": "https://arxiv.org/abs/2611.33173",
+        "domain": "arxiv.org",
+        "source": "arXiv cs.CL",
+        "sourceKey": "rss",
+        "sourceUrl": "https://rss.arxiv.org/rss/cs.CL",
+        "summary": "arXiv:2611.33173v1 Announce Type: new Abstract: The Bundesrat is Germany's second legislative chamber and a constitutional veto player within its political system. The members of the Bundesrat are delegates of state governments. Tracing the political discourse in the Bundesrat is challenging as it has a limited…",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T05:00:00.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "research",
+        "tags": [],
+        "score": 55,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
+        "id": "3965806fbc78",
+        "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+        "url": "https://arxiv.org/abs/2611.33161",
+        "domain": "arxiv.org",
+        "source": "arXiv cs.AI",
+        "sourceKey": "rss",
+        "sourceUrl": "https://rss.arxiv.org/rss/cs.AI",
+        "summary": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausible but physically…",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T05:00:00.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "research",
+        "tags": [],
+        "score": 54,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
+        "id": "0b3165cb6908",
+        "title": "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
+        "url": "https://arxiv.org/abs/2611.33174",
+        "domain": "arxiv.org",
+        "source": "arXiv cs.CL",
+        "sourceKey": "rss",
+        "sourceUrl": "https://rss.arxiv.org/rss/cs.CL",
+        "summary": "arXiv:2611.33174v1 Announce Type: new Abstract: Long-horizon Large Language Model (LLM) agents need persistent memory that surfaces the right past interaction at the right time across thousands of turns. Many systems index by invoking generative LLMs to rewrite history into summaries, facts, or knowledge graphs--a…",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T05:00:00.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "research",
+        "tags": [
+          "agents"
+        ],
+        "score": 54,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
+        "id": "be1cc5587b8c",
+        "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+        "url": "https://arxiv.org/abs/2611.33165",
+        "domain": "arxiv.org",
+        "source": "arXiv cs.AI",
+        "sourceKey": "rss",
+        "sourceUrl": "https://rss.arxiv.org/rss/cs.AI",
+        "summary": "arXiv:2611.33165v1 Announce Type: new Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and intermediate lemmas that connect a result to…",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T05:00:00.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "research",
+        "tags": [],
+        "score": 53,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
+        "id": "19b9b3dd6c2c",
+        "title": "Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment",
+        "url": "https://arxiv.org/abs/2611.33175",
+        "domain": "arxiv.org",
+        "source": "arXiv cs.CL",
+        "sourceKey": "rss",
+        "sourceUrl": "https://rss.arxiv.org/rss/cs.CL",
+        "summary": "arXiv:2611.33175v1 Announce Type: new Abstract: Transformer-based automated writing scoring models can achieve strong agreement with human scores while providing limited transparency into the response characteristics associated with their predictions. This study evaluated a feature-based post-hoc explanation approach…",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T05:00:00.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "research",
+        "tags": [],
+        "score": 53,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
+        "id": "c8682f048617",
+        "title": "General-Purpose Decision Models for AI Configuration Tuning",
+        "url": "https://arxiv.org/abs/2611.33190",
+        "domain": "arxiv.org",
+        "source": "arXiv cs.AI",
+        "sourceKey": "rss",
+        "sourceUrl": "https://rss.arxiv.org/rss/cs.AI",
+        "summary": "arXiv:2611.33190v1 Announce Type: new Abstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners use different sampling and search policies, making the choice of decision strategy central to both tuning quality and cost. We investigate…",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T05:00:00.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "research",
+        "tags": [],
+        "score": 51,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
+        "id": "766b6b8128f4",
+        "title": "Psychophysics of Duration Perception in Multimodal Large Language Models",
+        "url": "https://arxiv.org/abs/2611.33176",
+        "domain": "arxiv.org",
+        "source": "arXiv cs.CL",
+        "sourceKey": "rss",
+        "sourceUrl": "https://rss.arxiv.org/rss/cs.CL",
+        "summary": "arXiv:2611.33176v1 Announce Type: new Abstract: Studies of time perception in language models focus mainly on text-based settings. Yet multimodal models are increasingly used for tasks that require perceiving the passage of time, making the limits of their temporal perception important to understand. We measure the…",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T05:00:00.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "research",
+        "tags": [],
+        "score": 51,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
         "id": "c2211ba4f6cd",
         "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
         "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
@@ -701,6 +1003,30 @@
         "tags": [],
         "score": 51,
         "firstSeen": "2026-11-26T00:17:24.949Z"
+      },
+      {
+        "id": "ef0eeffeb9e1",
+        "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+        "url": "https://arxiv.org/abs/2611.33263",
+        "domain": "arxiv.org",
+        "source": "arXiv cs.AI",
+        "sourceKey": "rss",
+        "sourceUrl": "https://rss.arxiv.org/rss/cs.AI",
+        "summary": "arXiv:2611.33263v1 Announce Type: new Abstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate response. We introduce a…",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T05:00:00.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "research",
+        "tags": [
+          "funding"
+        ],
+        "score": 50,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
       }
     ],
     "github": [
@@ -718,8 +1044,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-25T13:33:07Z",
         "meta": {
-          "points": 437,
-          "comments": 326
+          "points": 495,
+          "comments": 359
         },
         "badges": [],
         "lang": "en",
@@ -745,8 +1071,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-25T21:48:10Z",
         "meta": {
-          "points": 207,
-          "comments": 92
+          "points": 489,
+          "comments": 281
         },
         "badges": [],
         "lang": "en",
@@ -755,7 +1081,34 @@
         "tags": [
           "anthropic"
         ],
-        "score": 65,
+        "score": 76,
+        "firstSeen": "2026-11-26T00:17:24.949Z"
+      },
+      {
+        "id": "a519f60a2170",
+        "title": "alesha-pro/llm.asm — Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with",
+        "url": "https://github.com/alesha-pro/llm.asm",
+        "domain": "github.com",
+        "source": "GitHub",
+        "sourceKey": "github",
+        "sourceUrl": "https://github.com/alesha-pro/llm.asm",
+        "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-25T07:28:51Z",
+        "meta": {
+          "stars": 1065,
+          "language": "Assembly"
+        },
+        "badges": [
+          "open-source"
+        ],
+        "lang": "en",
+        "also": [],
+        "category": "github",
+        "tags": [],
+        "score": 52,
         "firstSeen": "2026-11-26T00:17:24.949Z"
       },
       {
@@ -789,31 +1142,54 @@
         "firstSeen": "2026-11-26T00:17:24.949Z"
       },
       {
-        "id": "a519f60a2170",
-        "title": "alesha-pro/llm.asm — Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with",
-        "url": "https://github.com/alesha-pro/llm.asm",
+        "id": "91ef480232c5",
+        "title": "Intel One Mono font",
+        "url": "https://github.com/intel/intel-one-mono",
         "domain": "github.com",
-        "source": "GitHub",
-        "sourceKey": "github",
-        "sourceUrl": "https://github.com/alesha-pro/llm.asm",
-        "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50653667",
+        "summary": "",
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-25T07:28:51Z",
+        "publishedAt": "2026-11-26T10:11:01Z",
         "meta": {
-          "stars": 220,
-          "language": "Assembly"
+          "points": 189,
+          "comments": 106
         },
-        "badges": [
-          "open-source"
-        ],
+        "badges": [],
         "lang": "en",
         "also": [],
         "category": "github",
         "tags": [],
-        "score": 43,
-        "firstSeen": "2026-11-26T00:17:24.949Z"
+        "score": 63,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
+      },
+      {
+        "id": "a1356d98cece",
+        "title": "Bare Metal Qwen",
+        "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+        "domain": "github.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50648365",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-25T22:15:34Z",
+        "meta": {
+          "points": 184,
+          "comments": 40
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "github",
+        "tags": [],
+        "score": 56,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
       },
       {
         "id": "3e11caea3c27",
@@ -829,8 +1205,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-25T17:34:34Z",
         "meta": {
-          "points": 115,
-          "comments": 28
+          "points": 167,
+          "comments": 45
         },
         "badges": [],
         "lang": "en",
@@ -841,65 +1217,56 @@
         "firstSeen": "2026-11-26T00:17:24.949Z"
       },
       {
-        "id": "610688b2aebc",
-        "title": "bytebuildsmall/claude-desktop — Claude Desktop for Windows 10/11. Chats with Claude AI to draft documents, analyze files and code, a",
-        "url": "https://github.com/bytebuildsmall/claude-desktop",
+        "id": "971f7afa718c",
+        "title": "Unconditional Integer Factorization in Subexponential Time",
+        "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
         "domain": "github.com",
-        "source": "GitHub",
-        "sourceKey": "github",
-        "sourceUrl": "https://github.com/bytebuildsmall/claude-desktop",
-        "summary": "Claude Desktop for Windows 10/11. Chats with Claude AI to draft documents, analyze files and code, and answer questions from a native desktop app with quick access to your projects and conversations.",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50651627",
+        "summary": "",
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-24T11:49:09Z",
+        "publishedAt": "2026-11-26T04:59:56Z",
         "meta": {
-          "stars": 167,
-          "language": null
+          "points": 73,
+          "comments": 8
         },
-        "badges": [
-          "open-source"
-        ],
+        "badges": [],
         "lang": "en",
         "also": [],
         "category": "github",
-        "tags": [
-          "anthropic"
-        ],
-        "score": 34,
-        "firstSeen": "2026-11-26T00:17:24.949Z"
+        "tags": [],
+        "score": 50,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
       },
       {
-        "id": "85f80ad7170e",
-        "title": "AetherLabsAI/GameAnything — Turn anything your like (photos, videos, novels, films, memories) into worlds you can play in games",
-        "url": "https://github.com/AetherLabsAI/GameAnything",
+        "id": "06ce02390103",
+        "title": "Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)",
+        "url": "https://github.com/click6067-ship-it/token-tv",
         "domain": "github.com",
-        "source": "GitHub",
-        "sourceKey": "github",
-        "sourceUrl": "https://github.com/AetherLabsAI/GameAnything",
-        "summary": "Turn anything your like (photos, videos, novels, films, memories) into worlds you can play in games you love. Coding agents (Claude Code, Codex, Gemini CLI, OpenCode…) build, playtest and refine the mod while you just chat.",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50642300",
+        "summary": "",
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-23T19:56:40Z",
+        "publishedAt": "2026-11-25T13:51:44Z",
         "meta": {
-          "stars": 30,
-          "language": "Python"
+          "points": 48,
+          "comments": 4
         },
         "badges": [
-          "open-source"
+          "launch"
         ],
         "lang": "en",
         "also": [],
         "category": "github",
-        "tags": [
-          "anthropic",
-          "google",
-          "agents",
-          "coding"
-        ],
-        "score": 25,
-        "firstSeen": "2026-11-26T00:17:24.949Z"
+        "tags": [],
+        "score": 42,
+        "firstSeen": "2026-11-26T13:50:33.325Z"
       }
     ],
     "founders": []

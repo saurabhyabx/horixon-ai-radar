@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:17:24.949Z",
+  "generatedAt": "2026-11-26T13:50:33.325Z",
   "categories": [
     {
       "key": "models",
@@ -26,8 +26,33 @@
       "label": "Founders"
     }
   ],
-  "count": 277,
+  "count": 307,
   "items": [
+    {
+      "id": "06c468d10ca7",
+      "title": "nvidia/Nemotron-Labs-Image-30B-A3B (model)",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+      "summary": "text-to-image · transformers · 222 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "nvidia",
+        "image"
+      ],
+      "score": 59,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
     {
       "id": "4f1b4d5d72a4",
       "title": "inclusionAI/LingSante-3.1-flash (model)",
@@ -36,11 +61,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/inclusionAI/LingSante-3.1-flash",
-      "summary": "text-generation · 192 likes",
+      "summary": "text-generation · 199 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
+      "publishedAt": "2026-11-26T13:50:33.366Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -58,11 +83,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/rdata92/LTX-2.3-10Eros",
-      "summary": "Trending demo · gradio · 278 likes",
+      "summary": "Trending demo · gradio · 280 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
+      "publishedAt": "2026-11-26T13:50:33.366Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -80,11 +105,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-      "summary": "text-generation · llama.cpp · 322 likes",
+      "summary": "text-generation · llama.cpp · 438 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
+      "publishedAt": "2026-11-26T13:50:33.366Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -95,6 +120,945 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-25T14:15:25.678Z"
+    },
+    {
+      "id": "95f66e605143",
+      "title": "llamaindex/OCRia-nano-1 (model)",
+      "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/llamaindex/OCRia-nano-1",
+      "summary": "image-to-text · liteparse · 251 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "meta",
+        "image"
+      ],
+      "score": 60,
+      "firstSeen": "2026-11-25T00:39:21.435Z"
+    },
+    {
+      "id": "99ccc673a30f",
+      "title": "thinkingmachines/Inkling-2-Mini (model)",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "summary": "image-text-to-text · transformers · 6143 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "image"
+      ],
+      "score": 63,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "67c4c2c31439",
+      "title": "unsloth/Inkling-2-Mini-GGUF (model)",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "summary": "image-text-to-text · 1423 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "image"
+      ],
+      "score": 63,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "74c05f88e457",
+      "title": "inworld/voice-isolator (model)",
+      "url": "https://huggingface.co/inworld/voice-isolator",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
+      "summary": "audio-to-audio · inworld-voice-isolation · 925 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "voice"
+      ],
+      "score": 63,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "9dc3bbb2d9bc",
+      "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF (model)",
+      "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "summary": "image-text-to-text · 875 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "image"
+      ],
+      "score": 63,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "dc79824f7494",
+      "title": "harness-hub/Qwen3.8-27B-pi-adapted (model)",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+      "summary": "image-text-to-text · peft · 1127 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "image"
+      ],
+      "score": 63,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "6518fbd35a14",
+      "title": "higurashi-ai/Haru-4B (model)",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "summary": "audio-to-audio · 1037 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "voice"
+      ],
+      "score": 63,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "51845c6107b0",
+      "title": "SulphurAI/Sulphur-3 (model)",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/SulphurAI/Sulphur-3",
+      "summary": "minimax-h3 · 1165 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [],
+      "score": 63,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "04ce1345cda9",
+      "title": "Lightricks/LTX-2.5 (model)",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "image-to-video · diffusion-single-file · 13499 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "video",
+        "image"
+      ],
+      "score": 63,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "817dd59c1bdb",
+      "title": "apple/DepthPro2 (model)",
+      "url": "https://huggingface.co/apple/DepthPro2",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/apple/DepthPro2",
+      "summary": "depth-estimation · depth-pro-2 · 1271 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [],
+      "score": 61,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "4958e8f6f01d",
+      "title": "JCisHERE/wan2-2-i2v-v3 (Space)",
+      "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
+      "summary": "Trending demo · gradio · 795 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 60,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "cd73459784d8",
+      "title": "inclusionAI/Ling-3.2-air (model)",
+      "url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.2-air",
+      "summary": "242 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [],
+      "score": 58,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "81ecb7742efe",
+      "title": "nari-labs/Qwen3.8-27B-NariQ-GGUF (model)",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "summary": "image-text-to-text · gguf · 176 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "image"
+      ],
+      "score": 55,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "4afc8eab030c",
+      "title": "MiniMaxAI/minimax-h3-image (Space)",
+      "url": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image",
+      "summary": "Trending demo · gradio · 360 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "image"
+      ],
+      "score": 54,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "cccf264ced5f",
+      "title": "huggingface/moe-blogpost (Space)",
+      "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/spaces/huggingface/moe-blogpost",
+      "summary": "Trending demo · docker · 858 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 52,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "e951dc8237f2",
+      "title": "Lakonik/pi-H3 (Space)",
+      "url": "https://huggingface.co/spaces/Lakonik/pi-H3",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/spaces/Lakonik/pi-H3",
+      "summary": "Trending demo · gradio · 184 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 52,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "84eda138c905",
+      "title": "joelniklaus/harness-leaderboard (Space)",
+      "url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
+      "summary": "Trending demo · docker · 559 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 50,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "c104e2bbac6a",
+      "title": "waitinghere/Krea2T-Revamped (Space)",
+      "url": "https://huggingface.co/spaces/waitinghere/Krea2T-Revamped",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/spaces/waitinghere/Krea2T-Revamped",
+      "summary": "Trending demo · gradio · 185 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 50,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "40e45d3a0ec2",
+      "title": "hugging-apps/bfs-best-face-swap (Space)",
+      "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
+      "summary": "Trending demo · gradio · 1101 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 49,
+      "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "02a088434703",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "domain": "huggingface.co",
+      "source": "Hugging Face Blog",
+      "sourceKey": "rss",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T11:37:17.000Z",
+      "meta": {},
+      "badges": [
+        "first-party"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "meta"
+      ],
+      "score": 64,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "4ba826a45a61",
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "url": "https://wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains",
+      "domain": "wired.com",
+      "source": "Wired AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T10:51:27.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "meta",
+        "agents"
+      ],
+      "score": 58,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "91ef480232c5",
+      "title": "Intel One Mono font",
+      "url": "https://github.com/intel/intel-one-mono",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50653667",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T10:11:01Z",
+      "meta": {
+        "points": 189,
+        "comments": 106
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 63,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "d73563559186",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "domain": "theverge.com",
+      "source": "The Verge AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T09:54:40.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "industry",
+      "tags": [],
+      "score": 57,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "6f6a6b07f17a",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+      "domain": "techstackups.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50653477",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T09:44:23Z",
+      "meta": {
+        "points": 82,
+        "comments": 89
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "google",
+        "agents",
+        "mcp"
+      ],
+      "score": 55,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "64a870b6a927",
+      "title": "Moat: Your OpenRouter Replacement",
+      "url": "https://commandcode.ai/moat",
+      "domain": "commandcode.ai",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50652184",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T06:32:48Z",
+      "meta": {
+        "points": 127,
+        "comments": 85
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 57,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "7fcbebbe6634",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
+      "domain": "simonwillison.net",
+      "source": "Simon Willison",
+      "sourceKey": "rss",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive characteristics. Normally, if you…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T06:08:25.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 56,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "d3aa48daa62d",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "domain": "huggingface.co",
+      "source": "Hugging Face Blog",
+      "sourceKey": "rss",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:05:36.000Z",
+      "meta": {},
+      "badges": [
+        "first-party"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [],
+      "score": 60,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "5aa9e3310d13",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.AI",
+      "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment changes may be…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 55,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "f3b43de57243",
+      "title": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+      "url": "https://arxiv.org/abs/2611.33173",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.CL",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.CL",
+      "summary": "arXiv:2611.33173v1 Announce Type: new Abstract: The Bundesrat is Germany's second legislative chamber and a constitutional veto player within its political system. The members of the Bundesrat are delegates of state governments. Tracing the political discourse in the Bundesrat is challenging as it has a limited…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 55,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "3965806fbc78",
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.AI",
+      "summary": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausible but physically…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 54,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "0b3165cb6908",
+      "title": "MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory",
+      "url": "https://arxiv.org/abs/2611.33174",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.CL",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.CL",
+      "summary": "arXiv:2611.33174v1 Announce Type: new Abstract: Long-horizon Large Language Model (LLM) agents need persistent memory that surfaces the right past interaction at the right time across thousands of turns. Many systems index by invoking generative LLMs to rewrite history into summaries, facts, or knowledge graphs--a…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [
+        "agents"
+      ],
+      "score": 54,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "be1cc5587b8c",
+      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "url": "https://arxiv.org/abs/2611.33165",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.AI",
+      "summary": "arXiv:2611.33165v1 Announce Type: new Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and intermediate lemmas that connect a result to…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 53,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "19b9b3dd6c2c",
+      "title": "Feature-Based Explainability of Transformer Scoring Models: A Fidelity-First Framework for Automated Writing Assessment",
+      "url": "https://arxiv.org/abs/2611.33175",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.CL",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.CL",
+      "summary": "arXiv:2611.33175v1 Announce Type: new Abstract: Transformer-based automated writing scoring models can achieve strong agreement with human scores while providing limited transparency into the response characteristics associated with their predictions. This study evaluated a feature-based post-hoc explanation approach…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 53,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "c8682f048617",
+      "title": "General-Purpose Decision Models for AI Configuration Tuning",
+      "url": "https://arxiv.org/abs/2611.33190",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.AI",
+      "summary": "arXiv:2611.33190v1 Announce Type: new Abstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners use different sampling and search policies, making the choice of decision strategy central to both tuning quality and cost. We investigate…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 51,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "766b6b8128f4",
+      "title": "Psychophysics of Duration Perception in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2611.33176",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.CL",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.CL",
+      "summary": "arXiv:2611.33176v1 Announce Type: new Abstract: Studies of time perception in language models focus mainly on text-based settings. Yet multimodal models are increasingly used for tasks that require perceiving the passage of time, making the limits of their temporal perception important to understand. We measure the…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 51,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "ef0eeffeb9e1",
+      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "url": "https://arxiv.org/abs/2611.33263",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.AI",
+      "summary": "arXiv:2611.33263v1 Announce Type: new Abstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate response. We introduce a…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [
+        "funding"
+      ],
+      "score": 50,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "4a066906982d",
+      "title": "Verified experience improves materials prediction with large language models",
+      "url": "https://arxiv.org/abs/2611.33195",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.CL",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.CL",
+      "summary": "arXiv:2611.33195v1 Announce Type: new Abstract: Materials discovery is an iterative loop: experiments and calculations verify predictions, and each outcome can inform the next. Yet most predictors are specialized single-task models fixed after training. Large language models have recently emerged as predictors across…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 50,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "971f7afa718c",
+      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50651627",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T04:59:56Z",
+      "meta": {
+        "points": 73,
+        "comments": 8
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 50,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "244a3e8cb4f1",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "domain": "twitter.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50651117",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T03:36:58Z",
+      "meta": {
+        "points": 346,
+        "comments": 192
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "openai"
+      ],
+      "score": 75,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "23df49456422",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg",
+      "domain": "progrium.github.io",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50650892",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T03:00:48Z",
+      "meta": {
+        "points": 184,
+        "comments": 26
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 57,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "4841bb6c1660",
@@ -117,241 +1081,6 @@
       "tags": [],
       "score": 54,
       "firstSeen": "2026-11-25T14:15:25.678Z"
-    },
-    {
-      "id": "95f66e605143",
-      "title": "llamaindex/OCRia-nano-1 (model)",
-      "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/llamaindex/OCRia-nano-1",
-      "summary": "image-to-text · liteparse · 230 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "meta",
-        "image"
-      ],
-      "score": 58,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
-    },
-    {
-      "id": "99ccc673a30f",
-      "title": "thinkingmachines/Inkling-2-Mini (model)",
-      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "summary": "image-text-to-text · transformers · 6030 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "image"
-      ],
-      "score": 63,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "67c4c2c31439",
-      "title": "unsloth/Inkling-2-Mini-GGUF (model)",
-      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "summary": "image-text-to-text · 1370 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "image"
-      ],
-      "score": 63,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "74c05f88e457",
-      "title": "inworld/voice-isolator (model)",
-      "url": "https://huggingface.co/inworld/voice-isolator",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
-      "summary": "audio-to-audio · inworld-voice-isolation · 894 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "voice"
-      ],
-      "score": 63,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "9dc3bbb2d9bc",
-      "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF (model)",
-      "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-      "summary": "image-text-to-text · 838 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "image"
-      ],
-      "score": 63,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "dc79824f7494",
-      "title": "harness-hub/Qwen3.8-27B-pi-adapted (model)",
-      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-      "summary": "image-text-to-text · peft · 1116 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "image"
-      ],
-      "score": 63,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "6518fbd35a14",
-      "title": "higurashi-ai/Haru-4B (model)",
-      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/higurashi-ai/Haru-4B",
-      "summary": "audio-to-audio · 1024 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "voice"
-      ],
-      "score": 63,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "51845c6107b0",
-      "title": "SulphurAI/Sulphur-3 (model)",
-      "url": "https://huggingface.co/SulphurAI/Sulphur-3",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/SulphurAI/Sulphur-3",
-      "summary": "minimax-h3 · 1071 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [],
-      "score": 63,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "4958e8f6f01d",
-      "title": "JCisHERE/wan2-2-i2v-v3 (Space)",
-      "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
-      "summary": "Trending demo · gradio · 771 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 60,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "817dd59c1bdb",
-      "title": "apple/DepthPro2 (model)",
-      "url": "https://huggingface.co/apple/DepthPro2",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/apple/DepthPro2",
-      "summary": "depth-estimation · depth-pro-2 · 1251 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [],
-      "score": 60,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
       "id": "6c64301c09e0",
@@ -378,185 +1107,30 @@
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
-      "id": "cd73459784d8",
-      "title": "inclusionAI/Ling-3.2-air (model)",
-      "url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
+      "id": "c01600d41603",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
       "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/inclusionAI/Ling-3.2-air",
-      "summary": "235 likes",
+      "source": "Hugging Face Blog",
+      "sourceKey": "rss",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
       "meta": {},
-      "badges": [],
+      "badges": [
+        "first-party"
+      ],
       "lang": "en",
       "also": [],
-      "category": "models",
-      "tags": [],
-      "score": 57,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "04ce1345cda9",
-      "title": "Lightricks/LTX-2.5 (model)",
-      "url": "https://huggingface.co/Lightricks/LTX-2.5",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "image-to-video · diffusion-single-file · 13439 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
+      "category": "products",
       "tags": [
-        "video",
-        "image"
+        "agents"
       ],
       "score": 56,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "4afc8eab030c",
-      "title": "MiniMaxAI/minimax-h3-image (Space)",
-      "url": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image",
-      "summary": "Trending demo · gradio · 351 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [
-        "image"
-      ],
-      "score": 54,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "cccf264ced5f",
-      "title": "huggingface/moe-blogpost (Space)",
-      "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/spaces/huggingface/moe-blogpost",
-      "summary": "Trending demo · docker · 854 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 52,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "e951dc8237f2",
-      "title": "Lakonik/pi-H3 (Space)",
-      "url": "https://huggingface.co/spaces/Lakonik/pi-H3",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/spaces/Lakonik/pi-H3",
-      "summary": "Trending demo · gradio · 173 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 51,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "84eda138c905",
-      "title": "joelniklaus/harness-leaderboard (Space)",
-      "url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
-      "summary": "Trending demo · docker · 557 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 50,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "c104e2bbac6a",
-      "title": "waitinghere/Krea2T-Revamped (Space)",
-      "url": "https://huggingface.co/spaces/waitinghere/Krea2T-Revamped",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/spaces/waitinghere/Krea2T-Revamped",
-      "summary": "Trending demo · gradio · 178 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 50,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "40e45d3a0ec2",
-      "title": "hugging-apps/bfs-best-face-swap (Space)",
-      "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
-      "summary": "Trending demo · gradio · 1095 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T00:17:25.039Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 49,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
+      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "04a9805dfa55",
@@ -579,6 +1153,31 @@
       "tags": [],
       "score": 59,
       "firstSeen": "2026-11-26T00:17:24.949Z"
+    },
+    {
+      "id": "eafb7f8679df",
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "url": "https://bbc.co.uk/news/articles/cmp3vk6vr44po",
+      "domain": "bbc.co.uk",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50648822",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T22:57:01Z",
+      "meta": {
+        "points": 51,
+        "comments": 10
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 46,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "f27e0de9d097",
@@ -651,6 +1250,31 @@
       "firstSeen": "2026-11-26T00:17:24.949Z"
     },
     {
+      "id": "a1356d98cece",
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50648365",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T22:15:34Z",
+      "meta": {
+        "points": 184,
+        "comments": 40
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 56,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
       "id": "7bb959aaf52e",
       "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
       "url": "https://theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
@@ -689,8 +1313,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T21:48:10Z",
       "meta": {
-        "points": 207,
-        "comments": 92
+        "points": 489,
+        "comments": 281
       },
       "badges": [],
       "lang": "en",
@@ -699,7 +1323,7 @@
       "tags": [
         "anthropic"
       ],
-      "score": 65,
+      "score": 76,
       "firstSeen": "2026-11-26T00:17:24.949Z"
     },
     {
@@ -726,6 +1350,31 @@
       "tags": [],
       "score": 60,
       "firstSeen": "2026-11-26T00:17:24.949Z"
+    },
+    {
+      "id": "19f2f984a80d",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "domain": "theverge.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50647673",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T21:18:02Z",
+      "meta": {
+        "points": 470,
+        "comments": 393
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 76,
+      "firstSeen": "2026-11-25T00:39:21.435Z"
     },
     {
       "id": "4c44ce30146b",
@@ -765,8 +1414,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T19:57:08Z",
       "meta": {
-        "points": 51,
-        "comments": 61
+        "points": 56,
+        "comments": 67
       },
       "badges": [],
       "lang": "en",
@@ -882,6 +1531,28 @@
       "firstSeen": "2026-11-26T00:17:24.949Z"
     },
     {
+      "id": "9527dd371e58",
+      "title": "datasette-charts 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts",
+      "domain": "simonwillison.net",
+      "source": "Simon Willison",
+      "sourceKey": "rss",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "summary": "Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts ! You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three. A chart with annotations looks like this: Here's that same chart in Datasette Lite , where you can tweak the annotations using…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T18:16:50.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 48,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
       "id": "c2211ba4f6cd",
       "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
       "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
@@ -963,8 +1634,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T17:34:34Z",
       "meta": {
-        "points": 115,
-        "comments": 28
+        "points": 167,
+        "comments": 45
       },
       "badges": [],
       "lang": "en",
@@ -988,8 +1659,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T17:27:05Z",
       "meta": {
-        "points": 42,
-        "comments": 2
+        "points": 53,
+        "comments": 13
       },
       "badges": [],
       "lang": "en",
@@ -1083,8 +1754,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T15:59:23Z",
       "meta": {
-        "points": 178,
-        "comments": 97
+        "points": 186,
+        "comments": 103
       },
       "badges": [],
       "lang": "en",
@@ -1133,8 +1804,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T15:20:15Z",
       "meta": {
-        "points": 104,
-        "comments": 164
+        "points": 120,
+        "comments": 183
       },
       "badges": [],
       "lang": "en",
@@ -1268,6 +1939,33 @@
       "firstSeen": "2026-11-25T14:15:25.678Z"
     },
     {
+      "id": "06ce02390103",
+      "title": "Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)",
+      "url": "https://github.com/click6067-ship-it/token-tv",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50642300",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T13:51:44Z",
+      "meta": {
+        "points": 48,
+        "comments": 4
+      },
+      "badges": [
+        "launch"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 42,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
       "id": "abef7dcffe0c",
       "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
       "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
@@ -1281,8 +1979,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T13:33:07Z",
       "meta": {
-        "points": 437,
-        "comments": 326
+        "points": 495,
+        "comments": 359
       },
       "badges": [],
       "lang": "en",
@@ -1380,8 +2078,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T11:34:25Z",
       "meta": {
-        "points": 309,
-        "comments": 172
+        "points": 338,
+        "comments": 187
       },
       "badges": [],
       "lang": "en",
@@ -1412,6 +2110,37 @@
       "tags": [],
       "score": 58,
       "firstSeen": "2026-11-25T14:15:25.678Z"
+    },
+    {
+      "id": "9a2d977585a6",
+      "title": "nexu-io/opengame — The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ co",
+      "url": "https://github.com/nexu-io/opengame",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/nexu-io/opengame",
+      "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T10:35:45Z",
+      "meta": {
+        "stars": 315,
+        "language": "TypeScript"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "anthropic",
+        "agents",
+        "coding"
+      ],
+      "score": 40,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "f69c6b86c153",
@@ -1501,7 +2230,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T07:28:51Z",
       "meta": {
-        "stars": 220,
+        "stars": 1065,
         "language": "Assembly"
       },
       "badges": [
@@ -1511,7 +2240,7 @@
       "also": [],
       "category": "github",
       "tags": [],
-      "score": 43,
+      "score": 52,
       "firstSeen": "2026-11-26T00:17:24.949Z"
     },
     {
@@ -1760,8 +2489,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T04:56:36Z",
       "meta": {
-        "points": 145,
-        "comments": 44
+        "points": 153,
+        "comments": 47
       },
       "badges": [],
       "lang": "en",
@@ -1787,8 +2516,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T04:31:48Z",
       "meta": {
-        "points": 330,
-        "comments": 73
+        "points": 351,
+        "comments": 80
       },
       "badges": [
         "launch"
@@ -1840,8 +2569,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T04:03:33Z",
       "meta": {
-        "points": 214,
-        "comments": 166
+        "points": 218,
+        "comments": 172
       },
       "badges": [],
       "lang": "en",
@@ -1867,8 +2596,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T03:47:42Z",
       "meta": {
-        "points": 216,
-        "comments": 82
+        "points": 221,
+        "comments": 83
       },
       "badges": [],
       "lang": "en",
@@ -1917,8 +2646,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T03:04:46Z",
       "meta": {
-        "points": 163,
-        "comments": 85
+        "points": 181,
+        "comments": 96
       },
       "badges": [],
       "lang": "en",
@@ -1942,8 +2671,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T03:04:37Z",
       "meta": {
-        "points": 436,
-        "comments": 144
+        "points": 457,
+        "comments": 148
       },
       "badges": [],
       "lang": "en",
@@ -1967,8 +2696,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T03:01:36Z",
       "meta": {
-        "points": 101,
-        "comments": 50
+        "points": 104,
+        "comments": 53
       },
       "badges": [],
       "lang": "en",
@@ -1992,8 +2721,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T01:19:26Z",
       "meta": {
-        "points": 1019,
-        "comments": 569
+        "points": 1050,
+        "comments": 595
       },
       "badges": [],
       "lang": "en",
@@ -2017,8 +2746,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T00:54:49Z",
       "meta": {
-        "points": 391,
-        "comments": 77
+        "points": 401,
+        "comments": 78
       },
       "badges": [],
       "lang": "en",
@@ -2138,7 +2867,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T23:58:18Z",
       "meta": {
-        "stars": 175,
+        "stars": 198,
         "language": "TypeScript"
       },
       "badges": [
@@ -2193,8 +2922,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T23:23:35Z",
       "meta": {
-        "points": 63,
-        "comments": 90
+        "points": 64,
+        "comments": 92
       },
       "badges": [],
       "lang": "en",
@@ -2363,8 +3092,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T21:07:38Z",
       "meta": {
-        "points": 88,
-        "comments": 75
+        "points": 89,
+        "comments": 76
       },
       "badges": [],
       "lang": "en",
@@ -2388,8 +3117,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T20:44:15Z",
       "meta": {
-        "points": 103,
-        "comments": 102
+        "points": 106,
+        "comments": 105
       },
       "badges": [
         "launch"
@@ -2673,8 +3402,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T16:45:44Z",
       "meta": {
-        "points": 437,
-        "comments": 336
+        "points": 455,
+        "comments": 351
       },
       "badges": [],
       "lang": "en",
@@ -2749,8 +3478,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T16:12:38Z",
       "meta": {
-        "points": 334,
-        "comments": 330
+        "points": 336,
+        "comments": 333
       },
       "badges": [],
       "lang": "en",
@@ -2774,7 +3503,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T16:11:52Z",
       "meta": {
-        "points": 100,
+        "points": 105,
         "comments": 21
       },
       "badges": [
@@ -2785,28 +3514,6 @@
       "category": "products",
       "tags": [],
       "score": 51,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
-    },
-    {
-      "id": "19f2f984a80d",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "domain": "theverge.com",
-      "source": "The Verge AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh […]",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T16:09:23.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 50,
       "firstSeen": "2026-11-25T00:39:21.435Z"
     },
     {
@@ -2972,8 +3679,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T15:03:40Z",
       "meta": {
-        "points": 231,
-        "comments": 72
+        "points": 236,
+        "comments": 75
       },
       "badges": [
         "open-source"
@@ -3211,7 +3918,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T11:49:09Z",
       "meta": {
-        "stars": 167,
+        "stars": 199,
         "language": null
       },
       "badges": [
@@ -3372,6 +4079,28 @@
       "tags": [],
       "score": 49,
       "firstSeen": "2026-11-26T00:17:24.949Z"
+    },
+    {
+      "id": "7dbb1baace41",
+      "title": "datasette-charts 0.2a1",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts-2",
+      "domain": "simonwillison.net",
+      "source": "Simon Willison",
+      "sourceKey": "rss",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "summary": "Release: datasette-charts 0.2a1 Minor UI improvements: Collapsing the suggested charts section now leaves the chart visible. Following a link to a chart opens it with the suggestions collapsed for that visit. On table pages the panel now sits below the \"4,235 rows where country = CHN\" line. The \"Data\" table under each…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T06:07:19.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 29,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "f3f6304a8cca",
@@ -3747,7 +4476,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T02:39:01Z",
       "meta": {
-        "stars": 145,
+        "stars": 156,
         "language": "Python"
       },
       "badges": [
@@ -4474,7 +5203,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T19:56:40Z",
       "meta": {
-        "stars": 30,
+        "stars": 32,
         "language": "Python"
       },
       "badges": [
@@ -4601,7 +5330,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T18:17:13Z",
       "meta": {
-        "stars": 68,
+        "stars": 69,
         "language": "C++"
       },
       "badges": [
@@ -4852,7 +5581,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T15:55:48Z",
       "meta": {
-        "stars": 279,
+        "stars": 304,
         "language": "Rust"
       },
       "badges": [
@@ -4934,31 +5663,6 @@
       "category": "models",
       "tags": [],
       "score": 48,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "81ecb7742efe",
-      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-      "domain": "huggingface.co",
-      "source": "Hacker News",
-      "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50611402",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-23T13:42:38Z",
-      "meta": {
-        "points": 190,
-        "comments": 36
-      },
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [],
-      "score": 51,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
@@ -5383,7 +6087,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T06:25:04Z",
       "meta": {
-        "stars": 115,
+        "stars": 122,
         "language": "Python"
       },
       "badges": [
@@ -5445,6 +6149,35 @@
       "tags": [],
       "score": 49,
       "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "329761e0c30f",
+      "title": "chanke17/KuroCat — KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 8",
+      "url": "https://github.com/chanke17/KuroCat",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/chanke17/KuroCat",
+      "summary": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-23T01:06:18Z",
+      "meta": {
+        "stars": 646,
+        "language": "C++"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "lang": "zh",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "open-source"
+      ],
+      "score": 27,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "289c8aeddacd",
@@ -5796,7 +6529,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-22T16:44:10Z",
       "meta": {
-        "stars": 704,
+        "stars": 754,
         "language": "Rust"
       },
       "badges": [
@@ -5952,7 +6685,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-21T20:26:12Z",
       "meta": {
-        "stars": 597,
+        "stars": 610,
         "language": "Rust"
       },
       "badges": [
@@ -5998,19 +6731,19 @@
     },
     {
       "id": "a306cf002b91",
-      "title": "qianyiai/kurocat — KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + R",
+      "title": "qianyiai/kurocat — KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · T",
       "url": "https://github.com/qianyiai/kurocat",
       "domain": "github.com",
       "source": "GitHub",
       "sourceKey": "github",
       "sourceUrl": "https://github.com/qianyiai/kurocat",
-      "summary": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
+      "summary": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
       "why": "",
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-21T15:49:31Z",
       "meta": {
-        "stars": 952,
+        "stars": 1277,
         "language": "TypeScript"
       },
       "badges": [
@@ -6020,10 +6753,12 @@
       "also": [],
       "category": "github",
       "tags": [
+        "anthropic",
         "mcp",
-        "open-source"
+        "open-source",
+        "coding"
       ],
-      "score": 33,
+      "score": 38,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
@@ -6040,7 +6775,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-21T14:40:27Z",
       "meta": {
-        "stars": 3955,
+        "stars": 4138,
         "language": "Rust"
       },
       "badges": [
@@ -6070,7 +6805,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-21T06:54:24Z",
       "meta": {
-        "stars": 595,
+        "stars": 644,
         "language": "TypeScript"
       },
       "badges": [
@@ -6131,7 +6866,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-20T15:15:23Z",
       "meta": {
-        "stars": 152,
+        "stars": 170,
         "language": "Python"
       },
       "badges": [
@@ -6160,7 +6895,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-20T12:39:45Z",
       "meta": {
-        "stars": 177,
+        "stars": 199,
         "language": "JavaScript"
       },
       "badges": [
@@ -6172,7 +6907,7 @@
       "tags": [
         "google"
       ],
-      "score": 19,
+      "score": 20,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
@@ -6216,7 +6951,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-20T11:22:44Z",
       "meta": {
-        "stars": 167,
+        "stars": 174,
         "language": "JavaScript"
       },
       "badges": [
@@ -6243,7 +6978,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-20T07:44:21Z",
       "meta": {
-        "stars": 164,
+        "stars": 166,
         "language": "JavaScript"
       },
       "badges": [
