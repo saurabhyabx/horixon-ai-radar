@@ -1,57 +1,55 @@
 {
-  "generatedAt": "2026-11-27T00:33:56.775Z",
+  "generatedAt": "2026-11-27T13:48:22.457Z",
   "items": [
     {
-      "id": "abef7dcffe0c",
-      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "domain": "github.com",
+      "id": "74835a583675",
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com",
+      "domain": "construct22.com",
       "source": "Hacker News",
       "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50642086",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50663595",
       "summary": "",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-25T13:33:07Z",
+      "publishedAt": "2026-11-27T06:44:34Z",
       "meta": {
-        "points": 502,
-        "comments": 369
+        "points": 416,
+        "comments": 183
       },
       "badges": [],
       "lang": "en",
       "also": [],
-      "category": "github",
-      "tags": [
-        "google"
-      ],
-      "score": 79,
-      "firstSeen": "2026-11-26T00:17:24.949Z"
+      "category": "products",
+      "tags": [],
+      "score": 80,
+      "firstSeen": "2026-11-27T13:48:22.457Z"
     },
     {
-      "id": "5ee45fc63309",
-      "title": "The matrix multiplication exponent is nine fourths [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "domain": "github.com",
+      "id": "f809947e587d",
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up",
+      "domain": "blog.ktz.me",
       "source": "Hacker News",
       "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50637220",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50661646",
       "summary": "",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-25T01:19:26Z",
+      "publishedAt": "2026-11-27T01:13:49Z",
       "meta": {
-        "points": 1063,
-        "comments": 606
+        "points": 425,
+        "comments": 368
       },
       "badges": [],
       "lang": "en",
       "also": [],
-      "category": "github",
+      "category": "founders",
       "tags": [],
       "score": 78,
-      "firstSeen": "2026-11-25T14:15:25.678Z"
+      "firstSeen": "2026-11-27T13:48:22.457Z"
     },
     {
       "id": "91ef480232c5",
@@ -67,8 +65,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T10:11:01Z",
       "meta": {
-        "points": 451,
-        "comments": 235
+        "points": 541,
+        "comments": 261
       },
       "badges": [],
       "lang": "en",
@@ -77,41 +75,6 @@
       "tags": [],
       "score": 77,
       "firstSeen": "2026-11-26T13:50:33.325Z"
-    },
-    {
-      "id": "91b0d57339c9",
-      "title": "gary23w/f-ck_data_brokers — fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to",
-      "url": "https://github.com/gary23w/f-ck_data_brokers",
-      "domain": "github.com",
-      "source": "GitHub",
-      "sourceKey": "github",
-      "sourceUrl": "https://github.com/gary23w/f-ck_data_brokers",
-      "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T17:53:07Z",
-      "meta": {
-        "stars": 370,
-        "language": "Python"
-      },
-      "badges": [
-        "open-source",
-        "launch"
-      ],
-      "lang": "en",
-      "also": [
-        {
-          "source": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50658191"
-        }
-      ],
-      "category": "github",
-      "tags": [
-        "open-source"
-      ],
-      "score": 64,
-      "firstSeen": "2026-11-27T00:33:56.775Z"
     },
     {
       "id": "02a088434703",
@@ -137,6 +100,31 @@
         "meta"
       ],
       "score": 64,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "06c468d10ca7",
+      "title": "nvidia/Nemotron-Labs-Image-30B-A3B (model)",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+      "summary": "text-to-image · transformers · 300 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T13:48:22.486Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "nvidia",
+        "image"
+      ],
+      "score": 63,
       "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
@@ -166,33 +154,6 @@
       "firstSeen": "2026-11-26T00:17:24.949Z"
     },
     {
-      "id": "d0a3a7f662b5",
-      "title": "An Indic Voice Agent with CUGA",
-      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "domain": "huggingface.co",
-      "source": "Hugging Face Blog",
-      "sourceKey": "rss",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-25T10:22:09.000Z",
-      "meta": {},
-      "badges": [
-        "first-party"
-      ],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [
-        "agents",
-        "voice"
-      ],
-      "score": 63,
-      "firstSeen": "2026-11-25T14:15:25.678Z"
-    },
-    {
       "id": "2748a793f4b9",
       "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF (model)",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
@@ -200,11 +161,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-      "summary": "text-generation · llama.cpp · 518 likes",
+      "summary": "text-generation · llama.cpp · 576 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T00:33:56.817Z",
+      "publishedAt": "2026-11-27T13:48:22.486Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -217,52 +178,29 @@
       "firstSeen": "2026-11-25T14:15:25.678Z"
     },
     {
-      "id": "99ccc673a30f",
-      "title": "thinkingmachines/Inkling-2-Mini (model)",
-      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "id": "95f66e605143",
+      "title": "llamaindex/OCRia-nano-1 (model)",
+      "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
       "domain": "huggingface.co",
       "source": "Hugging Face",
       "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "summary": "image-text-to-text · transformers · 6250 likes",
+      "sourceUrl": "https://huggingface.co/llamaindex/OCRia-nano-1",
+      "summary": "image-to-text · liteparse · 303 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T00:33:56.817Z",
+      "publishedAt": "2026-11-27T13:48:22.486Z",
       "meta": {},
       "badges": [],
       "lang": "en",
       "also": [],
       "category": "models",
       "tags": [
+        "meta",
         "image"
       ],
       "score": 63,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "67c4c2c31439",
-      "title": "unsloth/Inkling-2-Mini-GGUF (model)",
-      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "summary": "image-text-to-text · 1491 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-27T00:33:56.817Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "image"
-      ],
-      "score": 63,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
+      "firstSeen": "2026-11-25T00:39:21.435Z"
     },
     {
       "id": "49ee48d5da3d",
@@ -313,6 +251,30 @@
       "tags": [],
       "score": 61,
       "firstSeen": "2026-11-27T00:33:56.775Z"
+    },
+    {
+      "id": "d3aa48daa62d",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "domain": "huggingface.co",
+      "source": "Hugging Face Blog",
+      "sourceKey": "rss",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:05:36.000Z",
+      "meta": {},
+      "badges": [
+        "first-party"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [],
+      "score": 60,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "b45d58e25dc6",
@@ -536,50 +498,6 @@
       "firstSeen": "2026-11-26T00:17:24.949Z"
     },
     {
-      "id": "f5bb5e8a9ad3",
-      "title": "AI may soon change what it means to be a theoretical physicist",
-      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next",
-      "domain": "arstechnica.com",
-      "source": "Ars Technica AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://arstechnica.com/ai/feed/",
-      "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-25T12:00:28.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 58,
-      "firstSeen": "2026-11-25T14:15:25.678Z"
-    },
-    {
-      "id": "1033887459b7",
-      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-      "url": "https://wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid",
-      "domain": "wired.com",
-      "source": "Wired AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-25T11:30:00.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 58,
-      "firstSeen": "2026-11-25T14:15:25.678Z"
-    },
-    {
       "id": "c881f1e71110",
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
@@ -648,26 +566,26 @@
       "firstSeen": "2026-11-26T00:17:24.949Z"
     },
     {
-      "id": "b0deea04c96b",
-      "title": "AI is straining America’s open records systems",
-      "url": "https://technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
-      "domain": "technologyreview.com",
-      "source": "MIT Technology Review AI",
+      "id": "355eb2e5ee20",
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "url": "https://wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light",
+      "domain": "wired.com",
+      "source": "Wired AI",
       "sourceKey": "rss",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded…",
+      "sourceUrl": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-25T10:00:00.000Z",
+      "publishedAt": "2026-11-27T07:00:00.000Z",
       "meta": {},
       "badges": [],
       "lang": "en",
       "also": [],
-      "category": "products",
+      "category": "models",
       "tags": [],
-      "score": 57,
-      "firstSeen": "2026-11-25T14:15:25.678Z"
+      "score": 56,
+      "firstSeen": "2026-11-27T13:48:22.457Z"
     },
     {
       "id": "7fcbebbe6634",
@@ -737,6 +655,72 @@
       ],
       "score": 55,
       "firstSeen": "2026-11-27T00:33:56.775Z"
+    },
+    {
+      "id": "5aa9e3310d13",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.AI",
+      "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment changes may be…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 55,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "f3b43de57243",
+      "title": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
+      "url": "https://arxiv.org/abs/2611.33173",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.CL",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.CL",
+      "summary": "arXiv:2611.33173v1 Announce Type: new Abstract: The Bundesrat is Germany's second legislative chamber and a constitutional veto player within its political system. The members of the Bundesrat are delegates of state governments. Tracing the political discourse in the Bundesrat is challenging as it has a limited…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 55,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "3965806fbc78",
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161",
+      "domain": "arxiv.org",
+      "source": "arXiv cs.AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://rss.arxiv.org/rss/cs.AI",
+      "summary": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausible but physically…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "research",
+      "tags": [],
+      "score": 54,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
     }
   ]
 }

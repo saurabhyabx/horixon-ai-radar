@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-27T00:33:56.775Z",
+  "updatedAt": "2026-11-27T13:48:22.457Z",
   "items": [
+    {
+      "id": "74835a583675",
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com",
+      "link": "https://construct22.com",
+      "why": "",
+      "source": "Hacker News",
+      "category": "products",
+      "score": 80,
+      "sentAt": "2026-11-27T13:48:22.457Z",
+      "channels": []
+    },
+    {
+      "id": "f809947e587d",
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up",
+      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up",
+      "why": "",
+      "source": "Hacker News",
+      "category": "founders",
+      "score": 78,
+      "sentAt": "2026-11-27T13:48:22.457Z",
+      "channels": []
+    },
+    {
+      "id": "19dd4641586d",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "link": "https://janlukas.blog/posts/ai-self-hosting",
+      "why": "",
+      "source": "Hacker News",
+      "category": "products",
+      "score": 76,
+      "sentAt": "2026-11-27T13:48:22.457Z",
+      "channels": []
+    },
+    {
+      "id": "1f02c916626f",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan",
+      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan",
+      "why": "",
+      "source": "Hacker News",
+      "category": "products",
+      "score": 75,
+      "sentAt": "2026-11-27T13:48:22.457Z",
+      "channels": []
+    },
+    {
+      "id": "c83866a1dbc9",
+      "title": "Tracking Diseases Cured by AI",
+      "url": "https://diseasescuredbyai.com",
+      "link": "https://diseasescuredbyai.com",
+      "why": "",
+      "source": "Hacker News",
+      "category": "products",
+      "score": 72,
+      "sentAt": "2026-11-27T13:48:22.457Z",
+      "channels": []
+    },
     {
       "id": "91ef480232c5",
       "title": "Intel One Mono font (2023)",

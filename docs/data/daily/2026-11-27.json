@@ -1,98 +1,63 @@
 {
   "date": "2026-11-27",
   "issue": 4,
-  "generatedAt": "2026-11-27T00:34:02.433Z",
+  "generatedAt": "2026-11-27T13:48:25.473Z",
   "stats": {
-    "stories": 28,
-    "sources": 7,
-    "firstParty": 1,
-    "readMinutes": 10
+    "stories": 45,
+    "sources": 9,
+    "firstParty": 2,
+    "readMinutes": 16
   },
   "lead": {
-    "id": "9ca28a7fecf2",
-    "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-    "url": "https://github.com/antonpictures/youtube-punisher",
-    "domain": "github.com",
+    "id": "74835a583675",
+    "title": "The group chat where your AI talks behind your back",
+    "url": "https://construct22.com",
+    "domain": "construct22.com",
     "source": "Hacker News",
     "sourceKey": "hn",
-    "sourceUrl": "https://news.ycombinator.com/item?id=50657530",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50663595",
     "summary": "",
     "why": "",
     "audience": "",
     "extraLinks": [],
-    "publishedAt": "2026-11-26T17:36:47Z",
+    "publishedAt": "2026-11-27T06:44:34Z",
     "meta": {
-      "points": 239,
-      "comments": 312
+      "points": 416,
+      "comments": 183
     },
     "badges": [],
     "lang": "en",
     "also": [],
-    "category": "github",
+    "category": "products",
     "tags": [],
-    "score": 73,
-    "firstSeen": "2026-11-27T00:33:56.775Z"
+    "score": 80,
+    "firstSeen": "2026-11-27T13:48:22.457Z"
   },
   "highlights": [
     {
-      "id": "c83866a1dbc9",
-      "title": "Tracking Diseases Cured by AI",
-      "url": "https://diseasescuredbyai.com",
-      "domain": "diseasescuredbyai.com",
+      "id": "f809947e587d",
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up",
+      "domain": "blog.ktz.me",
       "source": "Hacker News",
       "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50657307",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50661646",
       "summary": "",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T17:16:41Z",
+      "publishedAt": "2026-11-27T01:13:49Z",
       "meta": {
-        "points": 299,
-        "comments": 177
+        "points": 425,
+        "comments": 368
       },
       "badges": [],
       "lang": "en",
       "also": [],
-      "category": "products",
+      "category": "founders",
       "tags": [],
-      "score": 72,
-      "firstSeen": "2026-11-27T00:33:56.775Z"
-    },
-    {
-      "id": "91b0d57339c9",
-      "title": "gary23w/f-ck_data_brokers — fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to",
-      "url": "https://github.com/gary23w/f-ck_data_brokers",
-      "domain": "github.com",
-      "source": "GitHub",
-      "sourceKey": "github",
-      "sourceUrl": "https://github.com/gary23w/f-ck_data_brokers",
-      "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T17:53:07Z",
-      "meta": {
-        "stars": 370,
-        "language": "Python"
-      },
-      "badges": [
-        "open-source",
-        "launch"
-      ],
-      "lang": "en",
-      "also": [
-        {
-          "source": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50658191"
-        }
-      ],
-      "category": "github",
-      "tags": [
-        "open-source"
-      ],
-      "score": 64,
-      "firstSeen": "2026-11-27T00:33:56.775Z"
+      "score": 78,
+      "firstSeen": "2026-11-27T13:48:22.457Z"
     },
     {
       "id": "ff7c1d626667",
@@ -117,10 +82,60 @@
       "tags": [],
       "score": 61,
       "firstSeen": "2026-11-27T00:33:56.775Z"
+    },
+    {
+      "id": "2d7f8b4f8454",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "domain": "huggingface.co",
+      "source": "Hugging Face Blog",
+      "sourceKey": "rss",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "meta": {},
+      "badges": [
+        "first-party"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "video"
+      ],
+      "score": 59,
+      "firstSeen": "2026-11-27T13:48:22.457Z"
     }
   ],
   "sections": {
     "models": [
+      {
+        "id": "8b660d9f0988",
+        "title": "strata-engine/Inkling-2-Mini-Strata (model)",
+        "url": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
+        "domain": "huggingface.co",
+        "source": "Hugging Face",
+        "sourceKey": "huggingface",
+        "sourceUrl": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
+        "summary": "image-text-to-text · 259 likes",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-27T13:48:22.486Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [
+          "image"
+        ],
+        "score": 59,
+        "firstSeen": "2026-11-27T00:33:56.775Z"
+      },
       {
         "id": "00bb51c293be",
         "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
@@ -146,28 +161,48 @@
         "firstSeen": "2026-11-27T00:33:56.775Z"
       },
       {
-        "id": "8b660d9f0988",
-        "title": "strata-engine/Inkling-2-Mini-Strata (model)",
-        "url": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
+        "id": "74c0c0ba388d",
+        "title": "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF (model)",
+        "url": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
         "domain": "huggingface.co",
         "source": "Hugging Face",
         "sourceKey": "huggingface",
-        "sourceUrl": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
-        "summary": "image-text-to-text · 230 likes",
+        "sourceUrl": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+        "summary": "text-generation · gguf · 194 likes",
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-27T00:33:56.817Z",
+        "publishedAt": "2026-11-27T13:48:22.486Z",
         "meta": {},
         "badges": [],
         "lang": "en",
         "also": [],
         "category": "models",
-        "tags": [
-          "image"
-        ],
-        "score": 57,
-        "firstSeen": "2026-11-27T00:33:56.775Z"
+        "tags": [],
+        "score": 56,
+        "firstSeen": "2026-11-27T13:48:22.457Z"
+      },
+      {
+        "id": "355eb2e5ee20",
+        "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+        "url": "https://wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light",
+        "domain": "wired.com",
+        "source": "Wired AI",
+        "sourceKey": "rss",
+        "sourceUrl": "https://www.wired.com/feed/tag/ai/latest/rss",
+        "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-27T07:00:00.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [],
+        "score": 56,
+        "firstSeen": "2026-11-27T13:48:22.457Z"
       },
       {
         "id": "069f94445fa0",
@@ -195,6 +230,112 @@
         "firstSeen": "2026-11-27T00:33:56.775Z"
       },
       {
+        "id": "1d45997e4997",
+        "title": "AMD-specific fork of llama.cpp",
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "domain": "devnull.land",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50657265",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T17:11:29Z",
+        "meta": {
+          "points": 395,
+          "comments": 96
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [
+          "meta"
+        ],
+        "score": 71,
+        "firstSeen": "2026-11-27T00:33:56.775Z"
+      },
+      {
+        "id": "138e1e18872d",
+        "title": "Claude sabotaging SOTA ML research tasks",
+        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "domain": "twitter.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50664325",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-27T08:28:08Z",
+        "meta": {
+          "points": 160,
+          "comments": 101
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [
+          "anthropic"
+        ],
+        "score": 60,
+        "firstSeen": "2026-11-27T13:48:22.457Z"
+      },
+      {
+        "id": "232f2b9e65cb",
+        "title": "sand-ai/MAGI-2-preview (model)",
+        "url": "https://huggingface.co/sand-ai/MAGI-2-preview",
+        "domain": "huggingface.co",
+        "source": "Hugging Face",
+        "sourceKey": "huggingface",
+        "sourceUrl": "https://huggingface.co/sand-ai/MAGI-2-preview",
+        "summary": "image-text-to-video · 319 likes",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-27T13:48:22.486Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [
+          "video",
+          "image"
+        ],
+        "score": 54,
+        "firstSeen": "2026-11-27T13:48:22.457Z"
+      },
+      {
+        "id": "0256b11e8366",
+        "title": "\"What's Claude's Fursona?\" and Other Questions",
+        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+        "domain": "herecomesthemoon.net",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50662933",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-27T04:56:18Z",
+        "meta": {
+          "points": 101,
+          "comments": 79
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [
+          "anthropic"
+        ],
+        "score": 54,
+        "firstSeen": "2026-11-27T13:48:22.457Z"
+      },
+      {
         "id": "7a4d64966976",
         "title": "orcarouter/Inkling-2-Mini-abliterated-GGUF (model)",
         "url": "https://huggingface.co/orcarouter/Inkling-2-Mini-abliterated-GGUF",
@@ -215,87 +356,33 @@
         "tags": [],
         "score": 54,
         "firstSeen": "2026-11-27T00:33:56.775Z"
-      },
-      {
-        "id": "1d45997e4997",
-        "title": "AMD-specific fork of llama.cpp",
-        "url": "https://devnull.land/amd-specific-llama-cpp",
-        "domain": "devnull.land",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50657265",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-26T17:11:29Z",
-        "meta": {
-          "points": 273,
-          "comments": 63
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "models",
-        "tags": [
-          "meta"
-        ],
-        "score": 66,
-        "firstSeen": "2026-11-27T00:33:56.775Z"
-      },
-      {
-        "id": "85176c594a4a",
-        "title": "Claude tries to sabotage research work at every stage",
-        "url": "https://twitter.com/skirano/status/2125371115979641188",
-        "domain": "twitter.com",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50651552",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-26T04:49:21Z",
-        "meta": {
-          "points": 41,
-          "comments": 14
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "models",
-        "tags": [
-          "anthropic"
-        ],
-        "score": 43,
-        "firstSeen": "2026-11-27T00:33:56.775Z"
       }
     ],
     "products": [
       {
-        "id": "c83866a1dbc9",
-        "title": "Tracking Diseases Cured by AI",
-        "url": "https://diseasescuredbyai.com",
-        "domain": "diseasescuredbyai.com",
+        "id": "74835a583675",
+        "title": "The group chat where your AI talks behind your back",
+        "url": "https://construct22.com",
+        "domain": "construct22.com",
         "source": "Hacker News",
         "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50657307",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50663595",
         "summary": "",
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-26T17:16:41Z",
+        "publishedAt": "2026-11-27T06:44:34Z",
         "meta": {
-          "points": 299,
-          "comments": 177
+          "points": 416,
+          "comments": 183
         },
         "badges": [],
         "lang": "en",
         "also": [],
         "category": "products",
         "tags": [],
-        "score": 72,
-        "firstSeen": "2026-11-27T00:33:56.775Z"
+        "score": 80,
+        "firstSeen": "2026-11-27T13:48:22.457Z"
       },
       {
         "id": "ff7c1d626667",
@@ -322,6 +409,32 @@
         "firstSeen": "2026-11-27T00:33:56.775Z"
       },
       {
+        "id": "2d7f8b4f8454",
+        "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+        "url": "https://huggingface.co/blog/video-trainium3",
+        "domain": "huggingface.co",
+        "source": "Hugging Face Blog",
+        "sourceKey": "rss",
+        "sourceUrl": "https://huggingface.co/blog/feed.xml",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-27T00:00:00.000Z",
+        "meta": {},
+        "badges": [
+          "first-party"
+        ],
+        "lang": "en",
+        "also": [],
+        "category": "products",
+        "tags": [
+          "video"
+        ],
+        "score": 59,
+        "firstSeen": "2026-11-27T13:48:22.457Z"
+      },
+      {
         "id": "19dd4641586d",
         "title": "AI made self-hosting fun again",
         "url": "https://janlukas.blog/posts/ai-self-hosting",
@@ -335,15 +448,15 @@
         "extraLinks": [],
         "publishedAt": "2026-11-26T21:47:45Z",
         "meta": {
-          "points": 223,
-          "comments": 128
+          "points": 843,
+          "comments": 414
         },
         "badges": [],
         "lang": "en",
         "also": [],
         "category": "products",
         "tags": [],
-        "score": 67,
+        "score": 76,
         "firstSeen": "2026-11-27T00:33:56.775Z"
       },
       {
@@ -360,16 +473,93 @@
         "extraLinks": [],
         "publishedAt": "2026-11-26T21:08:05Z",
         "meta": {
-          "points": 210,
-          "comments": 39
+          "points": 423,
+          "comments": 111
         },
         "badges": [],
         "lang": "en",
         "also": [],
         "category": "products",
         "tags": [],
-        "score": 63,
+        "score": 75,
         "firstSeen": "2026-11-27T00:33:56.775Z"
+      },
+      {
+        "id": "c83866a1dbc9",
+        "title": "Tracking Diseases Cured by AI",
+        "url": "https://diseasescuredbyai.com",
+        "domain": "diseasescuredbyai.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50657307",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T17:16:41Z",
+        "meta": {
+          "points": 313,
+          "comments": 190
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "products",
+        "tags": [],
+        "score": 72,
+        "firstSeen": "2026-11-27T00:33:56.775Z"
+      },
+      {
+        "id": "c292bca5f413",
+        "title": "Show HN: I wrote an entire Vim manual over 4 years",
+        "url": "http://themouseless.dev/vim",
+        "domain": "themouseless.dev",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50655868",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T14:44:22Z",
+        "meta": {
+          "points": 231,
+          "comments": 72
+        },
+        "badges": [
+          "launch"
+        ],
+        "lang": "en",
+        "also": [],
+        "category": "products",
+        "tags": [],
+        "score": 57,
+        "firstSeen": "2026-11-27T00:33:56.775Z"
+      },
+      {
+        "id": "55060e027bba",
+        "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+        "url": "https://thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+        "domain": "thetimes.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50665488",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-27T11:09:04Z",
+        "meta": {
+          "points": 57,
+          "comments": 68
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "products",
+        "tags": [],
+        "score": 53,
+        "firstSeen": "2026-11-27T13:48:22.457Z"
       },
       {
         "id": "4f1a543539f1",
@@ -385,8 +575,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-26T15:00:06Z",
         "meta": {
-          "points": 111,
-          "comments": 26
+          "points": 147,
+          "comments": 33
         },
         "badges": [
           "launch"
@@ -412,8 +602,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-26T19:53:58Z",
         "meta": {
-          "points": 67,
-          "comments": 53
+          "points": 72,
+          "comments": 58
         },
         "badges": [],
         "lang": "en",
@@ -421,111 +611,6 @@
         "category": "products",
         "tags": [],
         "score": 53,
-        "firstSeen": "2026-11-27T00:33:56.775Z"
-      },
-      {
-        "id": "e445c0a44058",
-        "title": "Ask HN: How do you find meaning of life at 41?",
-        "url": "https://news.ycombinator.com/item?id=50657957",
-        "domain": "news.ycombinator.com",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50657957",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-26T18:14:53Z",
-        "meta": {
-          "points": 49,
-          "comments": 91
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "products",
-        "tags": [],
-        "score": 52,
-        "firstSeen": "2026-11-27T00:33:56.775Z"
-      },
-      {
-        "id": "8ea03d922a6f",
-        "title": "Ask HN: Any courses/products by indie makers worth getting today?",
-        "url": "https://news.ycombinator.com/item?id=50656763",
-        "domain": "news.ycombinator.com",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50656763",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-26T16:16:41Z",
-        "meta": {
-          "points": 65,
-          "comments": 30
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "products",
-        "tags": [],
-        "score": 50,
-        "firstSeen": "2026-11-27T00:33:56.775Z"
-      },
-      {
-        "id": "fdb53e3262fb",
-        "title": "Notion's official MCP inject hidden upsell instructions into agent context",
-        "url": "https://reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into",
-        "domain": "reddit.com",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50658093",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-26T18:28:30Z",
-        "meta": {
-          "points": 45,
-          "comments": 15
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "products",
-        "tags": [
-          "agents",
-          "mcp"
-        ],
-        "score": 49,
-        "firstSeen": "2026-11-27T00:33:56.775Z"
-      },
-      {
-        "id": "c292bca5f413",
-        "title": "Show HN: I wrote an entire Vim manual over 4 years",
-        "url": "http://themouseless.dev/vim",
-        "domain": "themouseless.dev",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50655868",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-26T14:44:22Z",
-        "meta": {
-          "points": 41,
-          "comments": 12
-        },
-        "badges": [
-          "launch"
-        ],
-        "lang": "en",
-        "also": [],
-        "category": "products",
-        "tags": [],
-        "score": 47,
         "firstSeen": "2026-11-27T00:33:56.775Z"
       }
     ],
@@ -583,66 +668,6 @@
     "research": [],
     "github": [
       {
-        "id": "9ca28a7fecf2",
-        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-        "url": "https://github.com/antonpictures/youtube-punisher",
-        "domain": "github.com",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50657530",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-26T17:36:47Z",
-        "meta": {
-          "points": 239,
-          "comments": 312
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "github",
-        "tags": [],
-        "score": 73,
-        "firstSeen": "2026-11-27T00:33:56.775Z"
-      },
-      {
-        "id": "91b0d57339c9",
-        "title": "gary23w/f-ck_data_brokers — fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to",
-        "url": "https://github.com/gary23w/f-ck_data_brokers",
-        "domain": "github.com",
-        "source": "GitHub",
-        "sourceKey": "github",
-        "sourceUrl": "https://github.com/gary23w/f-ck_data_brokers",
-        "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-26T17:53:07Z",
-        "meta": {
-          "stars": 370,
-          "language": "Python"
-        },
-        "badges": [
-          "open-source",
-          "launch"
-        ],
-        "lang": "en",
-        "also": [
-          {
-            "source": "Hacker News",
-            "url": "https://news.ycombinator.com/item?id=50658191"
-          }
-        ],
-        "category": "github",
-        "tags": [
-          "open-source"
-        ],
-        "score": 64,
-        "firstSeen": "2026-11-27T00:33:56.775Z"
-      },
-      {
         "id": "21ba123e16ac",
         "title": "qianyiai/KuroCat — KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · T",
         "url": "https://github.com/qianyiai/KuroCat",
@@ -656,7 +681,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-21T15:49:31Z",
         "meta": {
-          "stars": 1348,
+          "stars": 1712,
           "language": "TypeScript"
         },
         "badges": [
@@ -671,7 +696,96 @@
           "open-source",
           "coding"
         ],
-        "score": 39,
+        "score": 46,
+        "firstSeen": "2026-11-27T00:33:56.775Z"
+      },
+      {
+        "id": "aa2eb1df736d",
+        "title": "langchain-samples/Persistent-Agent — Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the",
+        "url": "https://github.com/langchain-samples/Persistent-Agent",
+        "domain": "github.com",
+        "source": "GitHub",
+        "sourceKey": "github",
+        "sourceUrl": "https://github.com/langchain-samples/Persistent-Agent",
+        "summary": "Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of tools, and proactive playbooks it can run in the background to take work off your plate. Built on Managed Deep Agents (MDA).",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-24T17:52:40Z",
+        "meta": {
+          "stars": 161,
+          "language": "Python"
+        },
+        "badges": [
+          "open-source"
+        ],
+        "lang": "en",
+        "also": [],
+        "category": "github",
+        "tags": [
+          "agents"
+        ],
+        "score": 26,
+        "firstSeen": "2026-11-27T00:33:56.775Z"
+      },
+      {
+        "id": "9ca28a7fecf2",
+        "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+        "url": "https://github.com/antonpictures/youtube-punisher",
+        "domain": "github.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50657530",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T17:36:47Z",
+        "meta": {
+          "points": 450,
+          "comments": 535
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "github",
+        "tags": [],
+        "score": 75,
+        "firstSeen": "2026-11-27T00:33:56.775Z"
+      },
+      {
+        "id": "91b0d57339c9",
+        "title": "Show HN: Fuck_data_brokers.py",
+        "url": "https://github.com/gary23w/f-ck_data_brokers",
+        "domain": "github.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50658191",
+        "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T18:37:21Z",
+        "meta": {
+          "points": 240,
+          "comments": 52
+        },
+        "badges": [
+          "launch",
+          "open-source"
+        ],
+        "lang": "en",
+        "also": [
+          {
+            "source": "GitHub",
+            "url": "https://github.com/gary23w/f-ck_data_brokers"
+          }
+        ],
+        "category": "github",
+        "tags": [
+          "open-source"
+        ],
+        "score": 64,
         "firstSeen": "2026-11-27T00:33:56.775Z"
       },
       {
@@ -688,8 +802,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-26T16:50:55Z",
         "meta": {
-          "points": 122,
-          "comments": 153
+          "points": 131,
+          "comments": 160
         },
         "badges": [],
         "lang": "en",
@@ -713,8 +827,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-26T19:18:09Z",
         "meta": {
-          "points": 70,
-          "comments": 15
+          "points": 143,
+          "comments": 34
         },
         "badges": [],
         "lang": "en",
@@ -725,21 +839,48 @@
         "firstSeen": "2026-11-27T00:33:56.775Z"
       },
       {
-        "id": "aa2eb1df736d",
-        "title": "langchain-samples/Persistent-Agent — Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the",
-        "url": "https://github.com/langchain-samples/Persistent-Agent",
+        "id": "47cf75767b1a",
+        "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+        "url": "https://github.com/rxliuli/sim-drop",
         "domain": "github.com",
-        "source": "GitHub",
-        "sourceKey": "github",
-        "sourceUrl": "https://github.com/langchain-samples/Persistent-Agent",
-        "summary": "Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of tools, and proactive playbooks it can run in the background to take work off your plate. Built on Managed Deep Agents (MDA).",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50657070",
+        "summary": "",
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-24T17:52:40Z",
+        "publishedAt": "2026-11-26T16:51:38Z",
         "meta": {
-          "stars": 144,
-          "language": "Python"
+          "points": 49,
+          "comments": 10
+        },
+        "badges": [
+          "launch"
+        ],
+        "lang": "en",
+        "also": [],
+        "category": "github",
+        "tags": [],
+        "score": 43,
+        "firstSeen": "2026-11-27T13:48:22.457Z"
+      },
+      {
+        "id": "8f4aa0deafac",
+        "title": "DeadInternetStudios/100x-engineer-skill — 100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-re",
+        "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+        "domain": "github.com",
+        "source": "GitHub",
+        "sourceKey": "github",
+        "sourceUrl": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+        "summary": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-23T11:06:07Z",
+        "meta": {
+          "stars": 410,
+          "language": "JavaScript"
         },
         "badges": [
           "open-source"
@@ -747,11 +888,9 @@
         "lang": "en",
         "also": [],
         "category": "github",
-        "tags": [
-          "agents"
-        ],
-        "score": 26,
-        "firstSeen": "2026-11-27T00:33:56.775Z"
+        "tags": [],
+        "score": 23,
+        "firstSeen": "2026-11-27T13:48:22.457Z"
       },
       {
         "id": "9522543ad371",
@@ -798,7 +937,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-24T08:35:36Z",
         "meta": {
-          "stars": 33,
+          "stars": 45,
           "language": "Python"
         },
         "badges": [
@@ -812,37 +951,34 @@
         ],
         "score": 20,
         "firstSeen": "2026-11-27T00:33:56.775Z"
-      },
+      }
+    ],
+    "founders": [
       {
-        "id": "82798b1a324d",
-        "title": "enwove/flyx — Zero-dependency local LLM inference engine in a ~50 MB binary — native long context, tuned per GPU,",
-        "url": "https://github.com/enwove/flyx",
-        "domain": "github.com",
-        "source": "GitHub",
-        "sourceKey": "github",
-        "sourceUrl": "https://github.com/enwove/flyx",
-        "summary": "Zero-dependency local LLM inference engine in a ~50 MB binary — native long context, tuned per GPU, built-in speculative decoding and web dashboard.",
+        "id": "f809947e587d",
+        "title": "Hard Drive pricing has gotten bad",
+        "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up",
+        "domain": "blog.ktz.me",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50661646",
+        "summary": "",
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-23T08:48:17Z",
+        "publishedAt": "2026-11-27T01:13:49Z",
         "meta": {
-          "stars": 62,
-          "language": "C++"
+          "points": 425,
+          "comments": 368
         },
-        "badges": [
-          "open-source"
-        ],
+        "badges": [],
         "lang": "en",
         "also": [],
-        "category": "github",
-        "tags": [
-          "coding"
-        ],
-        "score": 17,
-        "firstSeen": "2026-11-27T00:33:56.775Z"
+        "category": "founders",
+        "tags": [],
+        "score": 78,
+        "firstSeen": "2026-11-27T13:48:22.457Z"
       }
-    ],
-    "founders": []
+    ]
   }
 }
