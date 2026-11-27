@@ -10,6 +10,7 @@
 - [RSS: daily digest](https://saurabhyabx.github.io/horixon-ai-radar/feed/daily.xml)
 
 ## Recent daily digests
+- [2026-11-27: YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-27.html)
 - [2026-11-26: Google releases Cogentic papers on integer factorization, discrete logs and more](https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-26.html)
 - [2026-11-25: Matrix Multiplication is Θ(n^2.25) [pdf]](https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-25.html)
 - [2026-11-24: LLM agents work for their parent companies, not for you](https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-24.html)

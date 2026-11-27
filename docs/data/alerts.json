@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-26T13:50:33.325Z",
+  "updatedAt": "2026-11-27T00:33:56.775Z",
   "items": [
+    {
+      "id": "91ef480232c5",
+      "title": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "link": "https://github.com/intel/intel-one-mono",
+      "why": "",
+      "source": "Hacker News",
+      "category": "github",
+      "score": 77,
+      "sentAt": "2026-11-27T00:33:56.775Z",
+      "channels": []
+    },
+    {
+      "id": "9ca28a7fecf2",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "link": "https://github.com/antonpictures/youtube-punisher",
+      "why": "",
+      "source": "Hacker News",
+      "category": "github",
+      "score": 73,
+      "sentAt": "2026-11-27T00:33:56.775Z",
+      "channels": []
+    },
+    {
+      "id": "91b0d57339c9",
+      "title": "gary23w/f-ck_data_brokers — fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "link": "https://github.com/gary23w/f-ck_data_brokers",
+      "why": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+      "source": "GitHub",
+      "category": "github",
+      "score": 64,
+      "sentAt": "2026-11-27T00:33:56.775Z",
+      "channels": []
+    },
+    {
+      "id": "ff7c1d626667",
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward",
+      "why": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love…",
+      "source": "NVIDIA Blog",
+      "category": "products",
+      "score": 61,
+      "sentAt": "2026-11-27T00:33:56.775Z",
+      "channels": []
+    },
+    {
+      "id": "06c468d10ca7",
+      "title": "nvidia/Nemotron-Labs-Image-30B-A3B (model)",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+      "link": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+      "why": "text-to-image · transformers · 274 likes",
+      "source": "Hugging Face",
+      "category": "models",
+      "score": 61,
+      "sentAt": "2026-11-27T00:33:56.775Z",
+      "channels": []
+    },
     {
       "id": "f63f4cad1468",
       "title": "Much shorter version of GRH Lean verification from Anthropic",

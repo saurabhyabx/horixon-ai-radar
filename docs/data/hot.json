@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:50:33.325Z",
+  "generatedAt": "2026-11-27T00:33:56.775Z",
   "items": [
     {
       "id": "abef7dcffe0c",
@@ -15,8 +15,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T13:33:07Z",
       "meta": {
-        "points": 495,
-        "comments": 359
+        "points": 502,
+        "comments": 369
       },
       "badges": [],
       "lang": "en",
@@ -42,8 +42,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T01:19:26Z",
       "meta": {
-        "points": 1050,
-        "comments": 595
+        "points": 1063,
+        "comments": 606
       },
       "badges": [],
       "lang": "en",
@@ -54,29 +54,64 @@
       "firstSeen": "2026-11-25T14:15:25.678Z"
     },
     {
-      "id": "e213ef04a870",
-      "title": "Tidal bans AI-generated music",
-      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
-      "domain": "variety.com",
+      "id": "91ef480232c5",
+      "title": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "domain": "github.com",
       "source": "Hacker News",
       "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50630309",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50653667",
       "summary": "",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T16:12:38Z",
+      "publishedAt": "2026-11-26T10:11:01Z",
       "meta": {
-        "points": 336,
-        "comments": 333
+        "points": 451,
+        "comments": 235
       },
       "badges": [],
       "lang": "en",
       "also": [],
-      "category": "industry",
+      "category": "github",
       "tags": [],
       "score": 77,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "91b0d57339c9",
+      "title": "gary23w/f-ck_data_brokers — fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/gary23w/f-ck_data_brokers",
+      "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T17:53:07Z",
+      "meta": {
+        "stars": 370,
+        "language": "Python"
+      },
+      "badges": [
+        "open-source",
+        "launch"
+      ],
+      "lang": "en",
+      "also": [
+        {
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50658191"
+        }
+      ],
+      "category": "github",
+      "tags": [
+        "open-source"
+      ],
+      "score": 64,
+      "firstSeen": "2026-11-27T00:33:56.775Z"
     },
     {
       "id": "02a088434703",
@@ -165,11 +200,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-      "summary": "text-generation · llama.cpp · 438 likes",
+      "summary": "text-generation · llama.cpp · 518 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "publishedAt": "2026-11-27T00:33:56.817Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -189,11 +224,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "summary": "image-text-to-text · transformers · 6143 likes",
+      "summary": "image-text-to-text · transformers · 6250 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "publishedAt": "2026-11-27T00:33:56.817Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -213,11 +248,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "summary": "image-text-to-text · 1423 likes",
+      "summary": "image-text-to-text · 1491 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T13:50:33.366Z",
+      "publishedAt": "2026-11-27T00:33:56.817Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -256,44 +291,18 @@
       "firstSeen": "2026-11-26T00:17:24.949Z"
     },
     {
-      "id": "e2544bc1aeb2",
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-      "domain": "blog.google",
-      "source": "Google AI Blog",
+      "id": "ff7c1d626667",
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward",
+      "domain": "blogs.nvidia.com",
+      "source": "NVIDIA Blog",
       "sourceKey": "rss",
-      "sourceUrl": "https://blog.google/technology/ai/rss/",
-      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "sourceUrl": "https://blogs.nvidia.com/feed/",
+      "summary": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love…",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T16:00:00.000Z",
-      "meta": {},
-      "badges": [
-        "first-party"
-      ],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "google"
-      ],
-      "score": 61,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
-    },
-    {
-      "id": "307ec7853a39",
-      "title": "These are the gifts developers will actually want",
-      "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want",
-      "domain": "github.blog",
-      "source": "GitHub Blog",
-      "sourceKey": "rss",
-      "sourceUrl": "https://github.blog/feed/",
-      "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog .",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "publishedAt": "2026-11-26T14:00:22.000Z",
       "meta": {},
       "badges": [
         "first-party"
@@ -301,11 +310,9 @@
       "lang": "en",
       "also": [],
       "category": "products",
-      "tags": [
-        "coding"
-      ],
+      "tags": [],
       "score": 61,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
+      "firstSeen": "2026-11-27T00:33:56.775Z"
     },
     {
       "id": "b45d58e25dc6",
@@ -407,124 +414,28 @@
       "firstSeen": "2026-11-25T14:15:25.678Z"
     },
     {
-      "id": "d6a3974a1a3c",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
-      "domain": "techcrunch.com",
-      "source": "TechCrunch AI",
+      "id": "00bb51c293be",
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai",
+      "domain": "latent.space",
+      "source": "Latent Space",
       "sourceKey": "rss",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is…",
+      "sourceUrl": "https://www.latent.space/feed",
+      "summary": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-25T00:12:02.000Z",
+      "publishedAt": "2026-11-26T23:02:48.000Z",
       "meta": {},
       "badges": [],
       "lang": "en",
       "also": [],
-      "category": "industry",
-      "tags": [
-        "nvidia"
-      ],
-      "score": 59,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
-    },
-    {
-      "id": "8dcd3f46d355",
-      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-      "url": "https://wired.com/story/jensen-huang-nvidia-us-national-security-risks",
-      "domain": "wired.com",
-      "source": "Wired AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T23:39:04.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "industry",
-      "tags": [
-        "nvidia"
-      ],
-      "score": 59,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
-    },
-    {
-      "id": "5845ed4863b4",
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
-      "domain": "techcrunch.com",
-      "source": "TechCrunch AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T15:51:07.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "industry",
-      "tags": [
-        "nvidia"
-      ],
-      "score": 59,
-      "firstSeen": "2026-11-24T15:53:43.571Z"
-    },
-    {
-      "id": "a1954c7a4413",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "url": "https://technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization",
-      "domain": "technologyreview.com",
-      "source": "MIT Technology Review AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done…",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T15:15:16.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
+      "category": "models",
       "tags": [
         "agents"
       ],
-      "score": 59,
-      "firstSeen": "2026-11-24T15:35:21.724Z"
-    },
-    {
-      "id": "f8cdc496b0bc",
-      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back",
-      "domain": "arstechnica.com",
-      "source": "Ars Technica AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://arstechnica.com/ai/feed/",
-      "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-24T14:56:50.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "industry",
-      "tags": [
-        "nvidia"
-      ],
-      "score": 59,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
+      "score": 58,
+      "firstSeen": "2026-11-27T00:33:56.775Z"
     },
     {
       "id": "4ba826a45a61",
@@ -550,6 +461,30 @@
       ],
       "score": 58,
       "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "f27e0de9d097",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+      "domain": "techcrunch.com",
+      "source": "TechCrunch AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T22:44:32.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "industry",
+      "tags": [
+        "nvidia"
+      ],
+      "score": 58,
+      "firstSeen": "2026-11-26T00:17:24.949Z"
     },
     {
       "id": "7bb959aaf52e",
@@ -645,30 +580,28 @@
       "firstSeen": "2026-11-25T14:15:25.678Z"
     },
     {
-      "id": "6ff348e652c9",
-      "title": "Three LLM inflection points in twelve months",
-      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
-      "domain": "simonwillison.net",
-      "source": "Simon Willison",
+      "id": "c881f1e71110",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+      "domain": "techcrunch.com",
+      "source": "TechCrunch AI",
       "sourceKey": "rss",
-      "sourceUrl": "https://simonwillison.net/atom/everything/",
-      "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point…",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-24T23:02:07.000Z",
+      "publishedAt": "2026-11-26T20:03:54.000Z",
       "meta": {},
       "badges": [],
       "lang": "en",
       "also": [],
-      "category": "models",
+      "category": "industry",
       "tags": [
-        "agents",
-        "coding",
-        "video"
+        "nvidia"
       ],
-      "score": 58,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
+      "score": 57,
+      "firstSeen": "2026-11-27T00:33:56.775Z"
     },
     {
       "id": "d73563559186",
@@ -735,6 +668,75 @@
       "tags": [],
       "score": 57,
       "firstSeen": "2026-11-25T14:15:25.678Z"
+    },
+    {
+      "id": "7fcbebbe6634",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
+      "domain": "simonwillison.net",
+      "source": "Simon Willison",
+      "sourceKey": "rss",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive characteristics. Normally, if you…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T06:08:25.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 56,
+      "firstSeen": "2026-11-26T13:50:33.325Z"
+    },
+    {
+      "id": "7b7cb44d5be8",
+      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop",
+      "domain": "arstechnica.com",
+      "source": "Ars Technica AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://arstechnica.com/ai/feed/",
+      "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T16:47:14.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "industry",
+      "tags": [],
+      "score": 56,
+      "firstSeen": "2026-11-26T00:17:24.949Z"
+    },
+    {
+      "id": "069f94445fa0",
+      "title": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou",
+      "domain": "simonwillison.net",
+      "source": "Simon Willison",
+      "sourceKey": "rss",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T15:09:31.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "anthropic",
+        "video"
+      ],
+      "score": 55,
+      "firstSeen": "2026-11-27T00:33:56.775Z"
     }
   ]
 }

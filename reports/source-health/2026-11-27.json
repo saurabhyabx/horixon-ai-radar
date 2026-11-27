@@ -1,0 +1,48 @@
+{
+  "sources": {
+    "producthunt": {
+      "status": "skipped",
+      "count": 0,
+      "ms": 1,
+      "note": "PRODUCT_HUNT_TOKEN not set"
+    },
+    "huggingface": {
+      "status": "ok",
+      "count": 23,
+      "ms": 114
+    },
+    "radarPicks": {
+      "status": "empty",
+      "count": 0,
+      "ms": 939
+    },
+    "rss": {
+      "status": "ok",
+      "count": 69,
+      "ms": 1229,
+      "errors": [
+        "VentureBeat AI: HTTP 429 https://venturebeat.com/category/ai/feed/",
+        "Import AI: HTTP 403 https://importai.substack.com/feed"
+      ]
+    },
+    "github": {
+      "status": "ok",
+      "count": 25,
+      "ms": 2122
+    },
+    "hn": {
+      "status": "ok",
+      "count": 45,
+      "ms": 5588
+    }
+  },
+  "enrich": {
+    "skipped": true
+  },
+  "collected": 162,
+  "afterDedupe": 159,
+  "alerts": {
+    "sent": 5,
+    "telegram": false
+  }
+}
