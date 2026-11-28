@@ -10,6 +10,7 @@
 - [RSS: daily digest](https://saurabhyabx.github.io/horixon-ai-radar/feed/daily.xml)
 
 ## Recent daily digests
+- [2026-11-28: US Air Force's cloud computing platform hacked](https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-28.html)
 - [2026-11-27: The group chat where your AI talks behind your back](https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-27.html)
 - [2026-11-26: Google releases Cogentic papers on integer factorization, discrete logs and more](https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-26.html)
 - [2026-11-25: Matrix Multiplication is Θ(n^2.25) [pdf]](https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-25.html)

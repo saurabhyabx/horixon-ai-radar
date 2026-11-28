@@ -1,9 +1,844 @@
 {
-  "updatedAt": "2026-11-27T13:48:22.457Z",
+  "updatedAt": "2026-11-28T00:01:48.672Z",
   "items": [
     {
+      "id": "3b8b3d993078",
+      "title": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "domain": "news.sky.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50666375",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T12:54:11Z",
+      "engagement": 83,
+      "meta": {
+        "points": 317,
+        "comments": 199
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 72,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "64f11cc42feb",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com",
+      "domain": "bouncemarket.minhanhday.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50667726",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T15:01:50Z",
+      "engagement": 75,
+      "meta": {
+        "points": 320,
+        "comments": 110
+      },
+      "badges": [
+        "launch"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "industry",
+      "tags": [],
+      "score": 71,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "f21d90605390",
+      "title": "I'm Scared of AI",
+      "url": "https://thesoapbox.email/archive/3",
+      "domain": "thesoapbox.email",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50669561",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T17:45:31Z",
+      "engagement": 63,
+      "meta": {
+        "points": 199,
+        "comments": 234
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 67,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "3575fe1f68c2",
+      "title": "New York and California age gating rules go into effect in the new year",
+      "url": "https://eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "domain": "eff.org",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50666279",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T12:43:40Z",
+      "engagement": 58,
+      "meta": {
+        "points": 184,
+        "comments": 214
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 64,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "e3fd524c3c50",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50669765",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T18:02:45Z",
+      "engagement": 48,
+      "meta": {
+        "points": 208,
+        "comments": 59
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 62,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "4c2310f3b8e4",
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "url": "https://kimi.ai/news/kimi-for-science-program",
+      "domain": "kimi.ai",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50665920",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T12:03:11Z",
+      "engagement": 51,
+      "meta": {
+        "points": 180,
+        "comments": 151
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 61,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "42f8ff418476",
+      "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+      "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i",
+      "domain": "latent.space",
+      "source": "Latent Space",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.latent.space/feed",
+      "summary": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger...",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T22:19:18.000Z",
+      "engagement": 40,
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "founders",
+      "tags": [
+        "coding"
+      ],
+      "score": 58,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "01cdd83d3c55",
+      "title": "GPT 6.2 Astra solves a historical mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "domain": "generativehistory.substack.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50667744",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T15:03:17Z",
+      "engagement": 33,
+      "meta": {
+        "points": 166,
+        "comments": 1
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [],
+      "score": 56,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "cc2646aaf051",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "domain": "theverge.com",
+      "source": "The Verge AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T14:00:00.000Z",
+      "engagement": 40,
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "coding"
+      ],
+      "score": 55,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "3edc0087da83",
+      "title": "kandinskylab/Kandinsky-ImageSR-2.0 (model)",
+      "url": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
+      "summary": "image-to-image · diffusers · 192 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 37,
+      "meta": {},
+      "badges": [],
+      "hint": "models",
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "image"
+      ],
+      "score": 55,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "9d5ba7119b15",
+      "title": "baidu/ERNIE-5.5-Flash-Preview (model)",
+      "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
+      "summary": "text-generation · transformers · 392 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 28,
+      "meta": {},
+      "badges": [],
+      "hint": "models",
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [],
+      "score": 52,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "784f7b224239",
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "url": "https://dragdropmath.com",
+      "domain": "dragdropmath.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50669673",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T17:56:28Z",
+      "engagement": 18,
+      "meta": {
+        "points": 80,
+        "comments": 20
+      },
+      "badges": [
+        "launch"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 52,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "2c3ac5a2eb65",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "url": "https://progrium.github.io/9ux",
+      "domain": "progrium.github.io",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50672008",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T21:48:14Z",
+      "engagement": 10,
+      "meta": {
+        "points": 46,
+        "comments": 9
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 51,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "fc0f61fdbb51",
+      "title": "Making a 3D fantasy map like a 16th-Century atlas",
+      "url": "https://spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+      "domain": "spritefusion.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50667062",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T14:02:52Z",
+      "engagement": 19,
+      "meta": {
+        "points": 91,
+        "comments": 11
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 50,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "c54d0f12616a",
+      "title": "The AT&T Unix PC (3B1) VM",
+      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps",
+      "domain": "virtuallyfun.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50670841",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T19:40:33Z",
+      "engagement": 11,
+      "meta": {
+        "points": 50,
+        "comments": 9
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 50,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "ac42e1548673",
+      "title": "dlouapre/looped-transformers (Space)",
+      "url": "https://huggingface.co/spaces/dlouapre/looped-transformers",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/spaces/dlouapre/looped-transformers",
+      "summary": "Trending demo · docker · 54 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 13,
+      "meta": {},
+      "badges": [],
+      "hint": "products",
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 47,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "4faaa3acd738",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685",
+      "domain": "simonwillison.net",
+      "source": "Simon Willison",
+      "sourceKey": "rss",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T05:08:46.000Z",
+      "engagement": 32,
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 38,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "627069b91634",
+      "title": "titisseptian-SS/omniroute-explorer — OmniRoute Explorer: Lightweight, Open-Access Routing Tool",
+      "url": "https://github.com/titisseptian-SS/omniroute-explorer",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/titisseptian-SS/omniroute-explorer",
+      "summary": "OmniRoute Explorer: Lightweight, Open-Access Routing Tool",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T22:49:29Z",
+      "engagement": 2,
+      "meta": {
+        "stars": 34,
+        "language": "HTML"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "hint": "github",
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 36,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "5ee74a90d39c",
+      "title": "Ndarrr07/pro-llm-api-hub — Pro LLM API Hub: Structured Dataset of Large Language Model Interfaces",
+      "url": "https://github.com/Ndarrr07/pro-llm-api-hub",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/Ndarrr07/pro-llm-api-hub",
+      "summary": "Pro LLM API Hub: Structured Dataset of Large Language Model Interfaces",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T23:24:29Z",
+      "engagement": 2,
+      "meta": {
+        "stars": 31,
+        "language": "HTML"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "hint": "github",
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 36,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "85080ae8ef29",
+      "title": "Niruthiya04/echomind-voice-assistant — EchoMind: Local-First Voice Memory Assistant with Live Transcription and Private RAG",
+      "url": "https://github.com/Niruthiya04/echomind-voice-assistant",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/Niruthiya04/echomind-voice-assistant",
+      "summary": "EchoMind: Local-First Voice Memory Assistant with Live Transcription and Private RAG",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T21:28:00Z",
+      "engagement": 2,
+      "meta": {
+        "stars": 31,
+        "language": "HTML"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "hint": "github",
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "voice"
+      ],
+      "score": 36,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "0819198e49a1",
+      "title": "1lamech/ai-image-generator-prompts — AI Image Generator Prompts: Openly Available Prompt Corpus for Methodical Evaluation",
+      "url": "https://github.com/1lamech/ai-image-generator-prompts",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/1lamech/ai-image-generator-prompts",
+      "summary": "AI Image Generator Prompts: Openly Available Prompt Corpus for Methodical Evaluation",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T19:50:07Z",
+      "engagement": 2,
+      "meta": {
+        "stars": 34,
+        "language": "HTML"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "hint": "github",
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "image"
+      ],
+      "score": 35,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "22289bdf9c22",
+      "title": "SenpaiSpide664/ai-visual-prompt-cookbook — AI Visual Prompt Cookbook: Reusable JSON Style Prompts for Consistent Image Generation",
+      "url": "https://github.com/SenpaiSpide664/ai-visual-prompt-cookbook",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/SenpaiSpide664/ai-visual-prompt-cookbook",
+      "summary": "AI Visual Prompt Cookbook: Reusable JSON Style Prompts for Consistent Image Generation",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T19:49:58Z",
+      "engagement": 2,
+      "meta": {
+        "stars": 31,
+        "language": "HTML"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "hint": "github",
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "image"
+      ],
+      "score": 35,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "fe6efe854fc0",
+      "title": "khalilur14103026/crypto-accumulation-scanner — Community-Driven Crypto Accumulation Scanner with Telegram Alerts and Rich Features",
+      "url": "https://github.com/khalilur14103026/crypto-accumulation-scanner",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/khalilur14103026/crypto-accumulation-scanner",
+      "summary": "Community-Driven Crypto Accumulation Scanner with Telegram Alerts and Rich Features",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T20:49:02Z",
+      "engagement": 2,
+      "meta": {
+        "stars": 34,
+        "language": "HTML"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "hint": "github",
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 35,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "237abfc39fb7",
+      "title": "uxpilot-ai/frontend-design-skill — Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas,",
+      "url": "https://github.com/uxpilot-ai/frontend-design-skill",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/uxpilot-ai/frontend-design-skill",
+      "summary": "Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T19:40:33Z",
+      "engagement": 10,
+      "meta": {
+        "stars": 196,
+        "language": null
+      },
+      "badges": [
+        "open-source"
+      ],
+      "hint": "github",
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "anthropic"
+      ],
+      "score": 28,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "d2c8df347a79",
+      "title": "matheusmongarde/central — Sua empresa tocada por uma equipe de agentes de IA: redes sociais, vendas, estratégia e operação. 7",
+      "url": "https://github.com/matheusmongarde/central",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/matheusmongarde/central",
+      "summary": "Sua empresa tocada por uma equipe de agentes de IA: redes sociais, vendas, estratégia e operação. 7 chefes, 38 skills em português, Buffer, Google Maps e API para o seu agente. Aberto e grátis. Roda no seu PC, VPS ou Vercel.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T23:32:43Z",
+      "engagement": 5,
+      "meta": {
+        "stars": 98,
+        "language": "TypeScript"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "hint": "github",
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "google"
+      ],
+      "score": 28,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "26cd3abe446d",
+      "title": "eust-w/open-robotics-plugin — Robotics agent skills (MuJoCo, perception, planning, sim2real, bring-up) for Claude Code, Antigravit",
+      "url": "https://github.com/eust-w/open-robotics-plugin",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/eust-w/open-robotics-plugin",
+      "summary": "Robotics agent skills (MuJoCo, perception, planning, sim2real, bring-up) for Claude Code, Antigravity, Codex, Gemini CLI, Cursor and more. Adapted from google-deepmind/robotics-antigravity-plugin (Apache-2.0).",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T17:42:27Z",
+      "engagement": 5,
+      "meta": {
+        "stars": 103,
+        "language": "Python"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "hint": "github",
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "anthropic",
+        "google",
+        "agents"
+      ],
+      "score": 25,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "590e62198b50",
+      "title": "ankurmans/caldrin-search-oss — SEO and AI-visibility platform with an MCP server. Self-host on Cloudflare with your own provider ke",
+      "url": "https://github.com/ankurmans/caldrin-search-oss",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/ankurmans/caldrin-search-oss",
+      "summary": "SEO and AI-visibility platform with an MCP server. Self-host on Cloudflare with your own provider keys.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-25T06:18:10Z",
+      "engagement": 7,
+      "meta": {
+        "stars": 141,
+        "language": "TypeScript"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "hint": "github",
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "mcp"
+      ],
+      "score": 21,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "2b016f2c7904",
+      "title": "7wdn/7paws — Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。",
+      "url": "https://github.com/7wdn/7paws",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/7wdn/7paws",
+      "summary": "Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-22T15:40:42Z",
+      "engagement": 8,
+      "meta": {
+        "stars": 155,
+        "language": "Rust"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "hint": "github",
+      "lang": "zh",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "mcp"
+      ],
+      "score": 19,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "5cc056bf7e69",
+      "title": "CybeDefend/cybedefend — Agentic ASPM, the open source Snyk alternative. A full security audit in one command",
+      "url": "https://github.com/CybeDefend/cybedefend",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/CybeDefend/cybedefend",
+      "summary": "Agentic ASPM, the open source Snyk alternative. A full security audit in one command",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-23T15:36:06Z",
+      "engagement": 6,
+      "meta": {
+        "stars": 125,
+        "language": "TypeScript"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "hint": "github",
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "agents",
+        "open-source"
+      ],
+      "score": 18,
+      "firstSeen": "2026-11-28T00:01:48.672Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
       "id": "74835a583675",
-      "title": "The group chat where your AI talks behind your back",
+      "title": "Group chat where your AI talks behind your back",
       "url": "https://construct22.com",
       "domain": "construct22.com",
       "source": "Hacker News",
@@ -16,8 +851,8 @@
       "publishedAt": "2026-11-27T06:44:34Z",
       "engagement": 100,
       "meta": {
-        "points": 416,
-        "comments": 183
+        "points": 681,
+        "comments": 282
       },
       "badges": [],
       "lang": "en",
@@ -26,7 +861,7 @@
       "tags": [],
       "score": 80,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "f809947e587d",
@@ -43,8 +878,8 @@
       "publishedAt": "2026-11-27T01:13:49Z",
       "engagement": 100,
       "meta": {
-        "points": 425,
-        "comments": 368
+        "points": 548,
+        "comments": 465
       },
       "badges": [],
       "lang": "en",
@@ -53,11 +888,11 @@
       "tags": [],
       "score": 78,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "138e1e18872d",
-      "title": "Claude sabotaging SOTA ML research tasks",
+      "title": "Claude sabotaging ML research tasks?",
       "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "domain": "twitter.com",
       "source": "Hacker News",
@@ -68,10 +903,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-27T08:28:08Z",
-      "engagement": 42,
+      "engagement": 100,
       "meta": {
-        "points": 160,
-        "comments": 101
+        "points": 553,
+        "comments": 278
       },
       "badges": [],
       "lang": "en",
@@ -80,9 +915,34 @@
       "tags": [
         "anthropic"
       ],
+      "score": 77,
+      "firstSeen": "2026-11-27T13:48:22.457Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "74c0c0ba388d",
+      "title": "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF (model)",
+      "url": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+      "summary": "text-generation · gguf · 267 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 52,
+      "meta": {},
+      "badges": [],
+      "hint": "models",
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [],
       "score": 60,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "2d7f8b4f8454",
@@ -110,32 +970,36 @@
       ],
       "score": 59,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
-      "id": "74c0c0ba388d",
-      "title": "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF (model)",
-      "url": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
-      "summary": "text-generation · gguf · 194 likes",
+      "id": "0256b11e8366",
+      "title": "\"What's Claude's fursona?\" and other questions",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+      "domain": "herecomesthemoon.net",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50662933",
+      "summary": "",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
-      "engagement": 41,
-      "meta": {},
+      "publishedAt": "2026-11-27T04:56:18Z",
+      "engagement": 53,
+      "meta": {
+        "points": 180,
+        "comments": 165
+      },
       "badges": [],
-      "hint": "models",
       "lang": "en",
       "also": [],
       "category": "models",
-      "tags": [],
-      "score": 56,
+      "tags": [
+        "anthropic"
+      ],
+      "score": 59,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "355eb2e5ee20",
@@ -159,7 +1023,34 @@
       "tags": [],
       "score": 56,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "55060e027bba",
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "url": "https://thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "domain": "thetimes.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50665488",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T11:09:04Z",
+      "engagement": 38,
+      "meta": {
+        "points": 115,
+        "comments": 149
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 56,
+      "firstSeen": "2026-11-27T13:48:22.457Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "232f2b9e65cb",
@@ -190,62 +1081,6 @@
       "lastSeen": "2026-11-27T13:48:22.457Z"
     },
     {
-      "id": "0256b11e8366",
-      "title": "\"What's Claude's Fursona?\" and Other Questions",
-      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-      "domain": "herecomesthemoon.net",
-      "source": "Hacker News",
-      "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50662933",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-27T04:56:18Z",
-      "engagement": 28,
-      "meta": {
-        "points": 101,
-        "comments": 79
-      },
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "anthropic"
-      ],
-      "score": 54,
-      "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
-    },
-    {
-      "id": "55060e027bba",
-      "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
-      "url": "https://thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "domain": "thetimes.com",
-      "source": "Hacker News",
-      "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50665488",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-27T11:09:04Z",
-      "engagement": 18,
-      "meta": {
-        "points": 57,
-        "comments": 68
-      },
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 53,
-      "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
-    },
-    {
       "id": "5e4e3a318d78",
       "title": "waitinghere/MINIMAX-H3-Ref2VA-Revamped (Space)",
       "url": "https://huggingface.co/spaces/waitinghere/MINIMAX-H3-Ref2VA-Revamped",
@@ -253,12 +1088,12 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/waitinghere/MINIMAX-H3-Ref2VA-Revamped",
-      "summary": "Trending demo · gradio · 72 likes",
+      "summary": "Trending demo · gradio · 79 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
-      "engagement": 14,
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 16,
       "meta": {},
       "badges": [],
       "hint": "products",
@@ -266,9 +1101,9 @@
       "also": [],
       "category": "products",
       "tags": [],
-      "score": 47,
+      "score": 48,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "6bac70b0e180",
@@ -285,8 +1120,8 @@
       "publishedAt": "2026-11-27T00:03:18Z",
       "engagement": 14,
       "meta": {
-        "points": 55,
-        "comments": 27
+        "points": 56,
+        "comments": 28
       },
       "badges": [],
       "lang": "en",
@@ -298,7 +1133,7 @@
       ],
       "score": 47,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "d690356524d6",
@@ -342,8 +1177,8 @@
       "publishedAt": "2026-11-26T19:44:31Z",
       "engagement": 11,
       "meta": {
-        "points": 43,
-        "comments": 23
+        "points": 44,
+        "comments": 25
       },
       "badges": [],
       "lang": "en",
@@ -352,7 +1187,7 @@
       "tags": [],
       "score": 44,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "47cf75767b1a",
@@ -367,10 +1202,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T16:51:38Z",
-      "engagement": 11,
+      "engagement": 14,
       "meta": {
-        "points": 49,
-        "comments": 10
+        "points": 60,
+        "comments": 16
       },
       "badges": [
         "launch"
@@ -381,7 +1216,7 @@
       "tags": [],
       "score": 43,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "6b594a6e6fc7",
@@ -396,9 +1231,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T14:38:57Z",
-      "engagement": 10,
+      "engagement": 11,
       "meta": {
-        "points": 44,
+        "points": 46,
         "comments": 15
       },
       "badges": [],
@@ -410,7 +1245,7 @@
       ],
       "score": 42,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "8f4aa0deafac",
@@ -425,9 +1260,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-23T11:06:07Z",
-      "engagement": 21,
+      "engagement": 41,
       "meta": {
-        "stars": 410,
+        "stars": 822,
         "language": "JavaScript"
       },
       "badges": [
@@ -438,9 +1273,9 @@
       "also": [],
       "category": "github",
       "tags": [],
-      "score": 23,
+      "score": 30,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "0fc3a348b58a",
@@ -455,9 +1290,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-23T18:46:31Z",
-      "engagement": 7,
+      "engagement": 8,
       "meta": {
-        "stars": 149,
+        "stars": 152,
         "language": "TypeScript"
       },
       "badges": [
@@ -472,9 +1307,9 @@
         "agents",
         "coding"
       ],
-      "score": 18,
+      "score": 19,
       "firstSeen": "2026-11-27T13:48:22.457Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "19dd4641586d",
@@ -491,8 +1326,8 @@
       "publishedAt": "2026-11-26T21:47:45Z",
       "engagement": 100,
       "meta": {
-        "points": 843,
-        "comments": 414
+        "points": 1095,
+        "comments": 502
       },
       "badges": [],
       "lang": "en",
@@ -501,7 +1336,7 @@
       "tags": [],
       "score": 76,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "9ca28a7fecf2",
@@ -518,8 +1353,8 @@
       "publishedAt": "2026-11-26T17:36:47Z",
       "engagement": 100,
       "meta": {
-        "points": 450,
-        "comments": 535
+        "points": 537,
+        "comments": 654
       },
       "badges": [],
       "lang": "en",
@@ -528,7 +1363,7 @@
       "tags": [],
       "score": 75,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "1f02c916626f",
@@ -543,10 +1378,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T21:08:05Z",
-      "engagement": 96,
+      "engagement": 100,
       "meta": {
-        "points": 423,
-        "comments": 111
+        "points": 504,
+        "comments": 129
       },
       "badges": [],
       "lang": "en",
@@ -555,7 +1390,7 @@
       "tags": [],
       "score": 75,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "c83866a1dbc9",
@@ -570,10 +1405,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T17:16:41Z",
-      "engagement": 82,
+      "engagement": 84,
       "meta": {
-        "points": 313,
-        "comments": 190
+        "points": 321,
+        "comments": 195
       },
       "badges": [],
       "lang": "en",
@@ -582,7 +1417,7 @@
       "tags": [],
       "score": 72,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "1d45997e4997",
@@ -597,10 +1432,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T17:11:29Z",
-      "engagement": 89,
+      "engagement": 98,
       "meta": {
-        "points": 395,
-        "comments": 96
+        "points": 438,
+        "comments": 105
       },
       "badges": [],
       "lang": "en",
@@ -611,35 +1446,35 @@
       ],
       "score": 71,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "91b0d57339c9",
-      "title": "Show HN: Fuck_data_brokers.py",
+      "title": "gary23w/f-ck_data_brokers — fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to",
       "url": "https://github.com/gary23w/f-ck_data_brokers",
       "domain": "github.com",
-      "source": "Hacker News",
-      "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50658191",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/gary23w/f-ck_data_brokers",
       "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T18:37:21Z",
-      "engagement": 53,
+      "publishedAt": "2026-11-26T17:53:07Z",
+      "engagement": 54,
       "meta": {
-        "points": 240,
-        "comments": 52
+        "stars": 662,
+        "language": "Python"
       },
       "badges": [
-        "launch",
-        "open-source"
+        "open-source",
+        "launch"
       ],
       "lang": "en",
       "also": [
         {
-          "source": "GitHub",
-          "url": "https://github.com/gary23w/f-ck_data_brokers"
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50658191"
         }
       ],
       "category": "github",
@@ -648,7 +1483,8 @@
       ],
       "score": 64,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z",
+      "hint": "github"
     },
     {
       "id": "ff7c1d626667",
@@ -674,7 +1510,34 @@
       "tags": [],
       "score": 61,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "8b660d9f0988",
+      "title": "strata-engine/Inkling-2-Mini-Strata (model)",
+      "url": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
+      "summary": "image-text-to-text · 301 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 53,
+      "meta": {},
+      "badges": [],
+      "hint": "models",
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "image"
+      ],
+      "score": 61,
+      "firstSeen": "2026-11-27T00:33:56.775Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "7b836b1fe0ea",
@@ -689,10 +1552,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T16:50:55Z",
-      "engagement": 42,
+      "engagement": 43,
       "meta": {
         "points": 131,
-        "comments": 160
+        "comments": 164
       },
       "badges": [],
       "lang": "en",
@@ -701,34 +1564,36 @@
       "tags": [],
       "score": 59,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
-      "id": "8b660d9f0988",
-      "title": "strata-engine/Inkling-2-Mini-Strata (model)",
-      "url": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
-      "summary": "image-text-to-text · 259 likes",
+      "id": "c292bca5f413",
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "url": "http://themouseless.dev/vim",
+      "domain": "themouseless.dev",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50655868",
+      "summary": "",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
-      "engagement": 48,
-      "meta": {},
-      "badges": [],
-      "hint": "models",
+      "publishedAt": "2026-11-26T14:44:22Z",
+      "engagement": 70,
+      "meta": {
+        "points": 297,
+        "comments": 103
+      },
+      "badges": [
+        "launch"
+      ],
       "lang": "en",
       "also": [],
-      "category": "models",
-      "tags": [
-        "image"
-      ],
+      "category": "products",
+      "tags": [],
       "score": 59,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "00bb51c293be",
@@ -743,7 +1608,7 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T23:02:48.000Z",
-      "engagement": 40,
+      "engagement": 36,
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -754,7 +1619,7 @@
       ],
       "score": 58,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "c881f1e71110",
@@ -780,36 +1645,7 @@
       ],
       "score": 57,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
-    },
-    {
-      "id": "c292bca5f413",
-      "title": "Show HN: I wrote an entire Vim manual over 4 years",
-      "url": "http://themouseless.dev/vim",
-      "domain": "themouseless.dev",
-      "source": "Hacker News",
-      "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50655868",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T14:44:22Z",
-      "engagement": 53,
-      "meta": {
-        "points": 231,
-        "comments": 72
-      },
-      "badges": [
-        "launch"
-      ],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 57,
-      "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "069f94445fa0",
@@ -836,7 +1672,7 @@
       ],
       "score": 55,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "ec74e9ba2187",
@@ -863,7 +1699,7 @@
       ],
       "score": 54,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "7a4d64966976",
@@ -903,10 +1739,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T15:00:06Z",
-      "engagement": 33,
+      "engagement": 34,
       "meta": {
-        "points": 147,
-        "comments": 33
+        "points": 153,
+        "comments": 34
       },
       "badges": [
         "launch"
@@ -917,7 +1753,7 @@
       "tags": [],
       "score": 53,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "1cb3e1eb17f7",
@@ -932,10 +1768,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T19:53:58Z",
-      "engagement": 20,
+      "engagement": 21,
       "meta": {
-        "points": 72,
-        "comments": 58
+        "points": 73,
+        "comments": 59
       },
       "badges": [],
       "lang": "en",
@@ -944,7 +1780,7 @@
       "tags": [],
       "score": 53,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "e445c0a44058",
@@ -959,10 +1795,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T18:14:53Z",
-      "engagement": 23,
+      "engagement": 25,
       "meta": {
-        "points": 63,
-        "comments": 108
+        "points": 65,
+        "comments": 117
       },
       "badges": [],
       "lang": "en",
@@ -971,7 +1807,7 @@
       "tags": [],
       "score": 52,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "4aa3f3f05b82",
@@ -986,10 +1822,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T19:18:09Z",
-      "engagement": 32,
+      "engagement": 36,
       "meta": {
-        "points": 143,
-        "comments": 34
+        "points": 162,
+        "comments": 39
       },
       "badges": [],
       "lang": "en",
@@ -998,7 +1834,7 @@
       "tags": [],
       "score": 51,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "8ea03d922a6f",
@@ -1013,10 +1849,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T16:16:41Z",
-      "engagement": 19,
+      "engagement": 20,
       "meta": {
-        "points": 75,
-        "comments": 38
+        "points": 80,
+        "comments": 39
       },
       "badges": [],
       "lang": "en",
@@ -1025,7 +1861,7 @@
       "tags": [],
       "score": 50,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "fdb53e3262fb",
@@ -1040,9 +1876,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T18:28:30Z",
-      "engagement": 13,
+      "engagement": 14,
       "meta": {
-        "points": 56,
+        "points": 59,
         "comments": 22
       },
       "badges": [],
@@ -1055,7 +1891,7 @@
       ],
       "score": 49,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "21ba123e16ac",
@@ -1105,10 +1941,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T04:49:21Z",
-      "engagement": 15,
+      "engagement": 22,
       "meta": {
-        "points": 65,
-        "comments": 17
+        "points": 102,
+        "comments": 20
       },
       "badges": [],
       "lang": "en",
@@ -1119,7 +1955,7 @@
       ],
       "score": 43,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "920297a71bf3",
@@ -1161,9 +1997,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-24T17:52:40Z",
-      "engagement": 8,
+      "engagement": 9,
       "meta": {
-        "stars": 161,
+        "stars": 170,
         "language": "Python"
       },
       "badges": [
@@ -1178,7 +2014,7 @@
       ],
       "score": 26,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "9522543ad371",
@@ -1195,7 +2031,7 @@
       "publishedAt": "2026-11-24T09:15:27Z",
       "engagement": 7,
       "meta": {
-        "stars": 132,
+        "stars": 131,
         "language": null
       },
       "badges": [
@@ -1212,7 +2048,7 @@
       ],
       "score": 22,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T00:33:56.775Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "9cb9fa724ba9",
@@ -1229,7 +2065,7 @@
       "publishedAt": "2026-11-24T08:35:36Z",
       "engagement": 2,
       "meta": {
-        "stars": 45,
+        "stars": 46,
         "language": "Python"
       },
       "badges": [
@@ -1244,7 +2080,7 @@
       ],
       "score": 20,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "82798b1a324d",
@@ -1259,9 +2095,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-23T08:48:17Z",
-      "engagement": 5,
+      "engagement": 6,
       "meta": {
-        "stars": 92,
+        "stars": 111,
         "language": "C++"
       },
       "badges": [
@@ -1276,7 +2112,7 @@
       ],
       "score": 18,
       "firstSeen": "2026-11-27T00:33:56.775Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "91ef480232c5",
@@ -1293,8 +2129,8 @@
       "publishedAt": "2026-11-26T10:11:01Z",
       "engagement": 100,
       "meta": {
-        "points": 541,
-        "comments": 261
+        "points": 585,
+        "comments": 270
       },
       "badges": [],
       "lang": "en",
@@ -1303,7 +2139,7 @@
       "tags": [],
       "score": 77,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "244a3e8cb4f1",
@@ -1320,8 +2156,8 @@
       "publishedAt": "2026-11-26T03:36:58Z",
       "engagement": 100,
       "meta": {
-        "points": 495,
-        "comments": 269
+        "points": 507,
+        "comments": 274
       },
       "badges": [],
       "lang": "en",
@@ -1332,7 +2168,7 @@
       ],
       "score": 75,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "6f6a6b07f17a",
@@ -1349,8 +2185,8 @@
       "publishedAt": "2026-11-26T09:44:23Z",
       "engagement": 100,
       "meta": {
-        "points": 363,
-        "comments": 309
+        "points": 420,
+        "comments": 330
       },
       "badges": [],
       "lang": "en",
@@ -1363,7 +2199,7 @@
       ],
       "score": 71,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "02a088434703",
@@ -1391,7 +2227,7 @@
       ],
       "score": 64,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "64a870b6a927",
@@ -1406,10 +2242,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T06:32:48Z",
-      "engagement": 76,
+      "engagement": 81,
       "meta": {
-        "points": 302,
-        "comments": 157
+        "points": 323,
+        "comments": 161
       },
       "badges": [],
       "lang": "en",
@@ -1418,7 +2254,7 @@
       "tags": [],
       "score": 63,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "06c468d10ca7",
@@ -1428,12 +2264,12 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
-      "summary": "text-to-image · transformers · 300 likes",
+      "summary": "text-to-image · transformers · 341 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
-      "engagement": 59,
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 60,
       "meta": {},
       "badges": [],
       "hint": "models",
@@ -1446,7 +2282,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "23df49456422",
@@ -1461,9 +2297,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T03:00:48Z",
-      "engagement": 64,
+      "engagement": 65,
       "meta": {
-        "points": 295,
+        "points": 300,
         "comments": 47
       },
       "badges": [],
@@ -1473,7 +2309,7 @@
       "tags": [],
       "score": 61,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "d3aa48daa62d",
@@ -1499,7 +2335,7 @@
       "tags": [],
       "score": 60,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "4ba826a45a61",
@@ -1526,7 +2362,7 @@
       ],
       "score": 58,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "d73563559186",
@@ -1541,7 +2377,7 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T09:54:40.000Z",
-      "engagement": 40,
+      "engagement": 36,
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -1550,7 +2386,7 @@
       "tags": [],
       "score": 57,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "9a2d977585a6",
@@ -1565,9 +2401,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-25T10:35:45Z",
-      "engagement": 92,
+      "engagement": 100,
       "meta": {
-        "stars": 1849,
+        "stars": 2228,
         "language": "TypeScript"
       },
       "badges": [
@@ -1584,7 +2420,7 @@
       ],
       "score": 57,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "a1356d98cece",
@@ -1635,7 +2471,7 @@
       "tags": [],
       "score": 56,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "c01600d41603",
@@ -1663,7 +2499,7 @@
       ],
       "score": 56,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "5aa9e3310d13",
@@ -1688,7 +2524,7 @@
       "tags": [],
       "score": 55,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "f3b43de57243",
@@ -1713,7 +2549,7 @@
       "tags": [],
       "score": 55,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "3965806fbc78",
@@ -1738,7 +2574,7 @@
       "tags": [],
       "score": 54,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "0b3165cb6908",
@@ -1765,7 +2601,7 @@
       ],
       "score": 54,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "be1cc5587b8c",
@@ -1790,7 +2626,7 @@
       "tags": [],
       "score": 53,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "19b9b3dd6c2c",
@@ -1815,7 +2651,7 @@
       "tags": [],
       "score": 53,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "c8682f048617",
@@ -1840,7 +2676,7 @@
       "tags": [],
       "score": 51,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "766b6b8128f4",
@@ -1865,7 +2701,7 @@
       "tags": [],
       "score": 51,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "ef0eeffeb9e1",
@@ -1892,7 +2728,7 @@
       ],
       "score": 50,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "4a066906982d",
@@ -1917,7 +2753,7 @@
       "tags": [],
       "score": 50,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "971f7afa718c",
@@ -1932,10 +2768,10 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-26T04:59:56Z",
-      "engagement": 34,
+      "engagement": 35,
       "meta": {
-        "points": 154,
-        "comments": 27
+        "points": 158,
+        "comments": 30
       },
       "badges": [],
       "lang": "en",
@@ -1944,7 +2780,7 @@
       "tags": [],
       "score": 50,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "9527dd371e58",
@@ -1968,7 +2804,7 @@
       "tags": [],
       "score": 48,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "eafb7f8679df",
@@ -2063,9 +2899,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-23T01:06:18Z",
-      "engagement": 37,
+      "engagement": 38,
       "meta": {
-        "stars": 744,
+        "stars": 759,
         "language": "C++"
       },
       "badges": [
@@ -2080,7 +2916,7 @@
       ],
       "score": 29,
       "firstSeen": "2026-11-26T13:50:33.325Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "abef7dcffe0c",
@@ -2166,7 +3002,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "49ee48d5da3d",
@@ -2194,7 +3030,7 @@
       ],
       "score": 62,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "17789156cb48",
@@ -2277,7 +3113,7 @@
       ],
       "score": 60,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "04a9805dfa55",
@@ -2301,7 +3137,7 @@
       "tags": [],
       "score": 59,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "f27e0de9d097",
@@ -2327,7 +3163,7 @@
       ],
       "score": 58,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "7bb959aaf52e",
@@ -2342,7 +3178,7 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-25T21:51:26.000Z",
-      "engagement": 36,
+      "engagement": 32,
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -2354,7 +3190,7 @@
       ],
       "score": 58,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "c7e5de5fee49",
@@ -2369,7 +3205,7 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-25T22:28:01.000Z",
-      "engagement": 36,
+      "engagement": 32,
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -2380,7 +3216,7 @@
       ],
       "score": 58,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "c1ac9b2bec60",
@@ -2422,7 +3258,7 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-25T22:23:41.000Z",
-      "engagement": 32,
+      "engagement": 28,
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -2431,7 +3267,7 @@
       "tags": [],
       "score": 57,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "7b7cb44d5be8",
@@ -2455,7 +3291,7 @@
       "tags": [],
       "score": 56,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "4c44ce30146b",
@@ -2481,7 +3317,7 @@
       ],
       "score": 56,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "a519f60a2170",
@@ -2496,9 +3332,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-25T07:28:51Z",
-      "engagement": 93,
+      "engagement": 100,
       "meta": {
-        "stars": 1864,
+        "stars": 2195,
         "language": "Assembly"
       },
       "badges": [
@@ -2511,7 +3347,7 @@
       "tags": [],
       "score": 56,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "1343f7f3b435",
@@ -2526,7 +3362,7 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-25T17:44:51.000Z",
-      "engagement": 32,
+      "engagement": 28,
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -2537,7 +3373,7 @@
       ],
       "score": 55,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "4f1b4d5d72a4",
@@ -2589,7 +3425,7 @@
       ],
       "score": 54,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "3e11caea3c27",
@@ -2631,7 +3467,7 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-25T16:00:59.000Z",
-      "engagement": 28,
+      "engagement": 24,
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -2640,7 +3476,7 @@
       "tags": [],
       "score": 53,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "372ac8913322",
@@ -2666,7 +3502,7 @@
       ],
       "score": 53,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "d8d6777ecf09",
@@ -2743,7 +3579,7 @@
       "tags": [],
       "score": 51,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "f14a6f6dfd19",
@@ -2822,7 +3658,7 @@
       "tags": [],
       "score": 49,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "88aef6d95408",
@@ -2961,7 +3797,7 @@
       ],
       "score": 45,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "610688b2aebc",
@@ -2976,9 +3812,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-24T11:49:09Z",
-      "engagement": 17,
+      "engagement": 15,
       "meta": {
-        "stars": 346,
+        "stars": 292,
         "language": null
       },
       "badges": [
@@ -2993,7 +3829,7 @@
       ],
       "score": 34,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "85f80ad7170e",
@@ -3010,7 +3846,7 @@
       "publishedAt": "2026-11-23T19:56:40Z",
       "engagement": 2,
       "meta": {
-        "stars": 39,
+        "stars": 41,
         "language": "Python"
       },
       "badges": [
@@ -3028,7 +3864,7 @@
       ],
       "score": 25,
       "firstSeen": "2026-11-26T00:17:24.949Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "5ee45fc63309",
@@ -3196,7 +4032,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-25T14:15:25.678Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "2748a793f4b9",
@@ -3206,11 +4042,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-      "summary": "text-generation · llama.cpp · 576 likes",
+      "summary": "text-generation · llama.cpp · 635 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
+      "publishedAt": "2026-11-28T00:01:48.715Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -3223,7 +4059,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-25T14:15:25.678Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "5f305d13d7da",
@@ -3294,7 +4130,7 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-25T14:12:33.000Z",
-      "engagement": 24,
+      "engagement": 20,
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -3306,7 +4142,7 @@
       ],
       "score": 59,
       "firstSeen": "2026-11-25T14:15:25.678Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "fa8097569f7c",
@@ -3357,7 +4193,7 @@
       "tags": [],
       "score": 58,
       "firstSeen": "2026-11-25T14:15:25.678Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "1033887459b7",
@@ -3381,7 +4217,7 @@
       "tags": [],
       "score": 58,
       "firstSeen": "2026-11-25T14:15:25.678Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "b0deea04c96b",
@@ -3405,7 +4241,7 @@
       "tags": [],
       "score": 57,
       "firstSeen": "2026-11-25T14:15:25.678Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "9edbb62c9bcf",
@@ -3446,7 +4282,7 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-25T13:00:00.000Z",
-      "engagement": 20,
+      "engagement": 16,
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -3459,7 +4295,7 @@
       ],
       "score": 57,
       "firstSeen": "2026-11-25T14:15:25.678Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "190619a69a1b",
@@ -3474,7 +4310,7 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-25T04:29:07.000Z",
-      "engagement": 28,
+      "engagement": 24,
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -3485,7 +4321,7 @@
       ],
       "score": 55,
       "firstSeen": "2026-11-25T14:15:25.678Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "dce071d6582a",
@@ -3630,12 +4466,12 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/Sentinel7/h3",
-      "summary": "2128 likes",
+      "summary": "2233 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T00:33:56.817Z",
-      "engagement": 34,
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 31,
       "meta": {},
       "badges": [],
       "hint": "models",
@@ -3645,7 +4481,7 @@
       "tags": [],
       "score": 54,
       "firstSeen": "2026-11-25T14:15:25.678Z",
-      "lastSeen": "2026-11-27T00:33:56.775Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "9095f70c750e",
@@ -3978,9 +4814,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-24T23:58:18Z",
-      "engagement": 11,
+      "engagement": 12,
       "meta": {
-        "stars": 223,
+        "stars": 234,
         "language": "TypeScript"
       },
       "badges": [
@@ -3997,7 +4833,7 @@
       ],
       "score": 42,
       "firstSeen": "2026-11-25T14:15:25.678Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "ef3910f6a7af",
@@ -4179,12 +5015,12 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/llamaindex/OCRia-nano-1",
-      "summary": "image-to-text · liteparse · 303 likes",
+      "summary": "image-to-text · liteparse · 355 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
-      "engagement": 59,
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 60,
       "meta": {},
       "badges": [],
       "hint": "models",
@@ -4197,7 +5033,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-25T00:39:21.435Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "16565a3f5dc0",
@@ -5100,7 +5936,7 @@
       "tags": [],
       "score": 36,
       "firstSeen": "2026-11-25T00:39:21.435Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "2a3af4527517",
@@ -5132,7 +5968,7 @@
       ],
       "score": 36,
       "firstSeen": "2026-11-25T00:39:21.435Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "5845ed4863b4",
@@ -5602,11 +6438,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "summary": "image-text-to-text · transformers · 6376 likes",
+      "summary": "image-text-to-text · transformers · 6463 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
+      "publishedAt": "2026-11-28T00:01:48.715Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -5619,7 +6455,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "67c4c2c31439",
@@ -5629,11 +6465,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "summary": "image-text-to-text · 1542 likes",
+      "summary": "image-text-to-text · 1606 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
+      "publishedAt": "2026-11-28T00:01:48.715Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -5646,7 +6482,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "74c05f88e457",
@@ -5656,12 +6492,12 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
-      "summary": "audio-to-audio · inworld-voice-isolation · 979 likes",
+      "summary": "audio-to-audio · inworld-voice-isolation · 1012 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
-      "engagement": 56,
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 60,
       "meta": {},
       "badges": [],
       "hint": "models",
@@ -5673,7 +6509,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "b4f1a99333cf",
@@ -5710,11 +6546,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-      "summary": "image-text-to-text · 973 likes",
+      "summary": "image-text-to-text · 1035 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
+      "publishedAt": "2026-11-28T00:01:48.715Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -5727,7 +6563,7 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "dc79824f7494",
@@ -5820,11 +6656,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/SulphurAI/Sulphur-3",
-      "summary": "minimax-h3 · 1310 likes",
+      "summary": "minimax-h3 · 1369 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
+      "publishedAt": "2026-11-28T00:01:48.715Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -5835,7 +6671,7 @@
       "tags": [],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "197dc8b3ac4d",
@@ -5879,11 +6715,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "image-to-video · diffusion-single-file · 13657 likes",
+      "summary": "image-to-video · diffusion-single-file · 13725 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
+      "publishedAt": "2026-11-28T00:01:48.715Z",
       "engagement": 60,
       "meta": {},
       "badges": [],
@@ -5897,7 +6733,32 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "4958e8f6f01d",
+      "title": "JCisHERE/wan2-2-i2v-v3 (Space)",
+      "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
+      "domain": "huggingface.co",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
+      "summary": "Trending demo · gradio · 873 likes",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 56,
+      "meta": {},
+      "badges": [],
+      "hint": "products",
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 62,
+      "firstSeen": "2026-11-24T15:24:12.381Z",
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "f3f6304a8cca",
@@ -5935,12 +6796,12 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/apple/DepthPro2",
-      "summary": "depth-estimation · depth-pro-2 · 1333 likes",
+      "summary": "depth-estimation · depth-pro-2 · 1361 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
-      "engagement": 49,
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 44,
       "meta": {},
       "badges": [],
       "hint": "models",
@@ -5950,32 +6811,7 @@
       "tags": [],
       "score": 61,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
-    },
-    {
-      "id": "4958e8f6f01d",
-      "title": "JCisHERE/wan2-2-i2v-v3 (Space)",
-      "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
-      "summary": "Trending demo · gradio · 853 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
-      "engagement": 54,
-      "meta": {},
-      "badges": [],
-      "hint": "products",
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 61,
-      "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "61921e217038",
@@ -6701,11 +7537,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image",
-      "summary": "Trending demo · gradio · 379 likes",
+      "summary": "Trending demo · gradio · 387 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
+      "publishedAt": "2026-11-28T00:01:48.715Z",
       "engagement": 27,
       "meta": {},
       "badges": [],
@@ -6718,7 +7554,7 @@
       ],
       "score": 54,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "a9dba7a83e26",
@@ -7005,12 +7841,12 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/huggingface/moe-blogpost",
-      "summary": "Trending demo · docker · 871 likes",
+      "summary": "Trending demo · docker · 880 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
-      "engagement": 24,
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 21,
       "meta": {},
       "badges": [],
       "hint": "products",
@@ -7020,7 +7856,7 @@
       "tags": [],
       "score": 52,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "e951dc8237f2",
@@ -7030,12 +7866,12 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/Lakonik/pi-H3",
-      "summary": "Trending demo · gradio · 197 likes",
+      "summary": "Trending demo · gradio · 208 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
-      "engagement": 28,
+      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "engagement": 29,
       "meta": {},
       "badges": [],
       "hint": "products",
@@ -7045,7 +7881,7 @@
       "tags": [],
       "score": 52,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "3400785e0033",
@@ -7279,11 +8115,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
-      "summary": "Trending demo · docker · 571 likes",
+      "summary": "Trending demo · docker · 572 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
+      "publishedAt": "2026-11-28T00:01:48.715Z",
       "engagement": 18,
       "meta": {},
       "badges": [],
@@ -7294,7 +8130,7 @@
       "tags": [],
       "score": 50,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "c104e2bbac6a",
@@ -7304,11 +8140,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/waitinghere/Krea2T-Revamped",
-      "summary": "Trending demo · gradio · 199 likes",
+      "summary": "Trending demo · gradio · 203 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T13:48:22.486Z",
+      "publishedAt": "2026-11-28T00:01:48.715Z",
       "engagement": 21,
       "meta": {},
       "badges": [],
@@ -7319,7 +8155,7 @@
       "tags": [],
       "score": 50,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "b7d843146d1a",
@@ -8238,9 +9074,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-24T02:39:01Z",
-      "engagement": 9,
+      "engagement": 10,
       "meta": {
-        "stars": 188,
+        "stars": 199,
         "language": "Python"
       },
       "badges": [
@@ -8255,7 +9091,7 @@
       ],
       "score": 43,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "f91fd45d0a92",
@@ -8715,9 +9551,9 @@
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-23T15:55:48Z",
-      "engagement": 19,
+      "engagement": 20,
       "meta": {
-        "stars": 375,
+        "stars": 390,
         "language": "Rust"
       },
       "badges": [
@@ -8730,7 +9566,7 @@
       "tags": [],
       "score": 38,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "267f3fcb18b2",
@@ -8763,7 +9599,7 @@
       ],
       "score": 38,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "a306cf002b91",
@@ -8815,7 +9651,7 @@
       "publishedAt": "2026-11-22T16:44:10Z",
       "engagement": 41,
       "meta": {
-        "stars": 813,
+        "stars": 828,
         "language": "Rust"
       },
       "badges": [
@@ -8830,7 +9666,7 @@
       ],
       "score": 37,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "2653cf2f9615",
@@ -9133,7 +9969,7 @@
       "tags": [],
       "score": 34,
       "firstSeen": "2026-11-24T15:24:12.381Z",
-      "lastSeen": "2026-11-27T13:48:22.457Z"
+      "lastSeen": "2026-11-28T00:01:48.672Z"
     },
     {
       "id": "e771adae4008",

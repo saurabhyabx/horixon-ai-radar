@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-27T13:48:22.457Z",
+  "updatedAt": "2026-11-28T00:01:48.672Z",
   "items": [
+    {
+      "id": "138e1e18872d",
+      "title": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "why": "",
+      "source": "Hacker News",
+      "category": "models",
+      "score": 77,
+      "sentAt": "2026-11-28T00:01:48.672Z",
+      "channels": []
+    },
+    {
+      "id": "3b8b3d993078",
+      "title": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "why": "",
+      "source": "Hacker News",
+      "category": "products",
+      "score": 72,
+      "sentAt": "2026-11-28T00:01:48.672Z",
+      "channels": []
+    },
+    {
+      "id": "8b660d9f0988",
+      "title": "strata-engine/Inkling-2-Mini-Strata (model)",
+      "url": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
+      "link": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
+      "why": "image-text-to-text · 301 likes",
+      "source": "Hugging Face",
+      "category": "models",
+      "score": 61,
+      "sentAt": "2026-11-28T00:01:48.672Z",
+      "channels": []
+    },
+    {
+      "id": "74c0c0ba388d",
+      "title": "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF (model)",
+      "url": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+      "link": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+      "why": "text-generation · gguf · 267 likes",
+      "source": "Hugging Face",
+      "category": "models",
+      "score": 60,
+      "sentAt": "2026-11-28T00:01:48.672Z",
+      "channels": []
+    },
+    {
+      "id": "64f11cc42feb",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com",
+      "link": "https://bouncemarket.minhanhday.com",
+      "why": "",
+      "source": "Hacker News",
+      "category": "industry",
+      "score": 71,
+      "sentAt": "2026-11-28T00:01:48.672Z",
+      "channels": []
+    },
     {
       "id": "74835a583675",
       "title": "The group chat where your AI talks behind your back",

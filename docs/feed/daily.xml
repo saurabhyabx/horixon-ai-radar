@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
 <title>Horixon Daily</title><link>https://saurabhyabx.github.io/horixon-ai-radar/feed/daily.xml</link><description>The Horixon daily AI digest.</description>
 <atom:link href="https://saurabhyabx.github.io/horixon-ai-radar/feed/daily.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 27 Nov 2026 13:48:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 00:02:34 GMT</lastBuildDate>
+<item><title>Horixon Daily #5 — US Air Force's cloud computing platform hacked</title><link>https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-28.html</link><guid isPermaLink="false">daily-2026-11-28</guid><pubDate>Sat, 28 Nov 2026 08:00:00 GMT</pubDate><description>29 stories. Lead: US Air Force's cloud computing platform hacked</description></item>
 <item><title>Horixon Daily #4 — The group chat where your AI talks behind your back</title><link>https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-27.html</link><guid isPermaLink="false">daily-2026-11-27</guid><pubDate>Fri, 27 Nov 2026 08:00:00 GMT</pubDate><description>45 stories. Lead: The group chat where your AI talks behind your back</description></item>
 <item><title>Horixon Daily #3 — Google releases Cogentic papers on integer factorization, discrete logs and more</title><link>https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-26.html</link><guid isPermaLink="false">daily-2026-11-26</guid><pubDate>Thu, 26 Nov 2026 08:00:00 GMT</pubDate><description>65 stories. Lead: Google releases Cogentic papers on integer factorization, discrete logs and more</description></item>
 <item><title>Horixon Daily #2 — Matrix Multiplication is Θ(n^2.25) [pdf]</title><link>https://saurabhyabx.github.io/horixon-ai-radar/d/2026-11-25.html</link><guid isPermaLink="false">daily-2026-11-25</guid><pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate><description>78 stories. Lead: Matrix Multiplication is Θ(n^2.25) [pdf]</description></item>
