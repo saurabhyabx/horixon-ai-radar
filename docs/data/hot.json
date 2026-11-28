@@ -1,6 +1,59 @@
 {
-  "generatedAt": "2026-11-28T07:40:17.240Z",
+  "generatedAt": "2026-11-28T16:49:51.583Z",
   "items": [
+    {
+      "id": "1b22e6e26759",
+      "title": "Farewell",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50676672",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T11:42:26Z",
+      "meta": {
+        "points": 717,
+        "comments": 308
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 81,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
+    },
+    {
+      "id": "00b58e4385b8",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "domain": "xinyadu.github.io",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50676390",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T10:37:40Z",
+      "meta": {
+        "points": 431,
+        "comments": 145
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "anthropic",
+        "coding"
+      ],
+      "score": 80,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
+    },
     {
       "id": "74835a583675",
       "title": "Group chat where your AI talks behind your back",
@@ -15,8 +68,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T06:44:34Z",
       "meta": {
-        "points": 701,
-        "comments": 288
+        "points": 724,
+        "comments": 291
       },
       "badges": [],
       "lang": "en",
@@ -27,117 +80,26 @@
       "firstSeen": "2026-11-27T13:48:22.457Z"
     },
     {
-      "id": "f809947e587d",
-      "title": "Hard Drive pricing has gotten bad",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up",
-      "domain": "blog.ktz.me",
-      "source": "Hacker News",
-      "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50661646",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-27T01:13:49Z",
-      "meta": {
-        "points": 562,
-        "comments": 480
-      },
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "founders",
-      "tags": [],
-      "score": 78,
-      "firstSeen": "2026-11-27T13:48:22.457Z"
-    },
-    {
-      "id": "138e1e18872d",
-      "title": "Claude sabotaging ML research tasks?",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "domain": "twitter.com",
-      "source": "Hacker News",
-      "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50664325",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-27T08:28:08Z",
-      "meta": {
-        "points": 669,
-        "comments": 304
-      },
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "anthropic"
-      ],
-      "score": 77,
-      "firstSeen": "2026-11-27T13:48:22.457Z"
-    },
-    {
-      "id": "91b0d57339c9",
-      "title": "gary23w/f-ck_data_brokers — fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to",
-      "url": "https://github.com/gary23w/f-ck_data_brokers",
-      "domain": "github.com",
-      "source": "GitHub",
-      "sourceKey": "github",
-      "sourceUrl": "https://github.com/gary23w/f-ck_data_brokers",
-      "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T17:53:07Z",
-      "meta": {
-        "stars": 898,
-        "language": "Python"
-      },
-      "badges": [
-        "open-source",
-        "launch"
-      ],
-      "lang": "en",
-      "also": [
-        {
-          "source": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50658191"
-        }
-      ],
-      "category": "github",
-      "tags": [
-        "open-source"
-      ],
-      "score": 64,
-      "firstSeen": "2026-11-27T00:33:56.775Z"
-    },
-    {
-      "id": "02a088434703",
-      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "id": "74c0c0ba388d",
+      "title": "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF (model)",
+      "url": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
       "domain": "huggingface.co",
-      "source": "Hugging Face Blog",
-      "sourceKey": "rss",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
+      "source": "Hugging Face",
+      "sourceKey": "huggingface",
+      "sourceUrl": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+      "summary": "text-generation · gguf · 325 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T11:37:17.000Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
-      "badges": [
-        "first-party"
-      ],
+      "badges": [],
       "lang": "en",
       "also": [],
       "category": "models",
-      "tags": [
-        "meta"
-      ],
-      "score": 64,
-      "firstSeen": "2026-11-26T13:50:33.325Z"
+      "tags": [],
+      "score": 63,
+      "firstSeen": "2026-11-27T13:48:22.457Z"
     },
     {
       "id": "06c468d10ca7",
@@ -147,11 +109,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
-      "summary": "text-to-image · transformers · 345 likes",
+      "summary": "text-to-image · transformers · 355 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -172,11 +134,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-      "summary": "text-generation · llama.cpp · 653 likes",
+      "summary": "text-generation · llama.cpp · 685 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -187,55 +149,6 @@
       ],
       "score": 63,
       "firstSeen": "2026-11-25T14:15:25.678Z"
-    },
-    {
-      "id": "95f66e605143",
-      "title": "llamaindex/OCRia-nano-1 (model)",
-      "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
-      "domain": "huggingface.co",
-      "source": "Hugging Face",
-      "sourceKey": "huggingface",
-      "sourceUrl": "https://huggingface.co/llamaindex/OCRia-nano-1",
-      "summary": "image-to-text · liteparse · 366 likes",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "meta",
-        "image"
-      ],
-      "score": 63,
-      "firstSeen": "2026-11-25T00:39:21.435Z"
-    },
-    {
-      "id": "ff7c1d626667",
-      "title": "Come for the Games, Stay for the Community With GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward",
-      "domain": "blogs.nvidia.com",
-      "source": "NVIDIA Blog",
-      "sourceKey": "rss",
-      "sourceUrl": "https://blogs.nvidia.com/feed/",
-      "summary": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love…",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T14:00:22.000Z",
-      "meta": {},
-      "badges": [
-        "first-party"
-      ],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 61,
-      "firstSeen": "2026-11-27T00:33:56.775Z"
     },
     {
       "id": "2d7f8b4f8454",
@@ -262,6 +175,28 @@
       ],
       "score": 59,
       "firstSeen": "2026-11-27T13:48:22.457Z"
+    },
+    {
+      "id": "3973f080fe72",
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security",
+      "domain": "techcrunch.com",
+      "source": "TechCrunch AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T14:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [],
+      "score": 58,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
     },
     {
       "id": "42f8ff418476",
@@ -312,31 +247,6 @@
       "firstSeen": "2026-11-27T00:33:56.775Z"
     },
     {
-      "id": "4ba826a45a61",
-      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
-      "url": "https://wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains",
-      "domain": "wired.com",
-      "source": "Wired AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T10:51:27.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [
-        "meta",
-        "agents"
-      ],
-      "score": 58,
-      "firstSeen": "2026-11-26T13:50:33.325Z"
-    },
-    {
       "id": "8850a83cf6f1",
       "title": "[AINews] Inside the exploding Coding Data Market",
       "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market",
@@ -383,28 +293,6 @@
       ],
       "score": 57,
       "firstSeen": "2026-11-27T00:33:56.775Z"
-    },
-    {
-      "id": "d73563559186",
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "url": "https://theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "domain": "theverge.com",
-      "source": "The Verge AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million…",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T09:54:40.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "industry",
-      "tags": [],
-      "score": 57,
-      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "68cfb35a007a",
@@ -477,31 +365,6 @@
       "firstSeen": "2026-11-28T00:01:48.672Z"
     },
     {
-      "id": "069f94445fa0",
-      "title": "Quoting Jack Despain Zhou",
-      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou",
-      "domain": "simonwillison.net",
-      "source": "Simon Willison",
-      "sourceKey": "rss",
-      "sourceUrl": "https://simonwillison.net/atom/everything/",
-      "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to…",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T15:09:31.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "anthropic",
-        "video"
-      ],
-      "score": 55,
-      "firstSeen": "2026-11-27T00:33:56.775Z"
-    },
-    {
       "id": "5aa9e3310d13",
       "title": "Context Scaling: A New Frontier of AI Scaling",
       "url": "https://arxiv.org/abs/2611.33160",
@@ -544,31 +407,6 @@
       "tags": [],
       "score": 55,
       "firstSeen": "2026-11-26T13:50:33.325Z"
-    },
-    {
-      "id": "ec74e9ba2187",
-      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
-      "domain": "techcrunch.com",
-      "source": "TechCrunch AI",
-      "sourceKey": "rss",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T16:00:00.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "industry",
-      "tags": [
-        "anthropic",
-        "video"
-      ],
-      "score": 54,
-      "firstSeen": "2026-11-27T00:33:56.775Z"
     },
     {
       "id": "3965806fbc78",
@@ -698,7 +536,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T22:49:29Z",
       "meta": {
-        "stars": 140,
+        "stars": 212,
         "language": "HTML"
       },
       "badges": [
@@ -725,7 +563,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T23:24:29Z",
       "meta": {
-        "stars": 139,
+        "stars": 211,
         "language": "HTML"
       },
       "badges": [
@@ -737,6 +575,164 @@
       "tags": [],
       "score": 36,
       "firstSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "85080ae8ef29",
+      "title": "Niruthiya04/echomind-voice-assistant — EchoMind: Local-First Voice Memory Assistant with Live Transcription and Private RAG",
+      "url": "https://github.com/Niruthiya04/echomind-voice-assistant",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/Niruthiya04/echomind-voice-assistant",
+      "summary": "EchoMind: Local-First Voice Memory Assistant with Live Transcription and Private RAG",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T21:28:00Z",
+      "meta": {
+        "stars": 210,
+        "language": "HTML"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "voice"
+      ],
+      "score": 36,
+      "firstSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "6e1690b6807c",
+      "title": "Audible removes download option for purchased audiobooks",
+      "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "domain": "consumerrights.wiki",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50676723",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T11:51:27Z",
+      "meta": {
+        "points": 373,
+        "comments": 164
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "voice"
+      ],
+      "score": 78,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
+    },
+    {
+      "id": "f809947e587d",
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up",
+      "domain": "blog.ktz.me",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50661646",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T01:13:49Z",
+      "meta": {
+        "points": 572,
+        "comments": 488
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "founders",
+      "tags": [],
+      "score": 78,
+      "firstSeen": "2026-11-27T13:48:22.457Z"
+    },
+    {
+      "id": "138e1e18872d",
+      "title": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "domain": "twitter.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50664325",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T08:28:08Z",
+      "meta": {
+        "points": 754,
+        "comments": 328
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "anthropic"
+      ],
+      "score": 77,
+      "firstSeen": "2026-11-27T13:48:22.457Z"
+    },
+    {
+      "id": "19dd4641586d",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "domain": "janlukas.blog",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50660180",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T21:47:45Z",
+      "meta": {
+        "points": 1134,
+        "comments": 527
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 76,
+      "firstSeen": "2026-11-27T00:33:56.775Z"
+    },
+    {
+      "id": "9ca28a7fecf2",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50657530",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T17:36:47Z",
+      "meta": {
+        "points": 543,
+        "comments": 685
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 75,
+      "firstSeen": "2026-11-27T00:33:56.775Z"
     }
   ]
 }

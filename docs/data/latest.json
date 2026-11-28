@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:40:17.240Z",
+  "generatedAt": "2026-11-28T16:49:51.583Z",
   "categories": [
     {
       "key": "models",
@@ -26,7 +26,7 @@
       "label": "Founders"
     }
   ],
-  "count": 393,
+  "count": 400,
   "items": [
     {
       "id": "3edc0087da83",
@@ -36,11 +36,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
-      "summary": "image-to-image · diffusers · 205 likes",
+      "summary": "image-to-image · diffusers · 233 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -49,7 +49,7 @@
       "tags": [
         "image"
       ],
-      "score": 56,
+      "score": 58,
       "firstSeen": "2026-11-28T00:01:48.672Z"
     },
     {
@@ -60,11 +60,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
-      "summary": "text-generation · transformers · 394 likes",
+      "summary": "text-generation · transformers · 399 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -82,11 +82,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/dlouapre/looped-transformers",
-      "summary": "Trending demo · docker · 63 likes",
+      "summary": "Trending demo · docker · 67 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -104,18 +104,18 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
-      "summary": "text-generation · gguf · 294 likes",
+      "summary": "text-generation · gguf · 325 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
       "also": [],
       "category": "models",
       "tags": [],
-      "score": 62,
+      "score": 63,
       "firstSeen": "2026-11-27T13:48:22.457Z"
     },
     {
@@ -126,11 +126,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/sand-ai/MAGI-2-preview",
-      "summary": "image-text-to-video · 374 likes",
+      "summary": "image-text-to-video · 387 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -140,7 +140,7 @@
         "video",
         "image"
       ],
-      "score": 57,
+      "score": 58,
       "firstSeen": "2026-11-27T13:48:22.457Z"
     },
     {
@@ -151,11 +151,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/waitinghere/MINIMAX-H3-Ref2VA-Revamped",
-      "summary": "Trending demo · gradio · 85 likes",
+      "summary": "Trending demo · gradio · 90 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -173,11 +173,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
-      "summary": "image-text-to-text · 309 likes",
+      "summary": "image-text-to-text · 322 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -186,7 +186,7 @@
       "tags": [
         "image"
       ],
-      "score": 61,
+      "score": 62,
       "firstSeen": "2026-11-27T00:33:56.775Z"
     },
     {
@@ -197,11 +197,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
-      "summary": "text-to-image · transformers · 345 likes",
+      "summary": "text-to-image · transformers · 355 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -222,11 +222,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-      "summary": "text-generation · llama.cpp · 653 likes",
+      "summary": "text-generation · llama.cpp · 685 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -246,11 +246,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/llamaindex/OCRia-nano-1",
-      "summary": "image-to-text · liteparse · 366 likes",
+      "summary": "image-to-text · liteparse · 381 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -271,11 +271,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "summary": "image-text-to-text · transformers · 6507 likes",
+      "summary": "image-text-to-text · transformers · 6552 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -295,11 +295,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "summary": "image-text-to-text · 1626 likes",
+      "summary": "image-text-to-text · 1651 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -319,11 +319,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
-      "summary": "audio-to-audio · inworld-voice-isolation · 1018 likes",
+      "summary": "audio-to-audio · inworld-voice-isolation · 1023 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -343,11 +343,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-      "summary": "image-text-to-text · 1046 likes",
+      "summary": "image-text-to-text · 1064 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -367,11 +367,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/SulphurAI/Sulphur-3",
-      "summary": "minimax-h3 · 1387 likes",
+      "summary": "minimax-h3 · 1417 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -389,11 +389,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.5",
-      "summary": "image-to-video · diffusion-single-file · 13752 likes",
+      "summary": "image-to-video · diffusion-single-file · 13796 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -414,18 +414,18 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
-      "summary": "Trending demo · gradio · 887 likes",
+      "summary": "Trending demo · gradio · 902 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
       "also": [],
       "category": "products",
       "tags": [],
-      "score": 62,
+      "score": 63,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     },
     {
@@ -436,11 +436,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/apple/DepthPro2",
-      "summary": "depth-estimation · depth-pro-2 · 1369 likes",
+      "summary": "depth-estimation · depth-pro-2 · 1373 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -458,11 +458,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image",
-      "summary": "Trending demo · gradio · 391 likes",
+      "summary": "Trending demo · gradio · 395 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -482,11 +482,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/huggingface/moe-blogpost",
-      "summary": "Trending demo · docker · 880 likes",
+      "summary": "Trending demo · docker · 883 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -504,11 +504,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/Lakonik/pi-H3",
-      "summary": "Trending demo · gradio · 209 likes",
+      "summary": "Trending demo · gradio · 214 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -530,7 +530,7 @@
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -548,11 +548,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/spaces/waitinghere/Krea2T-Revamped",
-      "summary": "Trending demo · gradio · 210 likes",
+      "summary": "Trending demo · gradio · 216 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T07:40:17.304Z",
+      "publishedAt": "2026-11-28T16:49:51.614Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -561,6 +561,235 @@
       "tags": [],
       "score": 50,
       "firstSeen": "2026-11-24T15:24:12.381Z"
+    },
+    {
+      "id": "3ba4c445ebfa",
+      "title": "Physics Breakthrough Simulator",
+      "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+      "domain": "pages.ethanmdavidson.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50678273",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T14:52:45Z",
+      "meta": {
+        "points": 66,
+        "comments": 11
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 52,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
+    },
+    {
+      "id": "787cdf12ea13",
+      "title": "AI Isn't That Dangerous",
+      "url": "https://verysane.ai/p/ai-isnt-that-dangerous",
+      "domain": "verysane.ai",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50678186",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T14:42:41Z",
+      "meta": {
+        "points": 50,
+        "comments": 56
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 53,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
+    },
+    {
+      "id": "bddeec819ad4",
+      "title": "The AI-designed USB-C LTE Modem is built, and it makes calls",
+      "url": "https://koppar.ai/blog/lte-modem-bring-up",
+      "domain": "koppar.ai",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50677822",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T14:06:19Z",
+      "meta": {
+        "points": 44,
+        "comments": 28
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 51,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
+    },
+    {
+      "id": "3973f080fe72",
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security",
+      "domain": "techcrunch.com",
+      "source": "TechCrunch AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T14:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [],
+      "score": 58,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
+    },
+    {
+      "id": "f68a8c3baa45",
+      "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+      "url": "https://scriptor-pro.github.io/luciole-mono",
+      "domain": "scriptor-pro.github.io",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50677091",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T12:50:15Z",
+      "meta": {
+        "points": 90,
+        "comments": 34
+      },
+      "badges": [
+        "launch"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 54,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
+    },
+    {
+      "id": "a47ff2eccf68",
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+      "domain": "malspark.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50676752",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T11:57:04Z",
+      "meta": {
+        "points": 124,
+        "comments": 40
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [],
+      "score": 56,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
+    },
+    {
+      "id": "6e1690b6807c",
+      "title": "Audible removes download option for purchased audiobooks",
+      "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "domain": "consumerrights.wiki",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50676723",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T11:51:27Z",
+      "meta": {
+        "points": 373,
+        "comments": 164
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [
+        "voice"
+      ],
+      "score": 78,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
+    },
+    {
+      "id": "1b22e6e26759",
+      "title": "Farewell",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50676672",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T11:42:26Z",
+      "meta": {
+        "points": 717,
+        "comments": 308
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 81,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
+    },
+    {
+      "id": "00b58e4385b8",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "domain": "xinyadu.github.io",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50676390",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T10:37:40Z",
+      "meta": {
+        "points": 431,
+        "comments": 145
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "anthropic",
+        "coding"
+      ],
+      "score": 80,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
     },
     {
       "id": "8850a83cf6f1",
@@ -600,15 +829,15 @@
       "extraLinks": [],
       "publishedAt": "2026-11-28T01:32:56Z",
       "meta": {
-        "points": 154,
-        "comments": 119
+        "points": 204,
+        "comments": 163
       },
       "badges": [],
       "lang": "en",
       "also": [],
       "category": "products",
       "tags": [],
-      "score": 60,
+      "score": 62,
       "firstSeen": "2026-11-28T07:40:17.240Z"
     },
     {
@@ -695,8 +924,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T22:06:44Z",
       "meta": {
-        "points": 86,
-        "comments": 66
+        "points": 97,
+        "comments": 74
       },
       "badges": [],
       "lang": "en",
@@ -720,8 +949,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T21:48:14Z",
       "meta": {
-        "points": 115,
-        "comments": 27
+        "points": 153,
+        "comments": 44
       },
       "badges": [],
       "lang": "en",
@@ -745,8 +974,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T21:07:34Z",
       "meta": {
-        "points": 46,
-        "comments": 23
+        "points": 73,
+        "comments": 29
       },
       "badges": [],
       "lang": "en",
@@ -773,8 +1002,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T20:23:14Z",
       "meta": {
-        "points": 56,
-        "comments": 20
+        "points": 85,
+        "comments": 36
       },
       "badges": [],
       "lang": "en",
@@ -785,6 +1014,31 @@
       ],
       "score": 48,
       "firstSeen": "2026-11-28T07:40:17.240Z"
+    },
+    {
+      "id": "8ee6fa50f0e4",
+      "title": "UX: Immediate Intent vs. Optimistic Update",
+      "url": "https://romshark.github.io/ux-immediate-intent",
+      "domain": "romshark.github.io",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50671245",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T20:20:22Z",
+      "meta": {
+        "points": 42,
+        "comments": 45
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "products",
+      "tags": [],
+      "score": 44,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
     },
     {
       "id": "c54d0f12616a",
@@ -800,8 +1054,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T19:40:33Z",
       "meta": {
-        "points": 78,
-        "comments": 13
+        "points": 86,
+        "comments": 15
       },
       "badges": [],
       "lang": "en",
@@ -825,8 +1079,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T18:59:55Z",
       "meta": {
-        "points": 52,
-        "comments": 11
+        "points": 60,
+        "comments": 15
       },
       "badges": [
         "launch"
@@ -837,6 +1091,31 @@
       "tags": [],
       "score": 47,
       "firstSeen": "2026-11-28T07:40:17.240Z"
+    },
+    {
+      "id": "03c7729ee4f1",
+      "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50670088",
+      "summary": "",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T18:28:29Z",
+      "meta": {
+        "points": 43,
+        "comments": 8
+      },
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 42,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
     },
     {
       "id": "e3fd524c3c50",
@@ -852,15 +1131,15 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T18:02:45Z",
       "meta": {
-        "points": 285,
-        "comments": 91
+        "points": 349,
+        "comments": 118
       },
       "badges": [],
       "lang": "en",
       "also": [],
       "category": "github",
       "tags": [],
-      "score": 65,
+      "score": 67,
       "firstSeen": "2026-11-28T00:01:48.672Z"
     },
     {
@@ -877,8 +1156,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T17:56:28Z",
       "meta": {
-        "points": 126,
-        "comments": 37
+        "points": 162,
+        "comments": 45
       },
       "badges": [
         "launch"
@@ -904,8 +1183,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T17:45:31Z",
       "meta": {
-        "points": 210,
-        "comments": 246
+        "points": 217,
+        "comments": 248
       },
       "badges": [],
       "lang": "en",
@@ -929,7 +1208,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T15:03:17Z",
       "meta": {
-        "points": 166,
+        "points": 167,
         "comments": 1
       },
       "badges": [],
@@ -954,8 +1233,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T15:01:50Z",
       "meta": {
-        "points": 365,
-        "comments": 123
+        "points": 407,
+        "comments": 137
       },
       "badges": [
         "launch"
@@ -981,8 +1260,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T14:02:52Z",
       "meta": {
-        "points": 117,
-        "comments": 15
+        "points": 129,
+        "comments": 18
       },
       "badges": [],
       "lang": "en",
@@ -1100,8 +1379,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T12:54:11Z",
       "meta": {
-        "points": 343,
-        "comments": 209
+        "points": 352,
+        "comments": 215
       },
       "badges": [],
       "lang": "en",
@@ -1125,8 +1404,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T12:43:40Z",
       "meta": {
-        "points": 196,
-        "comments": 226
+        "points": 200,
+        "comments": 228
       },
       "badges": [],
       "lang": "en",
@@ -1150,8 +1429,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T12:03:11Z",
       "meta": {
-        "points": 184,
-        "comments": 155
+        "points": 186,
+        "comments": 160
       },
       "badges": [],
       "lang": "en",
@@ -1201,7 +1480,7 @@
       "publishedAt": "2026-11-27T11:09:04Z",
       "meta": {
         "points": 119,
-        "comments": 158
+        "comments": 163
       },
       "badges": [],
       "lang": "en",
@@ -1225,8 +1504,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T08:28:08Z",
       "meta": {
-        "points": 669,
-        "comments": 304
+        "points": 754,
+        "comments": 328
       },
       "badges": [],
       "lang": "en",
@@ -1274,8 +1553,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T06:44:34Z",
       "meta": {
-        "points": 701,
-        "comments": 288
+        "points": 724,
+        "comments": 291
       },
       "badges": [],
       "lang": "en",
@@ -1523,8 +1802,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T04:56:18Z",
       "meta": {
-        "points": 198,
-        "comments": 186
+        "points": 206,
+        "comments": 199
       },
       "badges": [],
       "lang": "en",
@@ -1550,8 +1829,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T01:13:49Z",
       "meta": {
-        "points": 562,
-        "comments": 480
+        "points": 572,
+        "comments": 488
       },
       "badges": [],
       "lang": "en",
@@ -1719,7 +1998,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T23:24:29Z",
       "meta": {
-        "stars": 139,
+        "stars": 211,
         "language": "HTML"
       },
       "badges": [
@@ -1770,7 +2049,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T22:49:29Z",
       "meta": {
-        "stars": 140,
+        "stars": 212,
         "language": "HTML"
       },
       "badges": [
@@ -1797,7 +2076,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T21:57:38Z",
       "meta": {
-        "stars": 141,
+        "stars": 211,
         "language": "HTML"
       },
       "badges": [
@@ -1826,8 +2105,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T21:47:45Z",
       "meta": {
-        "points": 1114,
-        "comments": 515
+        "points": 1134,
+        "comments": 527
       },
       "badges": [],
       "lang": "en",
@@ -1851,7 +2130,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T21:37:37Z",
       "meta": {
-        "stars": 141,
+        "stars": 211,
         "language": "HTML"
       },
       "badges": [
@@ -1880,7 +2159,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T21:28:00Z",
       "meta": {
-        "stars": 141,
+        "stars": 210,
         "language": "HTML"
       },
       "badges": [
@@ -1909,8 +2188,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T21:08:05Z",
       "meta": {
-        "points": 509,
-        "comments": 129
+        "points": 515,
+        "comments": 134
       },
       "badges": [],
       "lang": "en",
@@ -1934,7 +2213,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T20:49:02Z",
       "meta": {
-        "stars": 140,
+        "stars": 211,
         "language": "HTML"
       },
       "badges": [
@@ -2010,7 +2289,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T19:50:07Z",
       "meta": {
-        "stars": 140,
+        "stars": 211,
         "language": "HTML"
       },
       "badges": [
@@ -2039,7 +2318,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T19:49:58Z",
       "meta": {
-        "stars": 140,
+        "stars": 208,
         "language": "HTML"
       },
       "badges": [
@@ -2093,8 +2372,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T19:18:09Z",
       "meta": {
-        "points": 164,
-        "comments": 39
+        "points": 168,
+        "comments": 40
       },
       "badges": [],
       "lang": "en",
@@ -2102,6 +2381,41 @@
       "category": "github",
       "tags": [],
       "score": 51,
+      "firstSeen": "2026-11-27T00:33:56.775Z"
+    },
+    {
+      "id": "91b0d57339c9",
+      "title": "Show HN: Fuck_data_brokers.py",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "domain": "github.com",
+      "source": "Hacker News",
+      "sourceKey": "hn",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50658191",
+      "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T18:37:21Z",
+      "meta": {
+        "points": 247,
+        "comments": 55
+      },
+      "badges": [
+        "launch",
+        "open-source"
+      ],
+      "lang": "en",
+      "also": [
+        {
+          "source": "GitHub",
+          "url": "https://github.com/gary23w/f-ck_data_brokers"
+        }
+      ],
+      "category": "github",
+      "tags": [
+        "open-source"
+      ],
+      "score": 64,
       "firstSeen": "2026-11-27T00:33:56.775Z"
     },
     {
@@ -2119,7 +2433,7 @@
       "publishedAt": "2026-11-26T18:28:30Z",
       "meta": {
         "points": 59,
-        "comments": 23
+        "comments": 24
       },
       "badges": [],
       "lang": "en",
@@ -2146,8 +2460,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T18:14:53Z",
       "meta": {
-        "points": 69,
-        "comments": 117
+        "points": 71,
+        "comments": 121
       },
       "badges": [],
       "lang": "en",
@@ -2155,41 +2469,6 @@
       "category": "products",
       "tags": [],
       "score": 52,
-      "firstSeen": "2026-11-27T00:33:56.775Z"
-    },
-    {
-      "id": "91b0d57339c9",
-      "title": "gary23w/f-ck_data_brokers — fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to",
-      "url": "https://github.com/gary23w/f-ck_data_brokers",
-      "domain": "github.com",
-      "source": "GitHub",
-      "sourceKey": "github",
-      "sourceUrl": "https://github.com/gary23w/f-ck_data_brokers",
-      "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T17:53:07Z",
-      "meta": {
-        "stars": 898,
-        "language": "Python"
-      },
-      "badges": [
-        "open-source",
-        "launch"
-      ],
-      "lang": "en",
-      "also": [
-        {
-          "source": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50658191"
-        }
-      ],
-      "category": "github",
-      "tags": [
-        "open-source"
-      ],
-      "score": 64,
       "firstSeen": "2026-11-27T00:33:56.775Z"
     },
     {
@@ -2206,8 +2485,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T17:36:47Z",
       "meta": {
-        "points": 541,
-        "comments": 675
+        "points": 543,
+        "comments": 685
       },
       "badges": [],
       "lang": "en",
@@ -2216,6 +2495,35 @@
       "tags": [],
       "score": 75,
       "firstSeen": "2026-11-27T00:33:56.775Z"
+    },
+    {
+      "id": "d42552f2269d",
+      "title": "sol1560/Captae — Local media downloader and library for macOS, Windows and Linux, with a browser extension and an MCP",
+      "url": "https://github.com/sol1560/Captae",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/sol1560/Captae",
+      "summary": "Local media downloader and library for macOS, Windows and Linux, with a browser extension and an MCP server for AI assistants",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-26T17:28:47Z",
+      "meta": {
+        "stars": 479,
+        "language": "Rust"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "mcp"
+      ],
+      "score": 35,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
     },
     {
       "id": "c83866a1dbc9",
@@ -2231,8 +2539,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T17:16:41Z",
       "meta": {
-        "points": 321,
-        "comments": 198
+        "points": 324,
+        "comments": 199
       },
       "badges": [],
       "lang": "en",
@@ -2256,8 +2564,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T17:11:29Z",
       "meta": {
-        "points": 442,
-        "comments": 108
+        "points": 445,
+        "comments": 109
       },
       "badges": [],
       "lang": "en",
@@ -2283,8 +2591,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T16:51:38Z",
       "meta": {
-        "points": 62,
-        "comments": 16
+        "points": 63,
+        "comments": 18
       },
       "badges": [
         "launch"
@@ -2311,7 +2619,7 @@
       "publishedAt": "2026-11-26T16:50:55Z",
       "meta": {
         "points": 131,
-        "comments": 166
+        "comments": 168
       },
       "badges": [],
       "lang": "en",
@@ -3335,7 +3643,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T19:40:33Z",
       "meta": {
-        "stars": 196,
+        "stars": 194,
         "language": null
       },
       "badges": [
@@ -4057,7 +4365,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T10:35:45Z",
       "meta": {
-        "stars": 2489,
+        "stars": 2824,
         "language": "TypeScript"
       },
       "badges": [
@@ -4162,7 +4470,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T07:28:51Z",
       "meta": {
-        "stars": 2378,
+        "stars": 2670,
         "language": "Assembly"
       },
       "badges": [
@@ -4189,7 +4497,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-25T06:18:10Z",
       "meta": {
-        "stars": 162,
+        "stars": 177,
         "language": "TypeScript"
       },
       "badges": [
@@ -4828,7 +5136,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T23:58:18Z",
       "meta": {
-        "stars": 239,
+        "stars": 243,
         "language": "TypeScript"
       },
       "badges": [
@@ -4941,6 +5249,37 @@
       "tags": [],
       "score": 57,
       "firstSeen": "2026-11-25T00:39:21.435Z"
+    },
+    {
+      "id": "20e03ffeb4a8",
+      "title": "sqwishai/ippon — Run decision models on your Mac, down to 51 ms text (14 ms cached), 39 ms audio, 179 ms image, 828 m",
+      "url": "https://github.com/sqwishai/ippon",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/sqwishai/ippon",
+      "summary": "Run decision models on your Mac, down to 51 ms text (14 ms cached), 39 ms audio, 179 ms image, 828 ms video on M5 Pro. No PyTorch or cloud API.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T22:18:56Z",
+      "meta": {
+        "stars": 60,
+        "language": "Python"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [
+        "video",
+        "image",
+        "voice"
+      ],
+      "score": 17,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
     },
     {
       "id": "72fd424c711a",
@@ -5271,7 +5610,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T17:52:40Z",
       "meta": {
-        "stars": 173,
+        "stars": 178,
         "language": "Python"
       },
       "badges": [
@@ -6058,7 +6397,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T08:35:36Z",
       "meta": {
-        "stars": 48,
+        "stars": 49,
         "language": "Python"
       },
       "badges": [
@@ -6521,7 +6860,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-24T02:39:01Z",
       "meta": {
-        "stars": 216,
+        "stars": 228,
         "language": "Python"
       },
       "badges": [
@@ -6635,6 +6974,33 @@
       "tags": [],
       "score": 42,
       "firstSeen": "2026-11-25T00:39:21.435Z"
+    },
+    {
+      "id": "799988a3f41a",
+      "title": "abundantbeing/sourcebook — SourceBook: source-grounded research notebooks, hybrid retrieval, Claim Ledger, and 8-format interac",
+      "url": "https://github.com/abundantbeing/sourcebook",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/abundantbeing/sourcebook",
+      "summary": "SourceBook: source-grounded research notebooks, hybrid retrieval, Claim Ledger, and 8-format interactive Studio for Hermes Desktop.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-24T00:50:55Z",
+      "meta": {
+        "stars": 45,
+        "language": "JavaScript"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 17,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
     },
     {
       "id": "ec442b764e04",
@@ -7353,7 +7719,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T18:46:31Z",
       "meta": {
-        "stars": 153,
+        "stars": 154,
         "language": "TypeScript"
       },
       "badges": [
@@ -7657,7 +8023,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T15:55:48Z",
       "meta": {
-        "stars": 402,
+        "stars": 422,
         "language": "Rust"
       },
       "badges": [
@@ -7708,7 +8074,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T15:36:06Z",
       "meta": {
-        "stars": 128,
+        "stars": 140,
         "language": "TypeScript"
       },
       "badges": [
@@ -7955,7 +8321,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T11:06:07Z",
       "meta": {
-        "stars": 1161,
+        "stars": 1574,
         "language": "JavaScript"
       },
       "badges": [
@@ -7965,7 +8331,7 @@
       "also": [],
       "category": "github",
       "tags": [],
-      "score": 36,
+      "score": 44,
       "firstSeen": "2026-11-27T13:48:22.457Z"
     },
     {
@@ -8129,19 +8495,19 @@
     },
     {
       "id": "82798b1a324d",
-      "title": "enwove/flyx — Zero-dependency local LLM inference engine in a ~50 MB binary — native long context, tuned per GPU,",
+      "title": "enwove/flyx — FLYX is a Zero-dependency local LLM inference engine in a ~50 MB binary — native long context, tuned",
       "url": "https://github.com/enwove/flyx",
       "domain": "github.com",
       "source": "GitHub",
       "sourceKey": "github",
       "sourceUrl": "https://github.com/enwove/flyx",
-      "summary": "Zero-dependency local LLM inference engine in a ~50 MB binary — native long context, tuned per GPU, built-in speculative decoding and web dashboard.",
+      "summary": "FLYX is a Zero-dependency local LLM inference engine in a ~50 MB binary — native long context, tuned per GPU, built-in speculative decoding and web dashboard.",
       "why": "",
       "audience": "",
       "extraLinks": [],
       "publishedAt": "2026-11-23T08:48:17Z",
       "meta": {
-        "stars": 118,
+        "stars": 125,
         "language": "C++"
       },
       "badges": [
@@ -8249,7 +8615,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T06:25:04Z",
       "meta": {
-        "stars": 128,
+        "stars": 129,
         "language": "Python"
       },
       "badges": [
@@ -8326,7 +8692,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-23T01:06:18Z",
       "meta": {
-        "stars": 781,
+        "stars": 811,
         "language": "C++"
       },
       "badges": [
@@ -8691,7 +9057,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-22T16:44:10Z",
       "meta": {
-        "stars": 840,
+        "stars": 847,
         "language": "Rust"
       },
       "badges": [
@@ -8720,7 +9086,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-22T16:08:49Z",
       "meta": {
-        "stars": 268,
+        "stars": 492,
         "language": "Rust"
       },
       "badges": [
@@ -8732,7 +9098,7 @@
       "tags": [
         "agents"
       ],
-      "score": 21,
+      "score": 25,
       "firstSeen": "2026-11-28T07:40:17.240Z"
     },
     {
@@ -8799,7 +9165,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-22T15:40:42Z",
       "meta": {
-        "stars": 163,
+        "stars": 166,
         "language": "Rust"
       },
       "badges": [
@@ -8813,6 +9179,33 @@
       ],
       "score": 19,
       "firstSeen": "2026-11-28T00:01:48.672Z"
+    },
+    {
+      "id": "c164ca9c0c72",
+      "title": "wzc520pyfm/open-intelligent-ui — Intelligent Generative UI without a component catalog — the model builds pages on UI SDK and DESIGN.",
+      "url": "https://github.com/wzc520pyfm/open-intelligent-ui",
+      "domain": "github.com",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceUrl": "https://github.com/wzc520pyfm/open-intelligent-ui",
+      "summary": "Intelligent Generative UI without a component catalog — the model builds pages on UI SDK and DESIGN.md.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-22T06:22:10Z",
+      "meta": {
+        "stars": 64,
+        "language": "TypeScript"
+      },
+      "badges": [
+        "open-source"
+      ],
+      "lang": "en",
+      "also": [],
+      "category": "github",
+      "tags": [],
+      "score": 17,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
     },
     {
       "id": "26e2979e9c83",
@@ -9795,251 +10188,6 @@
         "open-source"
       ],
       "score": 17,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "549a77347d5e",
-      "title": "GPT-6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "domain": "openai.com",
-      "source": "AI Product Radar",
-      "sourceKey": "radarPicks",
-      "sourceUrl": "https://github.com/BENZEMA216/ai-product-radar/blob/main/picks/2026-11-18.json",
-      "summary": "OpenAI 发布 GPT-6.2 两款模型：Astra 面向高难度专业项目、科学与复杂 agent 任务（官方称 API 输入/输出约 $8/$40 每百万 tokens，较 GPT-6 Astra 降价 20%，缓存输入 $0.40）；Sol 面向日常工作与 agent 流程，更便宜高效。两者已在 ChatGPT Work、Codex 以及 API（gpt-6.2-astra、gpt-6.2-sol）上线。",
-      "why": "过去约 24 小时最重要的模型发布之一，今日 Product Hunt 仍在讨论。Astra 强调专业文档、代码和科学任务，Sol 强调日常默认模型的性价比。",
-      "audience": "已在 ChatGPT Work、Codex 或 API 使用 GPT-6 系列、关心专业输出质量与成本的团队",
-      "extraLinks": [
-        {
-          "label": "Product Hunt",
-          "url": "https://www.producthunt.com/products/openai"
-        }
-      ],
-      "publishedAt": "2026-11-18T08:00:00Z",
-      "meta": {},
-      "badges": [
-        "radar-pick"
-      ],
-      "lang": "zh",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "openai",
-        "agents"
-      ],
-      "score": 63,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "6e79aa7018b0",
-      "title": "S.Space",
-      "url": "https://s.space",
-      "domain": "s.space",
-      "source": "AI Product Radar",
-      "sourceKey": "radarPicks",
-      "sourceUrl": "https://github.com/BENZEMA216/ai-product-radar/blob/main/picks/2026-11-18.json",
-      "summary": "AutoGen 团队推出的多人共享工作区：把团队里已有的各类 agent（如 Claude Code、Codex、Grok 等，不限厂商）放进同一间房间，让它们互相交接、共享记忆，并把完成的结果交给你审批。按人计费而非按 agent，官方称约 $19/月起，新账号有 30 天高级试用，可免费开始。",
-      "why": "今日 Product Hunt 日榜第一（搜集时约 159 票、45 条评论）。由 AutoGen 创建者带队，做的是「让已有 agent 一起工作」，而不是再做一个新助手。",
-      "audience": "团队里每人已有自己的 agent、却还在靠复制粘贴互相同步上下文的协作团队",
-      "extraLinks": [
-        {
-          "label": "Product Hunt",
-          "url": "https://www.producthunt.com/products/s-space"
-        }
-      ],
-      "publishedAt": "2026-11-18T08:00:00Z",
-      "meta": {},
-      "badges": [
-        "radar-pick"
-      ],
-      "lang": "zh",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "anthropic",
-        "agents"
-      ],
-      "score": 60,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "792a379cd094",
-      "title": "Devin Bots",
-      "url": "https://devin.ai/bots",
-      "domain": "devin.ai",
-      "source": "AI Product Radar",
-      "sourceKey": "radarPicks",
-      "sourceUrl": "https://github.com/BENZEMA216/ai-product-radar/blob/main/picks/2026-11-18.json",
-      "summary": "Cognition 推出的持久工程同事：一个 Bot 拥有自己的记忆和工具，能带领多台 Devin 并行推进长期目标（如维护开源仓库、对齐 Android/iOS、管理发布）。它会拆解任务、评估结果并决定下一步，只在需要判断时找你；也可在 Slack 等处沟通。建立在现有 Devin 的代码库理解和云端电脑之上。",
-      "why": "11/17 官方发布，今日仍在被广泛讨论。从「完成任务」转向「拥有结果」，是 coding agent 产品形态的一次明显升级。",
-      "audience": "已经在用 Devin、希望 agent 不只完成单次任务、还能持续拥有一个工程目标的团队",
-      "extraLinks": [],
-      "publishedAt": "2026-11-18T08:00:00Z",
-      "meta": {},
-      "badges": [
-        "radar-pick"
-      ],
-      "lang": "zh",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 56,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "6a66367e6dd0",
-      "title": "Toone",
-      "url": "https://trytoone.com",
-      "domain": "trytoone.com",
-      "source": "AI Product Radar",
-      "sourceKey": "radarPicks",
-      "sourceUrl": "https://github.com/BENZEMA216/ai-product-radar/blob/main/picks/2026-11-18.json",
-      "summary": "macOS 上的 agent 工作流工作区：用自然语言描述重复任务，生成可运行的 routine；每个节点可以是指定模型（ChatGPT 或 Claude）的 agent 对话，或无需模型的固定步骤。可并行执行、用约定标准检查输出、单步暂停后修改并原地继续，也可接已有账号和工具。",
-      "why": "今日 Product Hunt 日榜前列（搜集时约第 2–3，约 134 票）。把「用自然语言编排 agent 流程」做成桌面工作区，接近「Grok Bot 遇上 n8n」。",
-      "audience": "希望在自己的 Mac 上把周期性工作做成可重复、可盯梢、可随时改的 agent 流程的人",
-      "extraLinks": [
-        {
-          "label": "Product Hunt",
-          "url": "https://www.producthunt.com/products/toone"
-        }
-      ],
-      "publishedAt": "2026-11-18T08:00:00Z",
-      "meta": {},
-      "badges": [
-        "radar-pick"
-      ],
-      "lang": "zh",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "openai",
-        "anthropic",
-        "agents"
-      ],
-      "score": 53,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "2295ea87e900",
-      "title": "Dippr",
-      "url": "https://dippr.ai",
-      "domain": "dippr.ai",
-      "source": "AI Product Radar",
-      "sourceKey": "radarPicks",
-      "sourceUrl": "https://github.com/BENZEMA216/ai-product-radar/blob/main/picks/2026-11-18.json",
-      "summary": "面向 agent 的企业数据平台：一次接入 Snowflake、Salesforce、Zendesk、Postgres、Stripe 等来源，为 agent 提供跨源数据、统一指标定义和读写规则，并托管它们构建的内部工具、客户门户和工作流。可用一条 prompt（读取 dippr.ai/agents.md）完成安装对接。",
-      "why": "今日 Product Hunt 日榜约第 4（搜集时约 120 票）。切入点是「给 agent 一个有权限和定义的数据层」，而不只是再做一个 BI 聊天框。",
-      "audience": "希望 coding agent 能安全使用公司数据来构建内部工具和数据应用的数据与工程团队",
-      "extraLinks": [
-        {
-          "label": "Product Hunt",
-          "url": "https://www.producthunt.com/products/dippr"
-        }
-      ],
-      "publishedAt": "2026-11-18T08:00:00Z",
-      "meta": {},
-      "badges": [
-        "radar-pick"
-      ],
-      "lang": "zh",
-      "also": [],
-      "category": "products",
-      "tags": [
-        "agents"
-      ],
-      "score": 49,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "04f12e6ac6a0",
-      "title": "Waldo by Wherobots",
-      "url": "https://wherobots.com/products/waldo",
-      "domain": "wherobots.com",
-      "source": "AI Product Radar",
-      "sourceKey": "radarPicks",
-      "sourceUrl": "https://github.com/BENZEMA216/ai-product-radar/blob/main/picks/2026-11-18.json",
-      "summary": "Wherobots 推出的地理空间数据 agent：用自然语言提问后，会检索公私有栅格/矢量数据、编写并调试空间 SQL 与分析代码，输出表格和地图，并可把结果安排成在现有数据平台（如 Databricks、Snowflake、AWS Glue 等 Iceberg 兼容平台）上运行的生产管道。由 Apache Sedona 团队打造。",
-      "why": "今日 Product Hunt 日榜约第 5（搜集时约 111 票）。把空间数据和生产管道接到 agent，而不是只生成一段 SQL。",
-      "audience": "需要把卫星影像、地理数据和第一方数据做成可重复分析与生产管道的数据与 GIS 团队",
-      "extraLinks": [
-        {
-          "label": "Product Hunt",
-          "url": "https://www.producthunt.com/products/waldo-by-wherobots"
-        }
-      ],
-      "publishedAt": "2026-11-18T08:00:00Z",
-      "meta": {},
-      "badges": [
-        "radar-pick"
-      ],
-      "lang": "zh",
-      "also": [],
-      "category": "products",
-      "tags": [
-        "agents"
-      ],
-      "score": 46,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "8ed5b87b7fa4",
-      "title": "dusk bot",
-      "url": "https://dusk.bot",
-      "domain": "dusk.bot",
-      "source": "AI Product Radar",
-      "sourceKey": "radarPicks",
-      "sourceUrl": "https://github.com/BENZEMA216/ai-product-radar/blob/main/picks/2026-11-18.json",
-      "summary": "免费开源的本机 AI 同事套件：用你已有的 ChatGPT、Claude、Grok、Gemini、Cursor 等账号，给每个 bot 分配一项工作、一份可编辑记忆和一台可操作的电脑。可定时运行，风险步骤先询问；也可用本地模型。个人使用免费，可选 dusk cloud 让 bot 在电脑合上后继续工作。",
-      "why": "今日 Product Hunt 日榜约第 6（搜集时约 99 票）。明确对标托管式助手：免费、开源、用你已有的模型订阅。",
-      "audience": "想在本机拥有一组各司其职的 AI 助手、又不愿再买一套托管订阅的个人用户",
-      "extraLinks": [
-        {
-          "label": "Product Hunt",
-          "url": "https://www.producthunt.com/products/dusk-bot"
-        }
-      ],
-      "publishedAt": "2026-11-18T08:00:00Z",
-      "meta": {},
-      "badges": [
-        "radar-pick"
-      ],
-      "lang": "zh",
-      "also": [],
-      "category": "models",
-      "tags": [
-        "openai",
-        "anthropic",
-        "google"
-      ],
-      "score": 42,
-      "firstSeen": "2026-11-24T15:24:12.381Z"
-    },
-    {
-      "id": "be1d4a856af8",
-      "title": "Bluedot Phone Calls",
-      "url": "https://bluedothq.com",
-      "domain": "bluedothq.com",
-      "source": "AI Product Radar",
-      "sourceKey": "radarPicks",
-      "sourceUrl": "https://github.com/BENZEMA216/ai-product-radar/blob/main/picks/2026-11-18.json",
-      "summary": "既有会议记笔记工具 Bluedot 新上线的电话能力：可从网页或移动应用拨出电话并保留你自己的来电显示，自动得到转写、摘要和待办。它原本就不往会议里派机器人，而是从本机采集音视频；官方称数据不用于训练模型，并具备 GDPR 与 SOC 2 Type II 合规说明。",
-      "why": "今日 Product Hunt 日榜前列（搜集时与 Toone 同约 134 票）。把「电话」补进已有的会议记录产品，比再做一个纯会议机器人更具体。",
-      "audience": "已经在用或考虑用无机器人入会的会议记录工具、也希望电话沟通被同样整理的团队",
-      "extraLinks": [
-        {
-          "label": "Product Hunt",
-          "url": "https://www.producthunt.com/products/bluedot-2"
-        }
-      ],
-      "publishedAt": "2026-11-18T08:00:00Z",
-      "meta": {},
-      "badges": [
-        "radar-pick"
-      ],
-      "lang": "zh",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 39,
       "firstSeen": "2026-11-24T15:24:12.381Z"
     }
   ]

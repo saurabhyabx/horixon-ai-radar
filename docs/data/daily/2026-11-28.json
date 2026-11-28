@@ -1,65 +1,88 @@
 {
   "date": "2026-11-28",
   "issue": 5,
-  "generatedAt": "2026-11-28T07:40:20.261Z",
+  "generatedAt": "2026-11-28T16:49:53.686Z",
   "stats": {
-    "stories": 41,
-    "sources": 6,
+    "stories": 56,
+    "sources": 7,
     "firstParty": 0,
-    "readMinutes": 14
+    "readMinutes": 20
   },
   "lead": {
-    "id": "3b8b3d993078",
-    "title": "US Air Force's cloud computing platform hacked",
-    "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-    "domain": "news.sky.com",
+    "id": "1b22e6e26759",
+    "title": "Farewell",
+    "url": "https://github.com/p-e-w/heretic/issues/601",
+    "domain": "github.com",
     "source": "Hacker News",
     "sourceKey": "hn",
-    "sourceUrl": "https://news.ycombinator.com/item?id=50666375",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50676672",
     "summary": "",
     "why": "",
     "audience": "",
     "extraLinks": [],
-    "publishedAt": "2026-11-27T12:54:11Z",
+    "publishedAt": "2026-11-28T11:42:26Z",
     "meta": {
-      "points": 343,
-      "comments": 209
+      "points": 717,
+      "comments": 308
     },
     "badges": [],
     "lang": "en",
     "also": [],
-    "category": "products",
+    "category": "github",
     "tags": [],
-    "score": 72,
-    "firstSeen": "2026-11-28T00:01:48.672Z"
+    "score": 81,
+    "firstSeen": "2026-11-28T16:49:51.583Z"
   },
   "highlights": [
     {
-      "id": "64f11cc42feb",
-      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-      "url": "https://bouncemarket.minhanhday.com",
-      "domain": "bouncemarket.minhanhday.com",
+      "id": "00b58e4385b8",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "domain": "xinyadu.github.io",
       "source": "Hacker News",
       "sourceKey": "hn",
-      "sourceUrl": "https://news.ycombinator.com/item?id=50667726",
+      "sourceUrl": "https://news.ycombinator.com/item?id=50676390",
       "summary": "",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-27T15:01:50Z",
+      "publishedAt": "2026-11-28T10:37:40Z",
       "meta": {
-        "points": 365,
-        "comments": 123
+        "points": 431,
+        "comments": 145
       },
-      "badges": [
-        "launch"
-      ],
+      "badges": [],
       "lang": "en",
       "also": [],
-      "category": "industry",
+      "category": "models",
+      "tags": [
+        "anthropic",
+        "coding"
+      ],
+      "score": 80,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
+    },
+    {
+      "id": "3973f080fe72",
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security",
+      "domain": "techcrunch.com",
+      "source": "TechCrunch AI",
+      "sourceKey": "rss",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T14:00:00.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
       "tags": [],
-      "score": 71,
-      "firstSeen": "2026-11-28T00:01:48.672Z"
+      "score": 58,
+      "firstSeen": "2026-11-28T16:49:51.583Z"
     },
     {
       "id": "42f8ff418476",
@@ -84,34 +107,84 @@
       ],
       "score": 58,
       "firstSeen": "2026-11-28T00:01:48.672Z"
-    },
-    {
-      "id": "8850a83cf6f1",
-      "title": "[AINews] Inside the exploding Coding Data Market",
-      "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market",
-      "domain": "latent.space",
-      "source": "Latent Space",
-      "sourceKey": "rss",
-      "sourceUrl": "https://www.latent.space/feed",
-      "summary": "November 27, 2026 — How frontier labs buy training data.",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-28T03:45:59.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "industry",
-      "tags": [
-        "coding"
-      ],
-      "score": 57,
-      "firstSeen": "2026-11-28T07:40:17.240Z"
     }
   ],
   "sections": {
     "models": [
+      {
+        "id": "00b58e4385b8",
+        "title": "Claude Code sabotage: preliminary benchmarking",
+        "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+        "domain": "xinyadu.github.io",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50676390",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-28T10:37:40Z",
+        "meta": {
+          "points": 431,
+          "comments": 145
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [
+          "anthropic",
+          "coding"
+        ],
+        "score": 80,
+        "firstSeen": "2026-11-28T16:49:51.583Z"
+      },
+      {
+        "id": "3973f080fe72",
+        "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+        "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security",
+        "domain": "techcrunch.com",
+        "source": "TechCrunch AI",
+        "sourceKey": "rss",
+        "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-28T14:00:00.000Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [],
+        "score": 58,
+        "firstSeen": "2026-11-28T16:49:51.583Z"
+      },
+      {
+        "id": "3edc0087da83",
+        "title": "kandinskylab/Kandinsky-ImageSR-2.0 (model)",
+        "url": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
+        "domain": "huggingface.co",
+        "source": "Hugging Face",
+        "sourceKey": "huggingface",
+        "sourceUrl": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
+        "summary": "image-to-image · diffusers · 233 likes",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-28T16:49:51.614Z",
+        "meta": {},
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [
+          "image"
+        ],
+        "score": 58,
+        "firstSeen": "2026-11-28T00:01:48.672Z"
+      },
       {
         "id": "68cfb35a007a",
         "title": "datasette-charts 0.4a0",
@@ -137,30 +210,6 @@
         "firstSeen": "2026-11-28T07:40:17.240Z"
       },
       {
-        "id": "3edc0087da83",
-        "title": "kandinskylab/Kandinsky-ImageSR-2.0 (model)",
-        "url": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
-        "domain": "huggingface.co",
-        "source": "Hugging Face",
-        "sourceKey": "huggingface",
-        "sourceUrl": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
-        "summary": "image-to-image · diffusers · 205 likes",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-28T07:40:17.304Z",
-        "meta": {},
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "models",
-        "tags": [
-          "image"
-        ],
-        "score": 56,
-        "firstSeen": "2026-11-28T00:01:48.672Z"
-      },
-      {
         "id": "9d5ba7119b15",
         "title": "baidu/ERNIE-5.5-Flash-Preview (model)",
         "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
@@ -168,11 +217,11 @@
         "source": "Hugging Face",
         "sourceKey": "huggingface",
         "sourceUrl": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
-        "summary": "text-generation · transformers · 394 likes",
+        "summary": "text-generation · transformers · 399 likes",
         "why": "",
         "audience": "",
         "extraLinks": [],
-        "publishedAt": "2026-11-28T07:40:17.304Z",
+        "publishedAt": "2026-11-28T16:49:51.614Z",
         "meta": {},
         "badges": [],
         "lang": "en",
@@ -207,6 +256,31 @@
         "firstSeen": "2026-11-28T07:40:17.240Z"
       },
       {
+        "id": "a47ff2eccf68",
+        "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+        "domain": "malspark.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50676752",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-28T11:57:04Z",
+        "meta": {
+          "points": 124,
+          "comments": 40
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "models",
+        "tags": [],
+        "score": 56,
+        "firstSeen": "2026-11-28T16:49:51.583Z"
+      },
+      {
         "id": "01cdd83d3c55",
         "title": "GPT 6.2 Astra solves a historical mystery",
         "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
@@ -220,7 +294,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-27T15:03:17Z",
         "meta": {
-          "points": 166,
+          "points": 167,
           "comments": 1
         },
         "badges": [],
@@ -245,8 +319,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-27T18:59:55Z",
         "meta": {
-          "points": 52,
-          "comments": 11
+          "points": 60,
+          "comments": 15
         },
         "badges": [
           "launch"
@@ -260,31 +334,6 @@
       }
     ],
     "products": [
-      {
-        "id": "3b8b3d993078",
-        "title": "US Air Force's cloud computing platform hacked",
-        "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-        "domain": "news.sky.com",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50666375",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-27T12:54:11Z",
-        "meta": {
-          "points": 343,
-          "comments": 209
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "products",
-        "tags": [],
-        "score": 72,
-        "firstSeen": "2026-11-28T00:01:48.672Z"
-      },
       {
         "id": "cc2646aaf051",
         "title": "Android’s DIY widgets are a bit of vibe-coding fun",
@@ -310,6 +359,58 @@
         "firstSeen": "2026-11-28T00:01:48.672Z"
       },
       {
+        "id": "6e1690b6807c",
+        "title": "Audible removes download option for purchased audiobooks",
+        "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+        "domain": "consumerrights.wiki",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50676723",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-28T11:51:27Z",
+        "meta": {
+          "points": 373,
+          "comments": 164
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "products",
+        "tags": [
+          "voice"
+        ],
+        "score": 78,
+        "firstSeen": "2026-11-28T16:49:51.583Z"
+      },
+      {
+        "id": "3b8b3d993078",
+        "title": "US Air Force's cloud computing platform hacked",
+        "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+        "domain": "news.sky.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50666375",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-27T12:54:11Z",
+        "meta": {
+          "points": 352,
+          "comments": 215
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "products",
+        "tags": [],
+        "score": 72,
+        "firstSeen": "2026-11-28T00:01:48.672Z"
+      },
+      {
         "id": "f21d90605390",
         "title": "I'm Scared of AI",
         "url": "https://thesoapbox.email/archive/3",
@@ -323,8 +424,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-27T17:45:31Z",
         "meta": {
-          "points": 210,
-          "comments": 246
+          "points": 217,
+          "comments": 248
         },
         "badges": [],
         "lang": "en",
@@ -348,8 +449,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-27T12:43:40Z",
         "meta": {
-          "points": 196,
-          "comments": 226
+          "points": 200,
+          "comments": 228
         },
         "badges": [],
         "lang": "en",
@@ -357,31 +458,6 @@
         "category": "products",
         "tags": [],
         "score": 64,
-        "firstSeen": "2026-11-28T00:01:48.672Z"
-      },
-      {
-        "id": "4c2310f3b8e4",
-        "title": "Kimi for Science: More scientific ideas, made possible",
-        "url": "https://kimi.ai/news/kimi-for-science-program",
-        "domain": "kimi.ai",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50665920",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-27T12:03:11Z",
-        "meta": {
-          "points": 184,
-          "comments": 155
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "products",
-        "tags": [],
-        "score": 61,
         "firstSeen": "2026-11-28T00:01:48.672Z"
       },
       {
@@ -398,16 +474,93 @@
         "extraLinks": [],
         "publishedAt": "2026-11-28T01:32:56Z",
         "meta": {
-          "points": 154,
-          "comments": 119
+          "points": 204,
+          "comments": 163
         },
         "badges": [],
         "lang": "en",
         "also": [],
         "category": "products",
         "tags": [],
-        "score": 60,
+        "score": 62,
         "firstSeen": "2026-11-28T07:40:17.240Z"
+      },
+      {
+        "id": "4c2310f3b8e4",
+        "title": "Kimi for Science: More scientific ideas, made possible",
+        "url": "https://kimi.ai/news/kimi-for-science-program",
+        "domain": "kimi.ai",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50665920",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-27T12:03:11Z",
+        "meta": {
+          "points": 186,
+          "comments": 160
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "products",
+        "tags": [],
+        "score": 61,
+        "firstSeen": "2026-11-28T00:01:48.672Z"
+      },
+      {
+        "id": "f68a8c3baa45",
+        "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+        "url": "https://scriptor-pro.github.io/luciole-mono",
+        "domain": "scriptor-pro.github.io",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50677091",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-28T12:50:15Z",
+        "meta": {
+          "points": 90,
+          "comments": 34
+        },
+        "badges": [
+          "launch"
+        ],
+        "lang": "en",
+        "also": [],
+        "category": "products",
+        "tags": [],
+        "score": 54,
+        "firstSeen": "2026-11-28T16:49:51.583Z"
+      },
+      {
+        "id": "787cdf12ea13",
+        "title": "AI Isn't That Dangerous",
+        "url": "https://verysane.ai/p/ai-isnt-that-dangerous",
+        "domain": "verysane.ai",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50678186",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-28T14:42:41Z",
+        "meta": {
+          "points": 50,
+          "comments": 56
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "products",
+        "tags": [],
+        "score": 53,
+        "firstSeen": "2026-11-28T16:49:51.583Z"
       },
       {
         "id": "2c3ac5a2eb65",
@@ -423,8 +576,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-27T21:48:14Z",
         "meta": {
-          "points": 115,
-          "comments": 27
+          "points": 153,
+          "comments": 44
         },
         "badges": [],
         "lang": "en",
@@ -433,113 +586,9 @@
         "tags": [],
         "score": 53,
         "firstSeen": "2026-11-28T00:01:48.672Z"
-      },
-      {
-        "id": "bc7b71945fa1",
-        "title": "Source Control from Hell",
-        "url": "https://frantic.im/git",
-        "domain": "frantic.im",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50672142",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-27T22:06:44Z",
-        "meta": {
-          "points": 86,
-          "comments": 66
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "products",
-        "tags": [],
-        "score": 52,
-        "firstSeen": "2026-11-28T07:40:17.240Z"
-      },
-      {
-        "id": "784f7b224239",
-        "title": "Show HN: DragDropMath – Learn math by feel",
-        "url": "https://dragdropmath.com",
-        "domain": "dragdropmath.com",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50669673",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-27T17:56:28Z",
-        "meta": {
-          "points": 126,
-          "comments": 37
-        },
-        "badges": [
-          "launch"
-        ],
-        "lang": "en",
-        "also": [],
-        "category": "products",
-        "tags": [],
-        "score": 52,
-        "firstSeen": "2026-11-28T00:01:48.672Z"
-      },
-      {
-        "id": "fc0f61fdbb51",
-        "title": "Making a 3D fantasy map like a 16th-Century atlas",
-        "url": "https://spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
-        "domain": "spritefusion.com",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50667062",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-27T14:02:52Z",
-        "meta": {
-          "points": 117,
-          "comments": 15
-        },
-        "badges": [],
-        "lang": "en",
-        "also": [],
-        "category": "products",
-        "tags": [],
-        "score": 50,
-        "firstSeen": "2026-11-28T00:01:48.672Z"
       }
     ],
     "industry": [
-      {
-        "id": "64f11cc42feb",
-        "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-        "url": "https://bouncemarket.minhanhday.com",
-        "domain": "bouncemarket.minhanhday.com",
-        "source": "Hacker News",
-        "sourceKey": "hn",
-        "sourceUrl": "https://news.ycombinator.com/item?id=50667726",
-        "summary": "",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-27T15:01:50Z",
-        "meta": {
-          "points": 365,
-          "comments": 123
-        },
-        "badges": [
-          "launch"
-        ],
-        "lang": "en",
-        "also": [],
-        "category": "industry",
-        "tags": [],
-        "score": 71,
-        "firstSeen": "2026-11-28T00:01:48.672Z"
-      },
       {
         "id": "8850a83cf6f1",
         "title": "[AINews] Inside the exploding Coding Data Market",
@@ -563,10 +612,62 @@
         ],
         "score": 57,
         "firstSeen": "2026-11-28T07:40:17.240Z"
+      },
+      {
+        "id": "64f11cc42feb",
+        "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+        "url": "https://bouncemarket.minhanhday.com",
+        "domain": "bouncemarket.minhanhday.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50667726",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-27T15:01:50Z",
+        "meta": {
+          "points": 407,
+          "comments": 137
+        },
+        "badges": [
+          "launch"
+        ],
+        "lang": "en",
+        "also": [],
+        "category": "industry",
+        "tags": [],
+        "score": 71,
+        "firstSeen": "2026-11-28T00:01:48.672Z"
       }
     ],
     "research": [],
     "github": [
+      {
+        "id": "1b22e6e26759",
+        "title": "Farewell",
+        "url": "https://github.com/p-e-w/heretic/issues/601",
+        "domain": "github.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50676672",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-28T11:42:26Z",
+        "meta": {
+          "points": 717,
+          "comments": 308
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "github",
+        "tags": [],
+        "score": 81,
+        "firstSeen": "2026-11-28T16:49:51.583Z"
+      },
       {
         "id": "627069b91634",
         "title": "titisseptian-SS/omniroute-explorer — OmniRoute Explorer: Lightweight, Open-Access Routing Tool",
@@ -581,7 +682,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-26T22:49:29Z",
         "meta": {
-          "stars": 140,
+          "stars": 212,
           "language": "HTML"
         },
         "badges": [
@@ -608,7 +709,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-26T23:24:29Z",
         "meta": {
-          "stars": 139,
+          "stars": 211,
           "language": "HTML"
         },
         "badges": [
@@ -635,15 +736,15 @@
         "extraLinks": [],
         "publishedAt": "2026-11-27T18:02:45Z",
         "meta": {
-          "points": 285,
-          "comments": 91
+          "points": 349,
+          "comments": 118
         },
         "badges": [],
         "lang": "en",
         "also": [],
         "category": "github",
         "tags": [],
-        "score": 65,
+        "score": 67,
         "firstSeen": "2026-11-28T00:01:48.672Z"
       },
       {
@@ -660,8 +761,8 @@
         "extraLinks": [],
         "publishedAt": "2026-11-27T20:23:14Z",
         "meta": {
-          "points": 56,
-          "comments": 20
+          "points": 85,
+          "comments": 36
         },
         "badges": [],
         "lang": "en",
@@ -672,6 +773,31 @@
         ],
         "score": 48,
         "firstSeen": "2026-11-28T07:40:17.240Z"
+      },
+      {
+        "id": "03c7729ee4f1",
+        "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+        "domain": "github.com",
+        "source": "Hacker News",
+        "sourceKey": "hn",
+        "sourceUrl": "https://news.ycombinator.com/item?id=50670088",
+        "summary": "",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-27T18:28:29Z",
+        "meta": {
+          "points": 43,
+          "comments": 8
+        },
+        "badges": [],
+        "lang": "en",
+        "also": [],
+        "category": "github",
+        "tags": [],
+        "score": 42,
+        "firstSeen": "2026-11-28T16:49:51.583Z"
       },
       {
         "id": "85080ae8ef29",
@@ -687,7 +813,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-26T21:28:00Z",
         "meta": {
-          "stars": 141,
+          "stars": 210,
           "language": "HTML"
         },
         "badges": [
@@ -703,6 +829,35 @@
         "firstSeen": "2026-11-28T00:01:48.672Z"
       },
       {
+        "id": "d42552f2269d",
+        "title": "sol1560/Captae — Local media downloader and library for macOS, Windows and Linux, with a browser extension and an MCP",
+        "url": "https://github.com/sol1560/Captae",
+        "domain": "github.com",
+        "source": "GitHub",
+        "sourceKey": "github",
+        "sourceUrl": "https://github.com/sol1560/Captae",
+        "summary": "Local media downloader and library for macOS, Windows and Linux, with a browser extension and an MCP server for AI assistants",
+        "why": "",
+        "audience": "",
+        "extraLinks": [],
+        "publishedAt": "2026-11-26T17:28:47Z",
+        "meta": {
+          "stars": 479,
+          "language": "Rust"
+        },
+        "badges": [
+          "open-source"
+        ],
+        "lang": "en",
+        "also": [],
+        "category": "github",
+        "tags": [
+          "mcp"
+        ],
+        "score": 35,
+        "firstSeen": "2026-11-28T16:49:51.583Z"
+      },
+      {
         "id": "0819198e49a1",
         "title": "1lamech/ai-image-generator-prompts — AI Image Generator Prompts: Openly Available Prompt Corpus for Methodical Evaluation",
         "url": "https://github.com/1lamech/ai-image-generator-prompts",
@@ -716,7 +871,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-26T19:50:07Z",
         "meta": {
-          "stars": 140,
+          "stars": 211,
           "language": "HTML"
         },
         "badges": [
@@ -745,7 +900,7 @@
         "extraLinks": [],
         "publishedAt": "2026-11-26T19:49:58Z",
         "meta": {
-          "stars": 140,
+          "stars": 208,
           "language": "HTML"
         },
         "badges": [
@@ -759,91 +914,6 @@
         ],
         "score": 35,
         "firstSeen": "2026-11-28T00:01:48.672Z"
-      },
-      {
-        "id": "fe6efe854fc0",
-        "title": "khalilur14103026/crypto-accumulation-scanner — Community-Driven Crypto Accumulation Scanner with Telegram Alerts and Rich Features",
-        "url": "https://github.com/khalilur14103026/crypto-accumulation-scanner",
-        "domain": "github.com",
-        "source": "GitHub",
-        "sourceKey": "github",
-        "sourceUrl": "https://github.com/khalilur14103026/crypto-accumulation-scanner",
-        "summary": "Community-Driven Crypto Accumulation Scanner with Telegram Alerts and Rich Features",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-26T20:49:02Z",
-        "meta": {
-          "stars": 140,
-          "language": "HTML"
-        },
-        "badges": [
-          "open-source"
-        ],
-        "lang": "en",
-        "also": [],
-        "category": "github",
-        "tags": [],
-        "score": 35,
-        "firstSeen": "2026-11-28T00:01:48.672Z"
-      },
-      {
-        "id": "14ba7cf031a2",
-        "title": "thebodytheory01-commits/final-round-ai-desktop — Final Round AI Desktop: Real-Time Interview Coaching, Speech Transcription, and Response Suggestions",
-        "url": "https://github.com/thebodytheory01-commits/final-round-ai-desktop",
-        "domain": "github.com",
-        "source": "GitHub",
-        "sourceKey": "github",
-        "sourceUrl": "https://github.com/thebodytheory01-commits/final-round-ai-desktop",
-        "summary": "Final Round AI Desktop: Real-Time Interview Coaching, Speech Transcription, and Response Suggestions",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-26T21:37:37Z",
-        "meta": {
-          "stars": 141,
-          "language": "HTML"
-        },
-        "badges": [
-          "open-source"
-        ],
-        "lang": "en",
-        "also": [],
-        "category": "github",
-        "tags": [
-          "voice"
-        ],
-        "score": 34,
-        "firstSeen": "2026-11-28T07:40:17.240Z"
-      },
-      {
-        "id": "497858fa62e4",
-        "title": "Birubhai1964/interview-copilot — Interview Copilot: EdTech Platform Connecting Learning to Your Dream Career",
-        "url": "https://github.com/Birubhai1964/interview-copilot",
-        "domain": "github.com",
-        "source": "GitHub",
-        "sourceKey": "github",
-        "sourceUrl": "https://github.com/Birubhai1964/interview-copilot",
-        "summary": "Interview Copilot: EdTech Platform Connecting Learning to Your Dream Career",
-        "why": "",
-        "audience": "",
-        "extraLinks": [],
-        "publishedAt": "2026-11-26T21:57:38Z",
-        "meta": {
-          "stars": 141,
-          "language": "HTML"
-        },
-        "badges": [
-          "open-source"
-        ],
-        "lang": "en",
-        "also": [],
-        "category": "github",
-        "tags": [
-          "microsoft"
-        ],
-        "score": 34,
-        "firstSeen": "2026-11-28T07:40:17.240Z"
       }
     ],
     "founders": [

@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-28T07:40:17.240Z",
+  "updatedAt": "2026-11-28T16:49:51.583Z",
   "items": [
+    {
+      "id": "1b22e6e26759",
+      "title": "Farewell",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "link": "https://github.com/p-e-w/heretic/issues/601",
+      "why": "",
+      "source": "Hacker News",
+      "category": "github",
+      "score": 81,
+      "sentAt": "2026-11-28T16:49:51.583Z",
+      "channels": []
+    },
+    {
+      "id": "00b58e4385b8",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "link": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "why": "",
+      "source": "Hacker News",
+      "category": "models",
+      "score": 80,
+      "sentAt": "2026-11-28T16:49:51.583Z",
+      "channels": []
+    },
+    {
+      "id": "6e1690b6807c",
+      "title": "Audible removes download option for purchased audiobooks",
+      "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "link": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "why": "",
+      "source": "Hacker News",
+      "category": "products",
+      "score": 78,
+      "sentAt": "2026-11-28T16:49:51.583Z",
+      "channels": []
+    },
     {
       "id": "f21d90605390",
       "title": "I'm Scared of AI",
