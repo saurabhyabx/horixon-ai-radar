@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-28T00:01:48.672Z",
+  "updatedAt": "2026-11-28T07:40:17.240Z",
   "items": [
+    {
+      "id": "f21d90605390",
+      "title": "I'm Scared of AI",
+      "url": "https://thesoapbox.email/archive/3",
+      "link": "https://thesoapbox.email/archive/3",
+      "why": "",
+      "source": "Hacker News",
+      "category": "products",
+      "score": 67,
+      "sentAt": "2026-11-28T07:40:17.240Z",
+      "channels": []
+    },
+    {
+      "id": "e3fd524c3c50",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "link": "https://github.com/convex/convex-backend-skill/issues/64",
+      "why": "",
+      "source": "Hacker News",
+      "category": "github",
+      "score": 65,
+      "sentAt": "2026-11-28T07:40:17.240Z",
+      "channels": []
+    },
+    {
+      "id": "3575fe1f68c2",
+      "title": "New York and California age gating rules go into effect in the new year",
+      "url": "https://eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "link": "https://eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "why": "",
+      "source": "Hacker News",
+      "category": "products",
+      "score": 64,
+      "sentAt": "2026-11-28T07:40:17.240Z",
+      "channels": []
+    },
+    {
+      "id": "4c2310f3b8e4",
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "url": "https://kimi.ai/news/kimi-for-science-program",
+      "link": "https://kimi.ai/news/kimi-for-science-program",
+      "why": "",
+      "source": "Hacker News",
+      "category": "products",
+      "score": 61,
+      "sentAt": "2026-11-28T07:40:17.240Z",
+      "channels": []
+    },
+    {
+      "id": "4e825df2be8b",
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "why": "",
+      "source": "Hacker News",
+      "category": "products",
+      "score": 60,
+      "sentAt": "2026-11-28T07:40:17.240Z",
+      "channels": []
+    },
     {
       "id": "138e1e18872d",
       "title": "Claude sabotaging ML research tasks?",

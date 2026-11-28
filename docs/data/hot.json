@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:01:48.672Z",
+  "generatedAt": "2026-11-28T07:40:17.240Z",
   "items": [
     {
       "id": "74835a583675",
@@ -15,8 +15,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T06:44:34Z",
       "meta": {
-        "points": 681,
-        "comments": 282
+        "points": 701,
+        "comments": 288
       },
       "badges": [],
       "lang": "en",
@@ -40,8 +40,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T01:13:49Z",
       "meta": {
-        "points": 548,
-        "comments": 465
+        "points": 562,
+        "comments": 480
       },
       "badges": [],
       "lang": "en",
@@ -65,8 +65,8 @@
       "extraLinks": [],
       "publishedAt": "2026-11-27T08:28:08Z",
       "meta": {
-        "points": 553,
-        "comments": 278
+        "points": 669,
+        "comments": 304
       },
       "badges": [],
       "lang": "en",
@@ -92,7 +92,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T17:53:07Z",
       "meta": {
-        "stars": 662,
+        "stars": 898,
         "language": "Python"
       },
       "badges": [
@@ -147,11 +147,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
-      "summary": "text-to-image · transformers · 341 likes",
+      "summary": "text-to-image · transformers · 345 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "publishedAt": "2026-11-28T07:40:17.304Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -172,11 +172,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-      "summary": "text-generation · llama.cpp · 635 likes",
+      "summary": "text-generation · llama.cpp · 653 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "publishedAt": "2026-11-28T07:40:17.304Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -196,11 +196,11 @@
       "source": "Hugging Face",
       "sourceKey": "huggingface",
       "sourceUrl": "https://huggingface.co/llamaindex/OCRia-nano-1",
-      "summary": "image-to-text · liteparse · 355 likes",
+      "summary": "image-to-text · liteparse · 366 likes",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-28T00:01:48.715Z",
+      "publishedAt": "2026-11-28T07:40:17.304Z",
       "meta": {},
       "badges": [],
       "lang": "en",
@@ -236,30 +236,6 @@
       "tags": [],
       "score": 61,
       "firstSeen": "2026-11-27T00:33:56.775Z"
-    },
-    {
-      "id": "d3aa48daa62d",
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "domain": "huggingface.co",
-      "source": "Hugging Face Blog",
-      "sourceKey": "rss",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T05:05:36.000Z",
-      "meta": {},
-      "badges": [
-        "first-party"
-      ],
-      "lang": "en",
-      "also": [],
-      "category": "models",
-      "tags": [],
-      "score": 60,
-      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "2d7f8b4f8454",
@@ -361,6 +337,30 @@
       "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
+      "id": "8850a83cf6f1",
+      "title": "[AINews] Inside the exploding Coding Data Market",
+      "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market",
+      "domain": "latent.space",
+      "source": "Latent Space",
+      "sourceKey": "rss",
+      "sourceUrl": "https://www.latent.space/feed",
+      "summary": "November 27, 2026 — How frontier labs buy training data.",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-28T03:45:59.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "industry",
+      "tags": [
+        "coding"
+      ],
+      "score": 57,
+      "firstSeen": "2026-11-28T07:40:17.240Z"
+    },
+    {
       "id": "c881f1e71110",
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
@@ -407,6 +407,30 @@
       "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
+      "id": "68cfb35a007a",
+      "title": "datasette-charts 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts",
+      "domain": "simonwillison.net",
+      "source": "Simon Willison",
+      "sourceKey": "rss",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the…",
+      "why": "",
+      "audience": "",
+      "extraLinks": [],
+      "publishedAt": "2026-11-27T23:57:17.000Z",
+      "meta": {},
+      "badges": [],
+      "lang": "en",
+      "also": [],
+      "category": "models",
+      "tags": [
+        "anthropic"
+      ],
+      "score": 56,
+      "firstSeen": "2026-11-28T07:40:17.240Z"
+    },
+    {
       "id": "355eb2e5ee20",
       "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
       "url": "https://wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light",
@@ -427,28 +451,6 @@
       "tags": [],
       "score": 56,
       "firstSeen": "2026-11-27T13:48:22.457Z"
-    },
-    {
-      "id": "7fcbebbe6634",
-      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
-      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
-      "domain": "simonwillison.net",
-      "source": "Simon Willison",
-      "sourceKey": "rss",
-      "sourceUrl": "https://simonwillison.net/atom/everything/",
-      "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive characteristics. Normally, if you…",
-      "why": "",
-      "audience": "",
-      "extraLinks": [],
-      "publishedAt": "2026-11-26T06:08:25.000Z",
-      "meta": {},
-      "badges": [],
-      "lang": "en",
-      "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 56,
-      "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
       "id": "cc2646aaf051",
@@ -659,26 +661,28 @@
       "firstSeen": "2026-11-26T13:50:33.325Z"
     },
     {
-      "id": "4faaa3acd738",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685",
+      "id": "a628d534a141",
+      "title": "datasette-mcp 0.4",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp",
       "domain": "simonwillison.net",
       "source": "Simon Willison",
       "sourceKey": "rss",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
-      "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said…",
+      "summary": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
       "why": "",
       "audience": "",
       "extraLinks": [],
-      "publishedAt": "2026-11-26T05:08:46.000Z",
+      "publishedAt": "2026-11-27T00:26:17.000Z",
       "meta": {},
       "badges": [],
       "lang": "en",
       "also": [],
-      "category": "products",
-      "tags": [],
-      "score": 38,
-      "firstSeen": "2026-11-28T00:01:48.672Z"
+      "category": "models",
+      "tags": [
+        "mcp"
+      ],
+      "score": 45,
+      "firstSeen": "2026-11-28T07:40:17.240Z"
     },
     {
       "id": "627069b91634",
@@ -694,7 +698,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T22:49:29Z",
       "meta": {
-        "stars": 34,
+        "stars": 140,
         "language": "HTML"
       },
       "badges": [
@@ -721,7 +725,7 @@
       "extraLinks": [],
       "publishedAt": "2026-11-26T23:24:29Z",
       "meta": {
-        "stars": 31,
+        "stars": 139,
         "language": "HTML"
       },
       "badges": [

@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-28T00:01:48.672Z",
+  "generatedAt": "2026-11-28T07:40:17.240Z",
   "topics": [
     {
       "tag": "agents",
-      "count": 61
+      "count": 63
     },
     {
       "tag": "coding",
-      "count": 41
+      "count": 44
     },
     {
       "tag": "anthropic",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "nvidia",
@@ -30,12 +30,12 @@
       "count": 18
     },
     {
-      "tag": "video",
+      "tag": "mcp",
       "count": 16
     },
     {
-      "tag": "mcp",
-      "count": 15
+      "tag": "video",
+      "count": 16
     },
     {
       "tag": "open-source",
@@ -47,7 +47,7 @@
     },
     {
       "tag": "voice",
-      "count": 5
+      "count": 6
     },
     {
       "tag": "funding",
@@ -55,7 +55,7 @@
     },
     {
       "tag": "microsoft",
-      "count": 2
+      "count": 3
     }
   ]
 }
